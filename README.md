@@ -17,7 +17,7 @@
 
 ### 🏠 Home — KPI Metrics & Monthly Trend
 <p align="center">
-  <img src="C:\Users\nehaj\OneDrive\图片\table.png" width="90%"/>
+  <img src="images/dashboard.png" width="90%"/>
   <br/>
   <em>Total expense overview with monthly trend line chart</em>
 </p>
@@ -44,7 +44,7 @@
 
 ### 🥧 Expense Distribution
 <p align="center">
-  <img src="images/expense_distribution.png" width="90%"/>
+  <img src="images/pie_chart.png" width="90%"/>
   <br/>
   <em>Interactive pie chart — Shopping (24.8%) and Food & Dining (17.7%) are top categories</em>
 </p>
@@ -53,7 +53,7 @@
 
 ### 💡 Insights & Transactions
 <p align="center">
-  <img src="images/insights_transactions.png" width="90%"/>
+  <img src="images/table.png" width="90%"/>
   <br/>
   <em>AI-powered spending insights with filterable transaction table</em>
 </p>
