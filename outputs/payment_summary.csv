@@ -1,0 +1,6 @@
+payment_method,total_spent,num_txns,pct_of_total
+UPI,1004605,426,39.05
+Credit Card,651369,255,25.32
+Debit Card,464345,206,18.05
+Cash,277649,88,10.79
+Net Banking,174386,60,6.78

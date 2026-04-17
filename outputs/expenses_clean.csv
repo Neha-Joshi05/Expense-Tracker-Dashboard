@@ -1,0 +1,1036 @@
+date,category,amount,payment_method,description,month,month_num,day_of_week,is_weekend,week_of_year,transaction_id,quarter,week_part,expense_size,is_essential,cumulative_monthly_spend,day_of_month,vs_monthly_avg
+2024-01-01,Food & Dining,1060,UPI,Street food,January,1,Monday,0,1,TXN1000,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,1060,1,-56.05
+2024-01-01,Transportation,171,UPI,Metro card recharge,January,1,Monday,0,1,TXN1001,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,1231,1,-92.91
+2024-01-01,Utilities,2891,Debit Card,DTH recharge,January,1,Monday,0,1,TXN1002,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,4122,1,19.88
+2024-01-01,Rent,12000,Net Banking,Monthly rent,January,1,Monday,0,1,TXN1003,Q1 (Jan-Mar),Weekday,Very Large (5000+),Essential,16122,1,397.59
+2024-01-02,Food & Dining,674,Credit Card,Swiggy delivery,January,1,Tuesday,0,1,TXN1004,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,16796,2,-72.05
+2024-01-02,Transportation,749,UPI,Bus ticket,January,1,Tuesday,0,1,TXN1005,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,17545,2,-68.94
+2024-01-02,Shopping,3505,UPI,Electronics,January,1,Tuesday,0,1,TXN1006,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,21050,2,45.34
+2024-01-02,Health,4190,Debit Card,Doctor consultation,January,1,Tuesday,0,1,TXN1007,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,25240,2,73.74
+2024-01-02,Education,9792,Net Banking,Books,January,1,Tuesday,0,1,TXN1008,Q1 (Jan-Mar),Weekday,Very Large (5000+),Essential,35032,2,306.04
+2024-01-02,Rent,12000,UPI,PG accommodation,January,1,Tuesday,0,1,TXN1009,Q1 (Jan-Mar),Weekday,Very Large (5000+),Essential,47032,2,397.59
+2024-01-03,Food & Dining,234,Cash,Cafe coffee,January,1,Wednesday,0,1,TXN1010,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,47266,3,-90.3
+2024-01-03,Transportation,437,UPI,Bus ticket,January,1,Wednesday,0,1,TXN1011,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,47703,3,-81.88
+2024-01-03,Shopping,4343,UPI,Flipkart order,January,1,Wednesday,0,1,TXN1012,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,52046,3,80.09
+2024-01-03,Groceries,4798,Credit Card,Milk & dairy,January,1,Wednesday,0,1,TXN1013,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,56844,3,98.95
+2024-01-04,Food & Dining,537,Credit Card,Swiggy delivery,January,1,Thursday,0,1,TXN1017,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,57381,4,-77.73
+2024-01-04,Entertainment,1380,Debit Card,Netflix subscription,January,1,Thursday,0,1,TXN1016,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,58761,4,-42.78
+2024-01-04,Health,2868,Debit Card,Lab tests,January,1,Thursday,0,1,TXN1015,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,61629,4,18.92
+2024-01-04,Utilities,2022,Debit Card,Mobile recharge,January,1,Thursday,0,1,TXN1014,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,63651,4,-16.16
+2024-01-05,Food & Dining,2382,Cash,Cafe coffee,January,1,Friday,0,1,TXN1018,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,66033,5,-1.23
+2024-01-05,Transportation,97,UPI,Bus ticket,January,1,Friday,0,1,TXN1019,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,66130,5,-95.98
+2024-01-06,Food & Dining,834,Credit Card,Swiggy delivery,January,1,Saturday,1,1,TXN1020,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,66964,6,-65.42
+2024-01-06,Transportation,510,UPI,Ola cab,January,1,Saturday,1,1,TXN1021,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,67474,6,-78.85
+2024-01-07,Food & Dining,3173,Debit Card,Zomato order,January,1,Sunday,1,1,TXN1022,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,70647,7,31.57
+2024-01-07,Transportation,77,UPI,Petrol,January,1,Sunday,1,1,TXN1023,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,70724,7,-96.81
+2024-01-08,Food & Dining,1968,UPI,Lunch with friends,January,1,Monday,0,2,TXN1024,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,72692,8,-18.39
+2024-01-08,Transportation,698,Credit Card,Ola cab,January,1,Monday,0,2,TXN1025,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,73390,8,-71.06
+2024-01-08,Shopping,5279,UPI,Clothes shopping,January,1,Monday,0,2,TXN1026,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,78669,8,118.9
+2024-01-09,Food & Dining,1836,UPI,Zomato order,January,1,Tuesday,0,2,TXN1027,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,80505,9,-23.87
+2024-01-09,Transportation,51,Credit Card,Bus ticket,January,1,Tuesday,0,2,TXN1028,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,80556,9,-97.89
+2024-01-09,Shopping,6355,Cash,Clothes shopping,January,1,Tuesday,0,2,TXN1029,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,86911,9,163.52
+2024-01-09,Groceries,4255,UPI,Milk & dairy,January,1,Tuesday,0,2,TXN1030,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,91166,9,76.44
+2024-01-10,Transportation,236,UPI,Auto rickshaw,January,1,Wednesday,0,2,TXN1033,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,91402,10,-90.21
+2024-01-10,Groceries,1488,Debit Card,Blinkit delivery,January,1,Wednesday,0,2,TXN1031,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,92890,10,-38.3
+2024-01-10,Food & Dining,397,UPI,Zomato order,January,1,Wednesday,0,2,TXN1032,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,93287,10,-83.54
+2024-01-11,Food & Dining,2169,Cash,Lunch with friends,January,1,Thursday,0,2,TXN1034,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,95456,11,-10.06
+2024-01-11,Shopping,6787,Debit Card,Amazon purchase,January,1,Thursday,0,2,TXN1035,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,102243,11,181.43
+2024-01-12,Food & Dining,1882,Debit Card,Restaurant dinner,January,1,Friday,0,2,TXN1036,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,104125,12,-21.96
+2024-01-13,Groceries,1397,UPI,Supermarket,January,1,Saturday,1,2,TXN1037,Q1 (Jan-Mar),Weekend,Medium (500-2000),Essential,105522,13,-42.07
+2024-01-14,Food & Dining,2074,Credit Card,Cafe coffee,January,1,Sunday,1,2,TXN1038,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,107596,14,-14.0
+2024-01-14,Transportation,519,UPI,Bus ticket,January,1,Sunday,1,2,TXN1039,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,108115,14,-78.48
+2024-01-15,Transportation,708,Credit Card,Ola cab,January,1,Monday,0,3,TXN1040,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,108823,15,-70.64
+2024-01-15,Shopping,7839,Cash,Home decor,January,1,Monday,0,3,TXN1041,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,116662,15,225.05
+2024-01-15,Entertainment,2765,UPI,Netflix subscription,January,1,Monday,0,3,TXN1042,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,119427,15,14.65
+2024-01-16,Food & Dining,2206,UPI,Restaurant dinner,January,1,Tuesday,0,3,TXN1043,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,121633,16,-8.53
+2024-01-16,Transportation,784,Debit Card,Metro card recharge,January,1,Tuesday,0,3,TXN1044,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,122417,16,-67.49
+2024-01-16,Entertainment,1886,UPI,Spotify premium,January,1,Tuesday,0,3,TXN1045,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,124303,16,-21.79
+2024-01-17,Food & Dining,737,Debit Card,Zomato order,January,1,Wednesday,0,3,TXN1047,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,125040,17,-69.44
+2024-01-17,Transportation,555,UPI,Petrol,January,1,Wednesday,0,3,TXN1046,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,125595,17,-76.99
+2024-01-18,Food & Dining,1053,UPI,Swiggy delivery,January,1,Thursday,0,3,TXN1048,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,126648,18,-56.34
+2024-01-18,Transportation,174,Debit Card,Uber ride,January,1,Thursday,0,3,TXN1049,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,126822,18,-92.78
+2024-01-18,Shopping,2215,UPI,Myntra order,January,1,Thursday,0,3,TXN1050,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,129037,18,-8.15
+2024-01-19,Food & Dining,246,Debit Card,Cafe coffee,January,1,Friday,0,3,TXN1051,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,129283,19,-89.8
+2024-01-19,Transportation,419,Credit Card,Bus ticket,January,1,Friday,0,3,TXN1052,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,129702,19,-82.63
+2024-01-19,Shopping,619,UPI,Electronics,January,1,Friday,0,3,TXN1053,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,130321,19,-74.33
+2024-01-19,Utilities,1650,Debit Card,Gas cylinder,January,1,Friday,0,3,TXN1054,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,131971,19,-31.58
+2024-01-20,Food & Dining,1992,Debit Card,Street food,January,1,Saturday,1,3,TXN1055,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,133963,20,-17.4
+2024-01-20,Transportation,238,Debit Card,Auto rickshaw,January,1,Saturday,1,3,TXN1056,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,134201,20,-90.13
+2024-01-20,Rent,12000,UPI,Monthly rent,January,1,Saturday,1,3,TXN1057,Q1 (Jan-Mar),Weekend,Very Large (5000+),Essential,146201,20,397.59
+2024-01-20,Groceries,3141,Cash,Supermarket,January,1,Saturday,1,3,TXN1058,Q1 (Jan-Mar),Weekend,Large (2000-5000),Essential,149342,20,30.25
+2024-01-21,Shopping,9516,Cash,Amazon purchase,January,1,Sunday,1,3,TXN1060,Q1 (Jan-Mar),Weekend,Very Large (5000+),Non-Essential,158858,21,294.59
+2024-01-21,Food & Dining,1003,Credit Card,Street food,January,1,Sunday,1,3,TXN1061,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,159861,21,-58.41
+2024-01-21,Transportation,571,Cash,Petrol,January,1,Sunday,1,3,TXN1059,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,160432,21,-76.32
+2024-01-22,Utilities,2130,UPI,Gas cylinder,January,1,Monday,0,4,TXN1063,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,162562,22,-11.68
+2024-01-22,Food & Dining,2131,UPI,Cafe coffee,January,1,Monday,0,4,TXN1064,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,164693,22,-11.64
+2024-01-22,Transportation,740,Debit Card,Petrol,January,1,Monday,0,4,TXN1062,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,165433,22,-69.32
+2024-01-23,Food & Dining,1825,UPI,Restaurant dinner,January,1,Tuesday,0,4,TXN1065,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,167258,23,-24.32
+2024-01-23,Transportation,245,Debit Card,Uber ride,January,1,Tuesday,0,4,TXN1066,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,167503,23,-89.84
+2024-01-24,Transportation,145,UPI,Bus ticket,January,1,Wednesday,0,4,TXN1067,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,167648,24,-93.99
+2024-01-24,Entertainment,1748,Debit Card,Spotify premium,January,1,Wednesday,0,4,TXN1068,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,169396,24,-27.52
+2024-01-24,Health,4252,Credit Card,Doctor consultation,January,1,Wednesday,0,4,TXN1069,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,173648,24,76.31
+2024-01-24,Groceries,4304,Debit Card,BigBasket order,January,1,Wednesday,0,4,TXN1070,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,177952,24,78.47
+2024-01-26,Food & Dining,2356,Cash,Swiggy delivery,January,1,Friday,0,4,TXN1073,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,180308,26,-2.31
+2024-01-26,Transportation,272,UPI,Metro card recharge,January,1,Friday,0,4,TXN1072,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,180580,26,-88.72
+2024-01-26,Health,1253,Credit Card,Pharmacy,January,1,Friday,0,4,TXN1071,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,181833,26,-48.04
+2024-01-27,Food & Dining,2808,Net Banking,Street food,January,1,Saturday,1,4,TXN1074,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,184641,27,16.44
+2024-01-27,Transportation,549,UPI,Ola cab,January,1,Saturday,1,4,TXN1075,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,185190,27,-77.24
+2024-01-28,Food & Dining,448,Credit Card,Swiggy delivery,January,1,Sunday,1,4,TXN1076,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,185638,28,-81.42
+2024-01-29,Food & Dining,1340,Net Banking,Cafe coffee,January,1,Monday,0,5,TXN1077,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,186978,29,-44.44
+2024-01-29,Health,3584,Net Banking,Pharmacy,January,1,Monday,0,5,TXN1078,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,190562,29,48.61
+2024-01-29,Groceries,4376,Debit Card,BigBasket order,January,1,Monday,0,5,TXN1079,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,194938,29,81.46
+2024-01-30,Food & Dining,670,UPI,Cafe coffee,January,1,Tuesday,0,5,TXN1081,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,195608,30,-72.22
+2024-01-30,Shopping,857,Credit Card,Electronics,January,1,Tuesday,0,5,TXN1080,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,196465,30,-64.46
+2024-01-31,Food & Dining,2146,Debit Card,Zomato order,January,1,Wednesday,0,5,TXN1082,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,198611,31,-11.01
+2024-01-31,Transportation,773,Credit Card,Auto rickshaw,January,1,Wednesday,0,5,TXN1083,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,199384,31,-67.95
+2024-01-31,Shopping,3824,Cash,Clothes shopping,January,1,Wednesday,0,5,TXN1084,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,203208,31,58.57
+2024-01-31,Groceries,4190,Credit Card,Milk & dairy,January,1,Wednesday,0,5,TXN1085,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,207398,31,73.74
+2024-02-01,Transportation,331,UPI,Bus ticket,February,2,Thursday,0,5,TXN1086,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,331,1,-87.01
+2024-02-01,Health,2452,Credit Card,Doctor consultation,February,2,Thursday,0,5,TXN1087,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,2783,1,-3.75
+2024-02-01,Education,3000,Credit Card,Stationery,February,2,Thursday,0,5,TXN1088,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,5783,1,17.76
+2024-02-02,Transportation,127,UPI,Ola cab,February,2,Friday,0,5,TXN1089,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,5910,2,-95.01
+2024-02-02,Groceries,3201,Credit Card,Milk & dairy,February,2,Friday,0,5,TXN1090,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,9111,2,25.65
+2024-02-03,Food & Dining,712,Net Banking,Lunch with friends,February,2,Saturday,1,5,TXN1091,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,9823,3,-72.05
+2024-02-03,Entertainment,2102,Debit Card,Spotify premium,February,2,Saturday,1,5,TXN1092,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,11925,3,-17.49
+2024-02-04,Food & Dining,2969,Credit Card,Cafe coffee,February,2,Sunday,1,5,TXN1093,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,14894,4,16.54
+2024-02-04,Transportation,155,Cash,Auto rickshaw,February,2,Sunday,1,5,TXN1094,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,15049,4,-93.92
+2024-02-04,Utilities,568,Net Banking,Gas cylinder,February,2,Sunday,1,5,TXN1095,Q1 (Jan-Mar),Weekend,Medium (500-2000),Essential,15617,4,-77.7
+2024-02-05,Transportation,569,UPI,Petrol,February,2,Monday,0,6,TXN1098,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,16186,5,-77.66
+2024-02-05,Groceries,2028,UPI,Blinkit delivery,February,2,Monday,0,6,TXN1096,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,18214,5,-20.39
+2024-02-05,Food & Dining,2358,UPI,Restaurant dinner,February,2,Monday,0,6,TXN1097,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,20572,5,-7.44
+2024-02-06,Food & Dining,2480,UPI,Lunch with friends,February,2,Tuesday,0,6,TXN1099,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,23052,6,-2.65
+2024-02-06,Transportation,127,UPI,Metro card recharge,February,2,Tuesday,0,6,TXN1100,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,23179,6,-95.01
+2024-02-06,Shopping,2796,Credit Card,Myntra order,February,2,Tuesday,0,6,TXN1101,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,25975,6,9.75
+2024-02-06,Entertainment,2597,UPI,Concert tickets,February,2,Tuesday,0,6,TXN1102,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,28572,6,1.94
+2024-02-06,Health,2355,Debit Card,Pharmacy,February,2,Tuesday,0,6,TXN1103,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,30927,6,-7.56
+2024-02-07,Food & Dining,564,UPI,Restaurant dinner,February,2,Wednesday,0,6,TXN1104,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,31491,7,-77.86
+2024-02-07,Transportation,56,Debit Card,Bus ticket,February,2,Wednesday,0,6,TXN1105,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,31547,7,-97.8
+2024-02-07,Entertainment,2986,UPI,Netflix subscription,February,2,Wednesday,0,6,TXN1106,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,34533,7,17.21
+2024-02-07,Groceries,1125,UPI,BigBasket order,February,2,Wednesday,0,6,TXN1107,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,35658,7,-55.84
+2024-02-08,Food & Dining,266,Credit Card,Swiggy delivery,February,2,Thursday,0,6,TXN1108,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,35924,8,-89.56
+2024-02-08,Transportation,160,Debit Card,Ola cab,February,2,Thursday,0,6,TXN1109,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,36084,8,-93.72
+2024-02-09,Rent,12000,Net Banking,Room rent,February,2,Friday,0,6,TXN1112,Q1 (Jan-Mar),Weekday,Very Large (5000+),Essential,48084,9,371.04
+2024-02-09,Utilities,967,Net Banking,Water bill,February,2,Friday,0,6,TXN1115,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,49051,9,-62.04
+2024-02-09,Entertainment,2597,UPI,Netflix subscription,February,2,Friday,0,6,TXN1114,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,51648,9,1.94
+2024-02-09,Health,542,UPI,Pharmacy,February,2,Friday,0,6,TXN1110,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,52190,9,-78.72
+2024-02-09,Groceries,1946,Debit Card,Blinkit delivery,February,2,Friday,0,6,TXN1111,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,54136,9,-23.61
+2024-02-09,Transportation,326,UPI,Petrol,February,2,Friday,0,6,TXN1113,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,54462,9,-87.2
+2024-02-10,Food & Dining,2545,UPI,Swiggy delivery,February,2,Saturday,1,6,TXN1116,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,57007,10,-0.1
+2024-02-10,Transportation,773,Credit Card,Ola cab,February,2,Saturday,1,6,TXN1117,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,57780,10,-69.66
+2024-02-10,Education,2917,UPI,Coaching fees,February,2,Saturday,1,6,TXN1118,Q1 (Jan-Mar),Weekend,Large (2000-5000),Essential,60697,10,14.5
+2024-02-11,Shopping,4801,Credit Card,Myntra order,February,2,Sunday,1,6,TXN1122,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,65498,11,88.46
+2024-02-11,Entertainment,2764,Net Banking,Amazon Prime,February,2,Sunday,1,6,TXN1119,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,68262,11,8.5
+2024-02-11,Food & Dining,2989,UPI,Swiggy delivery,February,2,Sunday,1,6,TXN1120,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,71251,11,17.33
+2024-02-11,Transportation,368,Debit Card,Ola cab,February,2,Sunday,1,6,TXN1121,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,71619,11,-85.55
+2024-02-12,Food & Dining,1572,UPI,Zomato order,February,2,Monday,0,7,TXN1123,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,73191,12,-38.29
+2024-02-13,Food & Dining,2063,Credit Card,Lunch with friends,February,2,Tuesday,0,7,TXN1125,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,75254,13,-19.02
+2024-02-13,Travel,7018,Credit Card,Bus booking,February,2,Tuesday,0,7,TXN1124,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,82272,13,175.48
+2024-02-14,Transportation,603,UPI,Auto rickshaw,February,2,Wednesday,0,7,TXN1126,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,82875,14,-76.33
+2024-02-15,Food & Dining,2057,Debit Card,Restaurant dinner,February,2,Thursday,0,7,TXN1128,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,84932,15,-19.26
+2024-02-15,Shopping,6528,UPI,Electronics,February,2,Thursday,0,7,TXN1127,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,91460,15,156.25
+2024-02-16,Transportation,709,UPI,Uber ride,February,2,Friday,0,7,TXN1131,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,92169,16,-72.17
+2024-02-16,Groceries,4281,Credit Card,Supermarket,February,2,Friday,0,7,TXN1129,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,96450,16,68.04
+2024-02-16,Food & Dining,2155,Credit Card,Restaurant dinner,February,2,Friday,0,7,TXN1130,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,98605,16,-15.41
+2024-02-17,Food & Dining,2345,UPI,Swiggy delivery,February,2,Saturday,1,7,TXN1132,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,100950,17,-7.95
+2024-02-17,Entertainment,373,Cash,Amazon Prime,February,2,Saturday,1,7,TXN1133,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,101323,17,-85.36
+2024-02-17,Groceries,4030,Cash,Milk & dairy,February,2,Saturday,1,7,TXN1134,Q1 (Jan-Mar),Weekend,Large (2000-5000),Essential,105353,17,58.19
+2024-02-18,Food & Dining,2043,Debit Card,Street food,February,2,Sunday,1,7,TXN1135,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,107396,18,-19.81
+2024-02-18,Transportation,624,Credit Card,Uber ride,February,2,Sunday,1,7,TXN1136,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,108020,18,-75.51
+2024-02-19,Food & Dining,2190,UPI,Street food,February,2,Monday,0,8,TXN1137,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,110210,19,-14.04
+2024-02-19,Education,6588,Credit Card,Udemy course,February,2,Monday,0,8,TXN1138,Q1 (Jan-Mar),Weekday,Very Large (5000+),Essential,116798,19,158.6
+2024-02-20,Transportation,785,UPI,Metro card recharge,February,2,Tuesday,0,8,TXN1139,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,117583,20,-69.19
+2024-02-20,Shopping,1222,UPI,Myntra order,February,2,Tuesday,0,8,TXN1140,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,118805,20,-52.03
+2024-02-20,Entertainment,628,UPI,Spotify premium,February,2,Tuesday,0,8,TXN1141,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,119433,20,-75.35
+2024-02-20,Health,3357,Credit Card,Lab tests,February,2,Tuesday,0,8,TXN1142,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,122790,20,31.77
+2024-02-20,Groceries,4335,Cash,Vegetable market,February,2,Tuesday,0,8,TXN1143,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,127125,20,70.16
+2024-02-21,Food & Dining,2101,Credit Card,Zomato order,February,2,Wednesday,0,8,TXN1145,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,129226,21,-17.53
+2024-02-21,Transportation,525,Debit Card,Auto rickshaw,February,2,Wednesday,0,8,TXN1144,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,129751,21,-79.39
+2024-02-22,Transportation,313,UPI,Bus ticket,February,2,Thursday,0,8,TXN1146,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,130064,22,-87.71
+2024-02-23,Food & Dining,2398,Debit Card,Street food,February,2,Friday,0,8,TXN1147,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,132462,23,-5.87
+2024-02-23,Travel,17596,UPI,Bus booking,February,2,Friday,0,8,TXN1148,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,150058,23,590.7
+2024-02-24,Food & Dining,1681,Cash,Lunch with friends,February,2,Saturday,1,8,TXN1149,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,151739,24,-34.02
+2024-02-24,Shopping,10915,Cash,Amazon purchase,February,2,Saturday,1,8,TXN1150,Q1 (Jan-Mar),Weekend,Very Large (5000+),Non-Essential,162654,24,328.45
+2024-02-25,Food & Dining,1000,Debit Card,Street food,February,2,Sunday,1,8,TXN1151,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,163654,25,-60.75
+2024-02-25,Transportation,195,Credit Card,Uber ride,February,2,Sunday,1,8,TXN1152,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,163849,25,-92.35
+2024-02-25,Groceries,3074,Cash,Milk & dairy,February,2,Sunday,1,8,TXN1153,Q1 (Jan-Mar),Weekend,Large (2000-5000),Essential,166923,25,20.66
+2024-02-26,Food & Dining,1972,Debit Card,Swiggy delivery,February,2,Monday,0,9,TXN1154,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,168895,26,-22.59
+2024-02-26,Education,4067,Net Banking,Udemy course,February,2,Monday,0,9,TXN1155,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,172962,26,59.64
+2024-02-26,Utilities,1894,UPI,Gas cylinder,February,2,Monday,0,9,TXN1156,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,174856,26,-25.65
+2024-02-27,Transportation,361,UPI,Petrol,February,2,Tuesday,0,9,TXN1159,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,175217,27,-85.83
+2024-02-27,Entertainment,564,UPI,Netflix subscription,February,2,Tuesday,0,9,TXN1157,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,175781,27,-77.86
+2024-02-27,Food & Dining,1450,Cash,Lunch with friends,February,2,Tuesday,0,9,TXN1158,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,177231,27,-43.08
+2024-02-27,Utilities,1540,Credit Card,Gas cylinder,February,2,Tuesday,0,9,TXN1160,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,178771,27,-39.55
+2024-02-28,Food & Dining,1452,UPI,Restaurant dinner,February,2,Wednesday,0,9,TXN1162,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,180223,28,-43.0
+2024-02-28,Transportation,573,UPI,Petrol,February,2,Wednesday,0,9,TXN1161,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,180796,28,-77.51
+2024-02-29,Food & Dining,1950,Debit Card,Lunch with friends,February,2,Thursday,0,9,TXN1163,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,182746,29,-23.46
+2024-02-29,Education,9238,UPI,Udemy course,February,2,Thursday,0,9,TXN1164,Q1 (Jan-Mar),Weekday,Very Large (5000+),Essential,191984,29,262.62
+2024-02-29,Travel,11820,Debit Card,Train ticket,February,2,Thursday,0,9,TXN1165,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,203804,29,363.98
+2024-03-01,Groceries,2182,UPI,Supermarket,March,3,Friday,0,9,TXN1166,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,2182,1,12.76
+2024-03-02,Food & Dining,1862,Debit Card,Cafe coffee,March,3,Saturday,1,9,TXN1167,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,4044,2,-3.78
+2024-03-02,Transportation,546,Credit Card,Bus ticket,March,3,Saturday,1,9,TXN1168,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,4590,2,-71.79
+2024-03-02,Rent,12000,Cash,Room rent,March,3,Saturday,1,9,TXN1169,Q1 (Jan-Mar),Weekend,Very Large (5000+),Essential,16590,2,520.11
+2024-03-02,Groceries,2804,Credit Card,Vegetable market,March,3,Saturday,1,9,TXN1170,Q1 (Jan-Mar),Weekend,Large (2000-5000),Essential,19394,2,44.9
+2024-03-03,Food & Dining,343,Credit Card,Street food,March,3,Sunday,1,9,TXN1171,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,19737,3,-82.28
+2024-03-03,Transportation,321,Cash,Ola cab,March,3,Sunday,1,9,TXN1172,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,20058,3,-83.41
+2024-03-04,Food & Dining,2181,Credit Card,Zomato order,March,3,Monday,0,10,TXN1173,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,22239,4,12.7
+2024-03-04,Shopping,4994,UPI,Electronics,March,3,Monday,0,10,TXN1174,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,27233,4,158.07
+2024-03-04,Utilities,1209,Net Banking,DTH recharge,March,3,Monday,0,10,TXN1175,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,28442,4,-37.52
+2024-03-05,Shopping,7910,Credit Card,Flipkart order,March,3,Tuesday,0,10,TXN1178,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,36352,5,308.76
+2024-03-05,Entertainment,1024,UPI,Netflix subscription,March,3,Tuesday,0,10,TXN1176,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,37376,5,-47.08
+2024-03-05,Food & Dining,971,UPI,Cafe coffee,March,3,Tuesday,0,10,TXN1177,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,38347,5,-49.82
+2024-03-06,Food & Dining,1976,UPI,Swiggy delivery,March,3,Wednesday,0,10,TXN1179,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,40323,6,2.11
+2024-03-06,Transportation,111,Net Banking,Metro card recharge,March,3,Wednesday,0,10,TXN1180,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,40434,6,-94.26
+2024-03-06,Groceries,2640,UPI,Vegetable market,March,3,Wednesday,0,10,TXN1181,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,43074,6,36.42
+2024-03-07,Utilities,1483,UPI,DTH recharge,March,3,Thursday,0,10,TXN1182,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,44557,7,-23.36
+2024-03-08,Food & Dining,1911,Debit Card,Street food,March,3,Friday,0,10,TXN1183,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,46468,8,-1.25
+2024-03-08,Shopping,1824,Credit Card,Home decor,March,3,Friday,0,10,TXN1184,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,48292,8,-5.74
+2024-03-09,Transportation,620,Cash,Ola cab,March,3,Saturday,1,10,TXN1185,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,48912,9,-67.96
+2024-03-10,Utilities,2190,Net Banking,Electricity bill,March,3,Sunday,1,10,TXN1189,Q1 (Jan-Mar),Weekend,Large (2000-5000),Essential,51102,10,13.17
+2024-03-10,Travel,4007,UPI,Bus booking,March,3,Sunday,1,10,TXN1186,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,55109,10,107.07
+2024-03-10,Food & Dining,1919,UPI,Restaurant dinner,March,3,Sunday,1,10,TXN1187,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,57028,10,-0.83
+2024-03-10,Transportation,600,UPI,Petrol,March,3,Sunday,1,10,TXN1188,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,57628,10,-68.99
+2024-03-11,Food & Dining,1456,Net Banking,Cafe coffee,March,3,Monday,0,11,TXN1192,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,59084,11,-24.76
+2024-03-11,Transportation,271,Debit Card,Bus ticket,March,3,Monday,0,11,TXN1193,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,59355,11,-86.0
+2024-03-11,Health,1340,Debit Card,Doctor consultation,March,3,Monday,0,11,TXN1190,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,60695,11,-30.75
+2024-03-11,Groceries,3353,Net Banking,D-Mart shopping,March,3,Monday,0,11,TXN1191,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,64048,11,73.27
+2024-03-12,Transportation,695,UPI,Metro card recharge,March,3,Tuesday,0,11,TXN1196,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,64743,12,-64.09
+2024-03-12,Shopping,6602,Credit Card,Myntra order,March,3,Tuesday,0,11,TXN1194,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,71345,12,241.16
+2024-03-12,Food & Dining,1147,Debit Card,Street food,March,3,Tuesday,0,11,TXN1195,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,72492,12,-40.73
+2024-03-13,Shopping,4030,UPI,Amazon purchase,March,3,Wednesday,0,11,TXN1197,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,76522,13,108.25
+2024-03-13,Health,1288,Cash,Pharmacy,March,3,Wednesday,0,11,TXN1198,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,77810,13,-33.44
+2024-03-14,Transportation,212,UPI,Ola cab,March,3,Thursday,0,11,TXN1199,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,78022,14,-89.04
+2024-03-14,Groceries,1519,Debit Card,Milk & dairy,March,3,Thursday,0,11,TXN1200,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,79541,14,-21.5
+2024-03-15,Food & Dining,548,UPI,Street food,March,3,Friday,0,11,TXN1201,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,80089,15,-71.68
+2024-03-15,Entertainment,726,Credit Card,Amazon Prime,March,3,Friday,0,11,TXN1202,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,80815,15,-62.48
+2024-03-16,Food & Dining,453,Credit Card,Street food,March,3,Saturday,1,11,TXN1203,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,81268,16,-76.59
+2024-03-16,Transportation,323,Debit Card,Uber ride,March,3,Saturday,1,11,TXN1204,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,81591,16,-83.31
+2024-03-16,Groceries,1213,Debit Card,BigBasket order,March,3,Saturday,1,11,TXN1205,Q1 (Jan-Mar),Weekend,Medium (500-2000),Essential,82804,16,-37.32
+2024-03-17,Transportation,641,Credit Card,Petrol,March,3,Sunday,1,11,TXN1206,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,83445,17,-66.88
+2024-03-17,Health,301,Credit Card,Doctor consultation,March,3,Sunday,1,11,TXN1207,Q1 (Jan-Mar),Weekend,Small (<500),Essential,83746,17,-84.45
+2024-03-17,Utilities,2663,UPI,Internet bill,March,3,Sunday,1,11,TXN1208,Q1 (Jan-Mar),Weekend,Large (2000-5000),Essential,86409,17,37.61
+2024-03-18,Food & Dining,305,UPI,Zomato order,March,3,Monday,0,12,TXN1210,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,86714,18,-84.24
+2024-03-18,Shopping,1134,UPI,Myntra order,March,3,Monday,0,12,TXN1209,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,87848,18,-41.4
+2024-03-19,Food & Dining,2254,Debit Card,Cafe coffee,March,3,Tuesday,0,12,TXN1211,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,90102,19,16.48
+2024-03-19,Transportation,71,Credit Card,Metro card recharge,March,3,Tuesday,0,12,TXN1212,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,90173,19,-96.33
+2024-03-19,Shopping,5469,Credit Card,Flipkart order,March,3,Tuesday,0,12,TXN1213,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,95642,19,182.62
+2024-03-19,Entertainment,2334,Debit Card,Netflix subscription,March,3,Tuesday,0,12,TXN1214,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,97976,19,20.61
+2024-03-19,Groceries,4702,Credit Card,Vegetable market,March,3,Tuesday,0,12,TXN1215,Q1 (Jan-Mar),Weekday,Large (2000-5000),Essential,102678,19,142.98
+2024-03-20,Food & Dining,861,UPI,Zomato order,March,3,Wednesday,0,12,TXN1216,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,103539,20,-55.51
+2024-03-20,Transportation,763,Credit Card,Auto rickshaw,March,3,Wednesday,0,12,TXN1217,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,104302,20,-60.57
+2024-03-20,Shopping,6578,UPI,Electronics,March,3,Wednesday,0,12,TXN1218,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,110880,20,239.92
+2024-03-20,Entertainment,1948,Debit Card,Concert tickets,March,3,Wednesday,0,12,TXN1219,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,112828,20,0.66
+2024-03-21,Food & Dining,1473,Debit Card,Cafe coffee,March,3,Thursday,0,12,TXN1220,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,114301,21,-23.88
+2024-03-22,Food & Dining,993,Debit Card,Lunch with friends,March,3,Friday,0,12,TXN1221,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,115294,22,-48.69
+2024-03-22,Transportation,575,Net Banking,Auto rickshaw,March,3,Friday,0,12,TXN1222,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,115869,22,-70.29
+2024-03-23,Food & Dining,3045,Cash,Street food,March,3,Saturday,1,12,TXN1224,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,118914,23,57.35
+2024-03-23,Transportation,473,Credit Card,Petrol,March,3,Saturday,1,12,TXN1223,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,119387,23,-75.56
+2024-03-23,Education,1269,UPI,Stationery,March,3,Saturday,1,12,TXN1225,Q1 (Jan-Mar),Weekend,Medium (500-2000),Essential,120656,23,-34.42
+2024-03-24,Food & Dining,1041,UPI,Restaurant dinner,March,3,Sunday,1,12,TXN1226,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,121697,24,-46.21
+2024-03-25,Food & Dining,1168,Credit Card,Cafe coffee,March,3,Monday,0,13,TXN1227,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,122865,25,-39.64
+2024-03-25,Transportation,50,UPI,Bus ticket,March,3,Monday,0,13,TXN1228,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,122915,25,-97.42
+2024-03-25,Shopping,5678,UPI,Amazon purchase,March,3,Monday,0,13,TXN1229,Q1 (Jan-Mar),Weekday,Very Large (5000+),Non-Essential,128593,25,193.42
+2024-03-25,Groceries,1216,Credit Card,BigBasket order,March,3,Monday,0,13,TXN1230,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,129809,25,-37.16
+2024-03-26,Food & Dining,1118,Debit Card,Cafe coffee,March,3,Tuesday,0,13,TXN1231,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,130927,26,-42.23
+2024-03-26,Transportation,687,UPI,Uber ride,March,3,Tuesday,0,13,TXN1232,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,131614,26,-64.5
+2024-03-26,Shopping,4970,UPI,Home decor,March,3,Tuesday,0,13,TXN1233,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,136584,26,156.83
+2024-03-26,Entertainment,1999,UPI,Amazon Prime,March,3,Tuesday,0,13,TXN1234,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,138583,26,3.3
+2024-03-27,Food & Dining,502,Credit Card,Cafe coffee,March,3,Wednesday,0,13,TXN1235,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,139085,27,-74.06
+2024-03-27,Transportation,394,Debit Card,Ola cab,March,3,Wednesday,0,13,TXN1236,Q1 (Jan-Mar),Weekday,Small (<500),Non-Essential,139479,27,-79.64
+2024-03-27,Groceries,1703,UPI,BigBasket order,March,3,Wednesday,0,13,TXN1237,Q1 (Jan-Mar),Weekday,Medium (500-2000),Essential,141182,27,-12.0
+2024-03-28,Shopping,3730,Debit Card,Electronics,March,3,Thursday,0,13,TXN1238,Q1 (Jan-Mar),Weekday,Large (2000-5000),Non-Essential,144912,28,92.75
+2024-03-29,Transportation,504,UPI,Ola cab,March,3,Friday,0,13,TXN1239,Q1 (Jan-Mar),Weekday,Medium (500-2000),Non-Essential,145416,29,-73.96
+2024-03-30,Food & Dining,1608,UPI,Swiggy delivery,March,3,Saturday,1,13,TXN1240,Q1 (Jan-Mar),Weekend,Medium (500-2000),Non-Essential,147024,30,-16.91
+2024-03-31,Food & Dining,2321,Debit Card,Restaurant dinner,March,3,Sunday,1,13,TXN1241,Q1 (Jan-Mar),Weekend,Large (2000-5000),Non-Essential,149345,31,19.94
+2024-03-31,Transportation,456,Credit Card,Auto rickshaw,March,3,Sunday,1,13,TXN1242,Q1 (Jan-Mar),Weekend,Small (<500),Non-Essential,149801,31,-76.44
+2024-03-31,Education,1140,UPI,Books,March,3,Sunday,1,13,TXN1243,Q1 (Jan-Mar),Weekend,Medium (500-2000),Essential,150941,31,-41.09
+2024-04-01,Transportation,697,UPI,Petrol,April,4,Monday,0,14,TXN1244,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,697,1,-71.93
+2024-04-02,Food & Dining,644,UPI,Cafe coffee,April,4,Tuesday,0,14,TXN1245,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,1341,2,-74.07
+2024-04-02,Transportation,434,UPI,Auto rickshaw,April,4,Tuesday,0,14,TXN1246,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,1775,2,-82.52
+2024-04-03,Food & Dining,1860,Cash,Zomato order,April,4,Wednesday,0,14,TXN1247,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,3635,3,-25.11
+2024-04-03,Transportation,342,UPI,Metro card recharge,April,4,Wednesday,0,14,TXN1248,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,3977,3,-86.23
+2024-04-03,Groceries,2584,Debit Card,Blinkit delivery,April,4,Wednesday,0,14,TXN1249,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,6561,3,4.05
+2024-04-04,Food & Dining,861,UPI,Restaurant dinner,April,4,Thursday,0,14,TXN1250,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,7422,4,-65.33
+2024-04-04,Transportation,209,Credit Card,Ola cab,April,4,Thursday,0,14,TXN1251,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,7631,4,-91.58
+2024-04-05,Food & Dining,1198,UPI,Lunch with friends,April,4,Friday,0,14,TXN1254,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,8829,5,-51.76
+2024-04-05,Transportation,267,UPI,Auto rickshaw,April,4,Friday,0,14,TXN1255,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,9096,5,-89.25
+2024-04-05,Shopping,5339,Credit Card,Electronics,April,4,Friday,0,14,TXN1252,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,14435,5,114.98
+2024-04-05,Entertainment,2895,UPI,Amazon Prime,April,4,Friday,0,14,TXN1253,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,17330,5,16.57
+2024-04-05,Education,7704,Debit Card,Coaching fees,April,4,Friday,0,14,TXN1256,Q2 (Apr-Jun),Weekday,Very Large (5000+),Essential,25034,5,210.21
+2024-04-06,Food & Dining,342,Debit Card,Cafe coffee,April,4,Saturday,1,14,TXN1260,Q2 (Apr-Jun),Weekend,Small (<500),Non-Essential,25376,6,-86.23
+2024-04-06,Transportation,258,Net Banking,Bus ticket,April,4,Saturday,1,14,TXN1259,Q2 (Apr-Jun),Weekend,Small (<500),Non-Essential,25634,6,-89.61
+2024-04-06,Health,2168,Credit Card,Doctor consultation,April,4,Saturday,1,14,TXN1258,Q2 (Apr-Jun),Weekend,Large (2000-5000),Essential,27802,6,-12.7
+2024-04-06,Travel,16711,Debit Card,Holiday trip,April,4,Saturday,1,14,TXN1257,Q2 (Apr-Jun),Weekend,Very Large (5000+),Non-Essential,44513,6,572.88
+2024-04-07,Food & Dining,544,Net Banking,Lunch with friends,April,4,Sunday,1,14,TXN1261,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,45057,7,-78.1
+2024-04-08,Food & Dining,1723,Debit Card,Lunch with friends,April,4,Monday,0,15,TXN1262,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,46780,8,-30.62
+2024-04-08,Transportation,712,UPI,Uber ride,April,4,Monday,0,15,TXN1263,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,47492,8,-71.33
+2024-04-09,Food & Dining,605,Credit Card,Lunch with friends,April,4,Tuesday,0,15,TXN1264,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,48097,9,-75.64
+2024-04-09,Transportation,293,UPI,Ola cab,April,4,Tuesday,0,15,TXN1265,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,48390,9,-88.2
+2024-04-09,Shopping,1093,Credit Card,Myntra order,April,4,Tuesday,0,15,TXN1266,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,49483,9,-55.99
+2024-04-09,Groceries,2428,UPI,Vegetable market,April,4,Tuesday,0,15,TXN1267,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,51911,9,-2.24
+2024-04-10,Shopping,7465,UPI,Myntra order,April,4,Wednesday,0,15,TXN1271,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,59376,10,200.58
+2024-04-10,Food & Dining,2011,Credit Card,Swiggy delivery,April,4,Wednesday,0,15,TXN1270,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,61387,10,-19.03
+2024-04-10,Groceries,3964,UPI,BigBasket order,April,4,Wednesday,0,15,TXN1268,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,65351,10,59.61
+2024-04-10,Entertainment,2583,Debit Card,Concert tickets,April,4,Wednesday,0,15,TXN1269,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,67934,10,4.01
+2024-04-11,Food & Dining,327,Credit Card,Street food,April,4,Thursday,0,15,TXN1272,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,68261,11,-86.83
+2024-04-11,Education,5349,Credit Card,Online certification,April,4,Thursday,0,15,TXN1273,Q2 (Apr-Jun),Weekday,Very Large (5000+),Essential,73610,11,115.38
+2024-04-11,Groceries,3392,UPI,Vegetable market,April,4,Thursday,0,15,TXN1274,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,77002,11,36.58
+2024-04-12,Transportation,198,UPI,Bus ticket,April,4,Friday,0,15,TXN1278,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,77200,12,-92.03
+2024-04-12,Food & Dining,1686,Net Banking,Restaurant dinner,April,4,Friday,0,15,TXN1277,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,78886,12,-32.11
+2024-04-12,Groceries,1419,Credit Card,Blinkit delivery,April,4,Friday,0,15,TXN1275,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,80305,12,-42.86
+2024-04-12,Shopping,6906,Debit Card,Electronics,April,4,Friday,0,15,TXN1276,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,87211,12,178.07
+2024-04-13,Transportation,532,UPI,Petrol,April,4,Saturday,1,15,TXN1279,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,87743,13,-78.58
+2024-04-13,Entertainment,3383,UPI,Movie tickets,April,4,Saturday,1,15,TXN1280,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,91126,13,36.22
+2024-04-14,Food & Dining,3772,Credit Card,Street food,April,4,Sunday,1,15,TXN1281,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,94898,14,51.88
+2024-04-14,Health,2742,Credit Card,Lab tests,April,4,Sunday,1,15,TXN1282,Q2 (Apr-Jun),Weekend,Large (2000-5000),Essential,97640,14,10.41
+2024-04-15,Food & Dining,1968,Credit Card,Street food,April,4,Monday,0,16,TXN1283,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,99608,15,-20.76
+2024-04-15,Transportation,70,Net Banking,Ola cab,April,4,Monday,0,16,TXN1284,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,99678,15,-97.18
+2024-04-15,Travel,11906,Credit Card,Train ticket,April,4,Monday,0,16,TXN1285,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,111584,15,379.4
+2024-04-16,Food & Dining,278,Cash,Street food,April,4,Tuesday,0,16,TXN1286,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,111862,16,-88.81
+2024-04-16,Transportation,465,Net Banking,Auto rickshaw,April,4,Tuesday,0,16,TXN1287,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,112327,16,-81.28
+2024-04-16,Shopping,3771,UPI,Clothes shopping,April,4,Tuesday,0,16,TXN1288,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,116098,16,51.84
+2024-04-16,Utilities,647,Debit Card,Internet bill,April,4,Tuesday,0,16,TXN1289,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,116745,16,-73.95
+2024-04-17,Utilities,2685,UPI,Water bill,April,4,Wednesday,0,16,TXN1290,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,119430,17,8.11
+2024-04-18,Entertainment,416,Credit Card,Amazon Prime,April,4,Thursday,0,16,TXN1293,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,119846,18,-83.25
+2024-04-18,Utilities,2382,Net Banking,DTH recharge,April,4,Thursday,0,16,TXN1291,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,122228,18,-4.09
+2024-04-18,Shopping,2327,Credit Card,Myntra order,April,4,Thursday,0,16,TXN1292,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,124555,18,-6.3
+2024-04-19,Food & Dining,1449,UPI,Zomato order,April,4,Friday,0,16,TXN1294,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,126004,19,-41.66
+2024-04-19,Shopping,6284,UPI,Myntra order,April,4,Friday,0,16,TXN1295,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,132288,19,153.03
+2024-04-19,Groceries,1685,UPI,D-Mart shopping,April,4,Friday,0,16,TXN1296,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,133973,19,-32.15
+2024-04-20,Food & Dining,366,Cash,Swiggy delivery,April,4,Saturday,1,16,TXN1297,Q2 (Apr-Jun),Weekend,Small (<500),Non-Essential,134339,20,-85.26
+2024-04-20,Transportation,710,Net Banking,Bus ticket,April,4,Saturday,1,16,TXN1298,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,135049,20,-71.41
+2024-04-20,Travel,16057,UPI,Holiday trip,April,4,Saturday,1,16,TXN1299,Q2 (Apr-Jun),Weekend,Very Large (5000+),Non-Essential,151106,20,546.54
+2024-04-21,Food & Dining,2364,Debit Card,Street food,April,4,Sunday,1,16,TXN1300,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,153470,21,-4.81
+2024-04-21,Transportation,470,Credit Card,Metro card recharge,April,4,Sunday,1,16,TXN1301,Q2 (Apr-Jun),Weekend,Small (<500),Non-Essential,153940,21,-81.08
+2024-04-21,Groceries,1361,Credit Card,BigBasket order,April,4,Sunday,1,16,TXN1302,Q2 (Apr-Jun),Weekend,Medium (500-2000),Essential,155301,21,-45.2
+2024-04-22,Transportation,532,Credit Card,Uber ride,April,4,Monday,0,17,TXN1303,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,155833,22,-78.58
+2024-04-23,Shopping,6252,Net Banking,Amazon purchase,April,4,Tuesday,0,17,TXN1306,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,162085,23,151.74
+2024-04-23,Groceries,4694,Credit Card,Supermarket,April,4,Tuesday,0,17,TXN1304,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,166779,23,89.01
+2024-04-23,Food & Dining,2481,Debit Card,Lunch with friends,April,4,Tuesday,0,17,TXN1305,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,169260,23,-0.1
+2024-04-24,Shopping,2585,UPI,Electronics,April,4,Wednesday,0,17,TXN1310,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,171845,24,4.09
+2024-04-24,Food & Dining,2028,Debit Card,Lunch with friends,April,4,Wednesday,0,17,TXN1309,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,173873,24,-18.34
+2024-04-24,Utilities,835,UPI,Water bill,April,4,Wednesday,0,17,TXN1307,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,174708,24,-66.38
+2024-04-24,Health,3490,Cash,Pharmacy,April,4,Wednesday,0,17,TXN1308,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,178198,24,40.53
+2024-04-25,Food & Dining,2406,UPI,Restaurant dinner,April,4,Thursday,0,17,TXN1311,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,180604,25,-3.12
+2024-04-25,Transportation,260,UPI,Auto rickshaw,April,4,Thursday,0,17,TXN1312,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,180864,25,-89.53
+2024-04-25,Groceries,3160,Credit Card,Blinkit delivery,April,4,Thursday,0,17,TXN1313,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,184024,25,27.24
+2024-04-26,Food & Dining,675,Debit Card,Restaurant dinner,April,4,Friday,0,17,TXN1314,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,184699,26,-72.82
+2024-04-26,Entertainment,397,Credit Card,Spotify premium,April,4,Friday,0,17,TXN1315,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,185096,26,-84.01
+2024-04-27,Transportation,679,UPI,Ola cab,April,4,Saturday,1,17,TXN1318,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,185775,27,-72.66
+2024-04-27,Health,846,Credit Card,Gym membership,April,4,Saturday,1,17,TXN1316,Q2 (Apr-Jun),Weekend,Medium (500-2000),Essential,186621,27,-65.94
+2024-04-27,Food & Dining,449,UPI,Zomato order,April,4,Saturday,1,17,TXN1317,Q2 (Apr-Jun),Weekend,Small (<500),Non-Essential,187070,27,-81.92
+2024-04-28,Groceries,3461,UPI,Vegetable market,April,4,Sunday,1,17,TXN1320,Q2 (Apr-Jun),Weekend,Large (2000-5000),Essential,190531,28,39.36
+2024-04-28,Food & Dining,2248,Debit Card,Swiggy delivery,April,4,Sunday,1,17,TXN1321,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,192779,28,-9.48
+2024-04-28,Entertainment,1812,UPI,Netflix subscription,April,4,Sunday,1,17,TXN1319,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,194591,28,-27.04
+2024-04-29,Food & Dining,1105,UPI,Lunch with friends,April,4,Monday,0,18,TXN1325,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,195696,29,-55.51
+2024-04-29,Transportation,778,Debit Card,Petrol,April,4,Monday,0,18,TXN1324,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,196474,29,-68.67
+2024-04-29,Shopping,5847,UPI,Electronics,April,4,Monday,0,18,TXN1323,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,202321,29,135.43
+2024-04-29,Groceries,2422,UPI,Vegetable market,April,4,Monday,0,18,TXN1322,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,204743,29,-2.48
+2024-04-30,Food & Dining,2446,UPI,Swiggy delivery,April,4,Tuesday,0,18,TXN1326,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,207189,30,-1.51
+2024-04-30,Transportation,191,Debit Card,Uber ride,April,4,Tuesday,0,18,TXN1327,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,207380,30,-92.31
+2024-04-30,Entertainment,1953,UPI,Netflix subscription,April,4,Tuesday,0,18,TXN1328,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,209333,30,-21.36
+2024-04-30,Groceries,4249,Debit Card,Blinkit delivery,April,4,Tuesday,0,18,TXN1329,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,213582,30,71.09
+2024-05-01,Food & Dining,792,Net Banking,Street food,May,5,Wednesday,0,18,TXN1330,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,792,1,-72.34
+2024-05-01,Entertainment,376,Credit Card,Amazon Prime,May,5,Wednesday,0,18,TXN1331,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,1168,1,-86.87
+2024-05-02,Food & Dining,2103,Credit Card,Lunch with friends,May,5,Thursday,0,18,TXN1333,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,3271,2,-26.56
+2024-05-02,Transportation,343,Debit Card,Uber ride,May,5,Thursday,0,18,TXN1332,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,3614,2,-88.02
+2024-05-03,Food & Dining,2460,Debit Card,Cafe coffee,May,5,Friday,0,18,TXN1334,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,6074,3,-14.09
+2024-05-03,Shopping,3548,Credit Card,Electronics,May,5,Friday,0,18,TXN1335,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,9622,3,23.91
+2024-05-03,Health,4270,Cash,Doctor consultation,May,5,Friday,0,18,TXN1336,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,13892,3,49.12
+2024-05-04,Food & Dining,646,UPI,Cafe coffee,May,5,Saturday,1,18,TXN1337,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,14538,4,-77.44
+2024-05-04,Groceries,1467,Credit Card,Blinkit delivery,May,5,Saturday,1,18,TXN1338,Q2 (Apr-Jun),Weekend,Medium (500-2000),Essential,16005,4,-48.77
+2024-05-05,Travel,5307,Debit Card,Bus booking,May,5,Sunday,1,18,TXN1339,Q2 (Apr-Jun),Weekend,Very Large (5000+),Non-Essential,21312,5,85.34
+2024-05-06,Transportation,582,Debit Card,Uber ride,May,5,Monday,0,19,TXN1344,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,21894,6,-79.67
+2024-05-06,Shopping,1625,Net Banking,Clothes shopping,May,5,Monday,0,19,TXN1345,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,23519,6,-43.25
+2024-05-06,Food & Dining,1747,Debit Card,Zomato order,May,5,Monday,0,19,TXN1343,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,25266,6,-38.99
+2024-05-06,Utilities,726,UPI,Gas cylinder,May,5,Monday,0,19,TXN1340,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,25992,6,-74.65
+2024-05-06,Travel,19299,Net Banking,Hotel booking,May,5,Monday,0,19,TXN1341,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,45291,6,573.99
+2024-05-06,Entertainment,1760,UPI,Gaming,May,5,Monday,0,19,TXN1342,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,47051,6,-38.53
+2024-05-07,Food & Dining,2099,UPI,Swiggy delivery,May,5,Tuesday,0,19,TXN1346,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,49150,7,-26.7
+2024-05-07,Utilities,1940,UPI,Water bill,May,5,Tuesday,0,19,TXN1347,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,51090,7,-32.25
+2024-05-08,Food & Dining,1095,UPI,Street food,May,5,Wednesday,0,19,TXN1348,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,52185,8,-61.76
+2024-05-08,Health,3240,Debit Card,Medicine,May,5,Wednesday,0,19,TXN1349,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,55425,8,13.15
+2024-05-08,Utilities,1570,UPI,Electricity bill,May,5,Wednesday,0,19,TXN1350,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,56995,8,-45.17
+2024-05-08,Travel,12794,Debit Card,Flight ticket,May,5,Wednesday,0,19,TXN1351,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,69789,8,346.81
+2024-05-09,Food & Dining,2390,UPI,Restaurant dinner,May,5,Thursday,0,19,TXN1352,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,72179,9,-16.53
+2024-05-10,Transportation,492,UPI,Bus ticket,May,5,Friday,0,19,TXN1353,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,72671,10,-82.82
+2024-05-10,Travel,7249,Net Banking,Bus booking,May,5,Friday,0,19,TXN1354,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,79920,10,153.16
+2024-05-11,Shopping,11579,Credit Card,Electronics,May,5,Saturday,1,19,TXN1357,Q2 (Apr-Jun),Weekend,Very Large (5000+),Non-Essential,91499,11,304.38
+2024-05-11,Transportation,475,Debit Card,Petrol,May,5,Saturday,1,19,TXN1358,Q2 (Apr-Jun),Weekend,Small (<500),Non-Essential,91974,11,-83.41
+2024-05-11,Travel,14639,UPI,Bus booking,May,5,Saturday,1,19,TXN1356,Q2 (Apr-Jun),Weekend,Very Large (5000+),Non-Essential,106613,11,411.24
+2024-05-11,Utilities,1433,UPI,Water bill,May,5,Saturday,1,19,TXN1355,Q2 (Apr-Jun),Weekend,Medium (500-2000),Essential,108046,11,-49.95
+2024-05-12,Food & Dining,2532,Debit Card,Zomato order,May,5,Sunday,1,19,TXN1359,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,110578,12,-11.57
+2024-05-12,Transportation,117,Cash,Uber ride,May,5,Sunday,1,19,TXN1360,Q2 (Apr-Jun),Weekend,Small (<500),Non-Essential,110695,12,-95.91
+2024-05-12,Utilities,1585,Debit Card,DTH recharge,May,5,Sunday,1,19,TXN1361,Q2 (Apr-Jun),Weekend,Medium (500-2000),Essential,112280,12,-44.65
+2024-05-13,Food & Dining,860,UPI,Cafe coffee,May,5,Monday,0,20,TXN1362,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,113140,13,-69.97
+2024-05-13,Transportation,733,UPI,Auto rickshaw,May,5,Monday,0,20,TXN1363,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,113873,13,-74.4
+2024-05-13,Entertainment,1258,Debit Card,Netflix subscription,May,5,Monday,0,20,TXN1364,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,115131,13,-56.07
+2024-05-13,Health,642,Credit Card,Lab tests,May,5,Monday,0,20,TXN1365,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,115773,13,-77.58
+2024-05-13,Travel,19789,Credit Card,Train ticket,May,5,Monday,0,20,TXN1366,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,135562,13,591.1
+2024-05-14,Food & Dining,704,Debit Card,Cafe coffee,May,5,Tuesday,0,20,TXN1367,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,136266,14,-75.41
+2024-05-14,Shopping,1271,UPI,Home decor,May,5,Tuesday,0,20,TXN1368,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,137537,14,-55.61
+2024-05-15,Transportation,622,Credit Card,Uber ride,May,5,Wednesday,0,20,TXN1369,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,138159,15,-78.28
+2024-05-16,Groceries,3280,UPI,D-Mart shopping,May,5,Thursday,0,20,TXN1371,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,141439,16,14.55
+2024-05-16,Food & Dining,1912,Credit Card,Lunch with friends,May,5,Thursday,0,20,TXN1372,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,143351,16,-33.23
+2024-05-16,Shopping,1659,UPI,Electronics,May,5,Thursday,0,20,TXN1370,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,145010,16,-42.06
+2024-05-17,Food & Dining,2012,UPI,Zomato order,May,5,Friday,0,20,TXN1373,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,147022,17,-29.73
+2024-05-17,Transportation,753,Debit Card,Metro card recharge,May,5,Friday,0,20,TXN1374,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,147775,17,-73.7
+2024-05-18,Food & Dining,3291,Net Banking,Swiggy delivery,May,5,Saturday,1,20,TXN1375,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,151066,18,14.93
+2024-05-18,Entertainment,3277,Credit Card,Movie tickets,May,5,Saturday,1,20,TXN1376,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,154343,18,14.44
+2024-05-18,Groceries,2774,Credit Card,Supermarket,May,5,Saturday,1,20,TXN1377,Q2 (Apr-Jun),Weekend,Large (2000-5000),Essential,157117,18,-3.12
+2024-05-19,Food & Dining,3607,Debit Card,Zomato order,May,5,Sunday,1,20,TXN1378,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,160724,19,25.97
+2024-05-19,Transportation,315,Credit Card,Metro card recharge,May,5,Sunday,1,20,TXN1379,Q2 (Apr-Jun),Weekend,Small (<500),Non-Essential,161039,19,-89.0
+2024-05-19,Utilities,2128,UPI,DTH recharge,May,5,Sunday,1,20,TXN1380,Q2 (Apr-Jun),Weekend,Large (2000-5000),Essential,163167,19,-25.68
+2024-05-19,Groceries,1267,UPI,BigBasket order,May,5,Sunday,1,20,TXN1381,Q2 (Apr-Jun),Weekend,Medium (500-2000),Essential,164434,19,-55.75
+2024-05-19,Travel,4998,UPI,Weekend trip,May,5,Sunday,1,20,TXN1382,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,169432,19,74.55
+2024-05-20,Food & Dining,1350,UPI,Zomato order,May,5,Monday,0,21,TXN1384,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,170782,20,-52.85
+2024-05-20,Transportation,326,Debit Card,Uber ride,May,5,Monday,0,21,TXN1383,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,171108,20,-88.61
+2024-05-20,Entertainment,2320,UPI,Movie tickets,May,5,Monday,0,21,TXN1385,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,173428,20,-18.98
+2024-05-21,Food & Dining,2241,UPI,Lunch with friends,May,5,Tuesday,0,21,TXN1387,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,175669,21,-21.74
+2024-05-21,Travel,19028,Credit Card,Hotel booking,May,5,Tuesday,0,21,TXN1386,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,194697,21,564.52
+2024-05-22,Food & Dining,1650,UPI,Restaurant dinner,May,5,Wednesday,0,21,TXN1389,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,196347,22,-42.38
+2024-05-22,Transportation,625,Credit Card,Uber ride,May,5,Wednesday,0,21,TXN1388,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,196972,22,-78.17
+2024-05-23,Food & Dining,756,UPI,Restaurant dinner,May,5,Thursday,0,21,TXN1390,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,197728,23,-73.6
+2024-05-23,Transportation,412,UPI,Uber ride,May,5,Thursday,0,21,TXN1391,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,198140,23,-85.61
+2024-05-23,Utilities,2669,UPI,Internet bill,May,5,Thursday,0,21,TXN1392,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,200809,23,-6.79
+2024-05-24,Transportation,126,Credit Card,Bus ticket,May,5,Friday,0,21,TXN1393,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,200935,24,-95.6
+2024-05-25,Transportation,603,Debit Card,Auto rickshaw,May,5,Saturday,1,21,TXN1394,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,201538,25,-78.94
+2024-05-25,Shopping,1123,UPI,Electronics,May,5,Saturday,1,21,TXN1395,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,202661,25,-60.78
+2024-05-25,Groceries,3913,Credit Card,Vegetable market,May,5,Saturday,1,21,TXN1396,Q2 (Apr-Jun),Weekend,Large (2000-5000),Essential,206574,25,36.66
+2024-05-26,Food & Dining,3127,Debit Card,Restaurant dinner,May,5,Sunday,1,21,TXN1397,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,209701,26,9.21
+2024-05-26,Transportation,569,UPI,Ola cab,May,5,Sunday,1,21,TXN1398,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,210270,26,-80.13
+2024-05-26,Health,3462,Cash,Gym membership,May,5,Sunday,1,21,TXN1399,Q2 (Apr-Jun),Weekend,Large (2000-5000),Essential,213732,26,20.9
+2024-05-27,Food & Dining,1407,UPI,Lunch with friends,May,5,Monday,0,22,TXN1400,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,215139,27,-50.86
+2024-05-27,Transportation,631,UPI,Metro card recharge,May,5,Monday,0,22,TXN1401,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,215770,27,-77.96
+2024-05-27,Entertainment,1063,Credit Card,Movie tickets,May,5,Monday,0,22,TXN1402,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,216833,27,-62.88
+2024-05-28,Education,8084,Credit Card,Udemy course,May,5,Tuesday,0,22,TXN1404,Q2 (Apr-Jun),Weekday,Very Large (5000+),Essential,224917,28,182.32
+2024-05-28,Food & Dining,1914,Cash,Restaurant dinner,May,5,Tuesday,0,22,TXN1405,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,226831,28,-33.16
+2024-05-28,Transportation,736,Debit Card,Petrol,May,5,Tuesday,0,22,TXN1403,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,227567,28,-74.3
+2024-05-29,Food & Dining,1142,Credit Card,Swiggy delivery,May,5,Wednesday,0,22,TXN1406,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,228709,29,-60.12
+2024-05-29,Transportation,398,UPI,Metro card recharge,May,5,Wednesday,0,22,TXN1407,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,229107,29,-86.1
+2024-05-29,Entertainment,325,Credit Card,Gaming,May,5,Wednesday,0,22,TXN1408,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,229432,29,-88.65
+2024-05-29,Groceries,1018,UPI,Blinkit delivery,May,5,Wednesday,0,22,TXN1409,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,230450,29,-64.45
+2024-05-30,Utilities,1301,UPI,Water bill,May,5,Thursday,0,22,TXN1413,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,231751,30,-54.56
+2024-05-30,Groceries,4426,Credit Card,Milk & dairy,May,5,Thursday,0,22,TXN1410,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,236177,30,54.57
+2024-05-30,Food & Dining,778,Debit Card,Zomato order,May,5,Thursday,0,22,TXN1411,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,236955,30,-72.83
+2024-05-30,Transportation,598,UPI,Auto rickshaw,May,5,Thursday,0,22,TXN1412,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,237553,30,-79.12
+2024-05-31,Transportation,622,UPI,Bus ticket,May,5,Friday,0,22,TXN1414,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,238175,31,-78.28
+2024-05-31,Entertainment,2622,Debit Card,Gaming,May,5,Friday,0,22,TXN1415,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,240797,31,-8.43
+2024-05-31,Education,2497,Credit Card,Coaching fees,May,5,Friday,0,22,TXN1416,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,243294,31,-12.8
+2024-05-31,Travel,8686,Cash,Weekend trip,May,5,Friday,0,22,TXN1417,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,251980,31,203.34
+2024-06-01,Food & Dining,3012,Credit Card,Street food,June,6,Saturday,1,22,TXN1418,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,3012,1,0.46
+2024-06-01,Transportation,330,UPI,Ola cab,June,6,Saturday,1,22,TXN1419,Q2 (Apr-Jun),Weekend,Small (<500),Non-Essential,3342,1,-88.99
+2024-06-02,Food & Dining,383,Credit Card,Cafe coffee,June,6,Sunday,1,22,TXN1423,Q2 (Apr-Jun),Weekend,Small (<500),Non-Essential,3725,2,-87.23
+2024-06-02,Transportation,520,Debit Card,Petrol,June,6,Sunday,1,22,TXN1422,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,4245,2,-82.66
+2024-06-02,Utilities,2239,Credit Card,Electricity bill,June,6,Sunday,1,22,TXN1421,Q2 (Apr-Jun),Weekend,Large (2000-5000),Essential,6484,2,-25.32
+2024-06-02,Rent,12000,Credit Card,Room rent,June,6,Sunday,1,22,TXN1420,Q2 (Apr-Jun),Weekend,Very Large (5000+),Essential,18484,2,300.26
+2024-06-03,Transportation,439,UPI,Ola cab,June,6,Monday,0,23,TXN1424,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,18923,3,-85.36
+2024-06-03,Shopping,1167,UPI,Amazon purchase,June,6,Monday,0,23,TXN1425,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,20090,3,-61.07
+2024-06-03,Entertainment,336,Debit Card,Gaming,June,6,Monday,0,23,TXN1426,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,20426,3,-88.79
+2024-06-04,Food & Dining,670,Credit Card,Zomato order,June,6,Tuesday,0,23,TXN1427,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,21096,4,-77.65
+2024-06-04,Travel,15718,Cash,Flight ticket,June,6,Tuesday,0,23,TXN1428,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,36814,4,424.27
+2024-06-05,Food & Dining,1946,Credit Card,Swiggy delivery,June,6,Wednesday,0,23,TXN1429,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,38760,5,-35.09
+2024-06-05,Transportation,551,Net Banking,Petrol,June,6,Wednesday,0,23,TXN1430,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,39311,5,-81.62
+2024-06-05,Health,526,UPI,Lab tests,June,6,Wednesday,0,23,TXN1431,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,39837,5,-82.46
+2024-06-06,Food & Dining,1682,Debit Card,Lunch with friends,June,6,Thursday,0,23,TXN1432,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,41519,6,-43.9
+2024-06-06,Transportation,670,Debit Card,Auto rickshaw,June,6,Thursday,0,23,TXN1433,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,42189,6,-77.65
+2024-06-06,Entertainment,2027,Debit Card,Gaming,June,6,Thursday,0,23,TXN1434,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,44216,6,-32.39
+2024-06-06,Education,1539,Debit Card,Workshop,June,6,Thursday,0,23,TXN1435,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,45755,6,-48.67
+2024-06-06,Groceries,2548,UPI,Milk & dairy,June,6,Thursday,0,23,TXN1436,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,48303,6,-15.01
+2024-06-07,Transportation,447,Credit Card,Ola cab,June,6,Friday,0,23,TXN1439,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,48750,7,-85.09
+2024-06-07,Groceries,3905,Debit Card,Supermarket,June,6,Friday,0,23,TXN1437,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,52655,7,30.25
+2024-06-07,Food & Dining,2300,Debit Card,Street food,June,6,Friday,0,23,TXN1438,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,54955,7,-23.28
+2024-06-08,Food & Dining,2944,Cash,Lunch with friends,June,6,Saturday,1,23,TXN1440,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,57899,8,-1.8
+2024-06-08,Transportation,748,UPI,Ola cab,June,6,Saturday,1,23,TXN1441,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,58647,8,-75.05
+2024-06-08,Shopping,10720,UPI,Amazon purchase,June,6,Saturday,1,23,TXN1442,Q2 (Apr-Jun),Weekend,Very Large (5000+),Non-Essential,69367,8,257.56
+2024-06-08,Rent,12000,UPI,Monthly rent,June,6,Saturday,1,23,TXN1443,Q2 (Apr-Jun),Weekend,Very Large (5000+),Essential,81367,8,300.26
+2024-06-09,Food & Dining,811,Credit Card,Street food,June,6,Sunday,1,23,TXN1444,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,82178,9,-72.95
+2024-06-09,Transportation,693,Cash,Auto rickshaw,June,6,Sunday,1,23,TXN1445,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,82871,9,-76.89
+2024-06-09,Shopping,4550,Credit Card,Electronics,June,6,Sunday,1,23,TXN1446,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,87421,9,51.76
+2024-06-09,Health,692,UPI,Lab tests,June,6,Sunday,1,23,TXN1447,Q2 (Apr-Jun),Weekend,Medium (500-2000),Essential,88113,9,-76.92
+2024-06-10,Food & Dining,225,Debit Card,Restaurant dinner,June,6,Monday,0,24,TXN1448,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,88338,10,-92.5
+2024-06-10,Transportation,316,Net Banking,Petrol,June,6,Monday,0,24,TXN1449,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,88654,10,-89.46
+2024-06-11,Food & Dining,1976,Cash,Cafe coffee,June,6,Tuesday,0,24,TXN1451,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,90630,11,-34.09
+2024-06-11,Transportation,508,UPI,Ola cab,June,6,Tuesday,0,24,TXN1450,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,91138,11,-83.06
+2024-06-12,Food & Dining,2132,Credit Card,Restaurant dinner,June,6,Wednesday,0,24,TXN1454,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,93270,12,-28.89
+2024-06-12,Transportation,142,Credit Card,Auto rickshaw,June,6,Wednesday,0,24,TXN1453,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,93412,12,-95.26
+2024-06-12,Shopping,3732,UPI,Clothes shopping,June,6,Wednesday,0,24,TXN1452,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,97144,12,24.48
+2024-06-13,Food & Dining,1555,UPI,Zomato order,June,6,Thursday,0,24,TXN1455,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,98699,13,-48.13
+2024-06-13,Shopping,1369,Credit Card,Flipkart order,June,6,Thursday,0,24,TXN1456,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,100068,13,-54.34
+2024-06-13,Entertainment,819,Debit Card,Spotify premium,June,6,Thursday,0,24,TXN1457,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,100887,13,-72.68
+2024-06-15,Education,3217,UPI,Books,June,6,Saturday,1,24,TXN1458,Q2 (Apr-Jun),Weekend,Large (2000-5000),Essential,104104,15,7.3
+2024-06-16,Food & Dining,2251,Cash,Lunch with friends,June,6,Sunday,1,24,TXN1459,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,106355,16,-24.92
+2024-06-16,Transportation,716,Net Banking,Ola cab,June,6,Sunday,1,24,TXN1460,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,107071,16,-76.12
+2024-06-16,Shopping,4389,Credit Card,Electronics,June,6,Sunday,1,24,TXN1461,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,111460,16,46.39
+2024-06-17,Food & Dining,1305,Debit Card,Swiggy delivery,June,6,Monday,0,25,TXN1462,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,112765,17,-56.47
+2024-06-17,Health,4710,UPI,Doctor consultation,June,6,Monday,0,25,TXN1463,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,117475,17,57.1
+2024-06-18,Food & Dining,850,Credit Card,Street food,June,6,Tuesday,0,25,TXN1464,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,118325,18,-71.65
+2024-06-18,Transportation,331,Debit Card,Auto rickshaw,June,6,Tuesday,0,25,TXN1465,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,118656,18,-88.96
+2024-06-19,Utilities,539,UPI,Water bill,June,6,Wednesday,0,25,TXN1467,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,119195,19,-82.02
+2024-06-19,Food & Dining,420,UPI,Restaurant dinner,June,6,Wednesday,0,25,TXN1468,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,119615,19,-85.99
+2024-06-19,Transportation,607,UPI,Ola cab,June,6,Wednesday,0,25,TXN1466,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,120222,19,-79.75
+2024-06-20,Food & Dining,478,Cash,Lunch with friends,June,6,Thursday,0,25,TXN1469,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,120700,20,-84.06
+2024-06-20,Transportation,730,UPI,Ola cab,June,6,Thursday,0,25,TXN1470,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,121430,20,-75.65
+2024-06-20,Shopping,5945,UPI,Flipkart order,June,6,Thursday,0,25,TXN1471,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,127375,20,98.29
+2024-06-20,Education,5307,UPI,Online certification,June,6,Thursday,0,25,TXN1472,Q2 (Apr-Jun),Weekday,Very Large (5000+),Essential,132682,20,77.01
+2024-06-20,Utilities,2487,Net Banking,DTH recharge,June,6,Thursday,0,25,TXN1473,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,135169,20,-17.05
+2024-06-21,Food & Dining,2049,UPI,Lunch with friends,June,6,Friday,0,25,TXN1474,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,137218,21,-31.66
+2024-06-21,Shopping,705,UPI,Clothes shopping,June,6,Friday,0,25,TXN1475,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,137923,21,-76.48
+2024-06-21,Groceries,1271,UPI,Blinkit delivery,June,6,Friday,0,25,TXN1476,Q2 (Apr-Jun),Weekday,Medium (500-2000),Essential,139194,21,-57.61
+2024-06-22,Utilities,1008,Cash,Electricity bill,June,6,Saturday,1,25,TXN1482,Q2 (Apr-Jun),Weekend,Medium (500-2000),Essential,140202,22,-66.38
+2024-06-22,Rent,12000,UPI,Monthly rent,June,6,Saturday,1,25,TXN1477,Q2 (Apr-Jun),Weekend,Very Large (5000+),Essential,152202,22,300.26
+2024-06-22,Food & Dining,649,Net Banking,Swiggy delivery,June,6,Saturday,1,25,TXN1478,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,152851,22,-78.35
+2024-06-22,Transportation,609,UPI,Ola cab,June,6,Saturday,1,25,TXN1479,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,153460,22,-79.69
+2024-06-22,Shopping,4239,Credit Card,Amazon purchase,June,6,Saturday,1,25,TXN1480,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,157699,22,41.39
+2024-06-22,Entertainment,2051,Debit Card,Spotify premium,June,6,Saturday,1,25,TXN1481,Q2 (Apr-Jun),Weekend,Large (2000-5000),Non-Essential,159750,22,-31.59
+2024-06-23,Groceries,2567,UPI,Supermarket,June,6,Sunday,1,25,TXN1483,Q2 (Apr-Jun),Weekend,Large (2000-5000),Essential,162317,23,-14.38
+2024-06-24,Food & Dining,2107,UPI,Lunch with friends,June,6,Monday,0,26,TXN1485,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,164424,24,-29.72
+2024-06-24,Travel,9426,Credit Card,Weekend trip,June,6,Monday,0,26,TXN1484,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,173850,24,214.4
+2024-06-26,Food & Dining,1039,UPI,Restaurant dinner,June,6,Wednesday,0,26,TXN1486,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,174889,26,-65.34
+2024-06-26,Rent,12000,UPI,Monthly rent,June,6,Wednesday,0,26,TXN1487,Q2 (Apr-Jun),Weekday,Very Large (5000+),Essential,186889,26,300.26
+2024-06-27,Food & Dining,2147,Credit Card,Lunch with friends,June,6,Thursday,0,26,TXN1488,Q2 (Apr-Jun),Weekday,Large (2000-5000),Non-Essential,189036,27,-28.39
+2024-06-27,Transportation,82,UPI,Ola cab,June,6,Thursday,0,26,TXN1489,Q2 (Apr-Jun),Weekday,Small (<500),Non-Essential,189118,27,-97.26
+2024-06-27,Health,2906,UPI,Doctor consultation,June,6,Thursday,0,26,TXN1490,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,192024,27,-3.07
+2024-06-27,Groceries,4474,Debit Card,D-Mart shopping,June,6,Thursday,0,26,TXN1491,Q2 (Apr-Jun),Weekday,Large (2000-5000),Essential,196498,27,49.23
+2024-06-27,Travel,18166,Credit Card,Flight ticket,June,6,Thursday,0,26,TXN1492,Q2 (Apr-Jun),Weekday,Very Large (5000+),Non-Essential,214664,27,505.92
+2024-06-28,Food & Dining,1797,Credit Card,Zomato order,June,6,Friday,0,26,TXN1493,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,216461,28,-40.06
+2024-06-28,Transportation,619,UPI,Bus ticket,June,6,Friday,0,26,TXN1494,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,217080,28,-79.35
+2024-06-28,Entertainment,1691,Credit Card,Spotify premium,June,6,Friday,0,26,TXN1495,Q2 (Apr-Jun),Weekday,Medium (500-2000),Non-Essential,218771,28,-43.6
+2024-06-28,Education,7241,Credit Card,Books,June,6,Friday,0,26,TXN1496,Q2 (Apr-Jun),Weekday,Very Large (5000+),Essential,226012,28,141.52
+2024-06-29,Transportation,157,Credit Card,Metro card recharge,June,6,Saturday,1,26,TXN1499,Q2 (Apr-Jun),Weekend,Small (<500),Non-Essential,226169,29,-94.76
+2024-06-29,Health,2042,Credit Card,Doctor consultation,June,6,Saturday,1,26,TXN1497,Q2 (Apr-Jun),Weekend,Large (2000-5000),Essential,228211,29,-31.89
+2024-06-29,Food & Dining,1362,UPI,Zomato order,June,6,Saturday,1,26,TXN1498,Q2 (Apr-Jun),Weekend,Medium (500-2000),Non-Essential,229573,29,-54.57
+2024-06-30,Shopping,9982,UPI,Clothes shopping,June,6,Sunday,1,26,TXN1501,Q2 (Apr-Jun),Weekend,Very Large (5000+),Non-Essential,239555,30,232.95
+2024-06-30,Travel,12283,Cash,Flight ticket,June,6,Sunday,1,26,TXN1500,Q2 (Apr-Jun),Weekend,Very Large (5000+),Non-Essential,251838,30,309.7
+2024-07-01,Food & Dining,2120,UPI,Zomato order,July,7,Monday,0,27,TXN1502,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,2120,1,1.92
+2024-07-01,Shopping,6905,Net Banking,Amazon purchase,July,7,Monday,0,27,TXN1503,Q3 (Jul-Sep),Weekday,Very Large (5000+),Non-Essential,9025,1,231.97
+2024-07-02,Food & Dining,272,Credit Card,Restaurant dinner,July,7,Tuesday,0,27,TXN1504,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,9297,2,-86.92
+2024-07-02,Transportation,92,Credit Card,Uber ride,July,7,Tuesday,0,27,TXN1505,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,9389,2,-95.58
+2024-07-02,Utilities,1959,UPI,Electricity bill,July,7,Tuesday,0,27,TXN1506,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,11348,2,-5.82
+2024-07-03,Food & Dining,260,Credit Card,Lunch with friends,July,7,Wednesday,0,27,TXN1507,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,11608,3,-87.5
+2024-07-03,Transportation,380,Credit Card,Bus ticket,July,7,Wednesday,0,27,TXN1508,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,11988,3,-81.73
+2024-07-04,Food & Dining,2111,Net Banking,Restaurant dinner,July,7,Thursday,0,27,TXN1509,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,14099,4,1.49
+2024-07-04,Travel,5817,Credit Card,Train ticket,July,7,Thursday,0,27,TXN1510,Q3 (Jul-Sep),Weekday,Very Large (5000+),Non-Essential,19916,4,179.66
+2024-07-05,Food & Dining,941,Credit Card,Cafe coffee,July,7,Friday,0,27,TXN1511,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,20857,5,-54.76
+2024-07-05,Transportation,668,Cash,Petrol,July,7,Friday,0,27,TXN1512,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,21525,5,-67.89
+2024-07-06,Shopping,5142,Debit Card,Clothes shopping,July,7,Saturday,1,27,TXN1514,Q3 (Jul-Sep),Weekend,Very Large (5000+),Non-Essential,26667,6,147.21
+2024-07-06,Food & Dining,1517,UPI,Zomato order,July,7,Saturday,1,27,TXN1515,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,28184,6,-27.07
+2024-07-06,Transportation,87,UPI,Auto rickshaw,July,7,Saturday,1,27,TXN1513,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,28271,6,-95.82
+2024-07-07,Food & Dining,712,UPI,Zomato order,July,7,Sunday,1,27,TXN1518,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,28983,7,-65.77
+2024-07-07,Shopping,1685,UPI,Flipkart order,July,7,Sunday,1,27,TXN1517,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,30668,7,-18.99
+2024-07-07,Groceries,3156,Credit Card,Milk & dairy,July,7,Sunday,1,27,TXN1516,Q3 (Jul-Sep),Weekend,Large (2000-5000),Essential,33824,7,51.73
+2024-07-08,Food & Dining,286,Debit Card,Restaurant dinner,July,7,Monday,0,28,TXN1519,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,34110,8,-86.25
+2024-07-08,Transportation,775,UPI,Auto rickshaw,July,7,Monday,0,28,TXN1520,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,34885,8,-62.74
+2024-07-09,Food & Dining,1829,UPI,Zomato order,July,7,Tuesday,0,28,TXN1521,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,36714,9,-12.07
+2024-07-09,Transportation,687,UPI,Uber ride,July,7,Tuesday,0,28,TXN1522,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,37401,9,-66.97
+2024-07-09,Entertainment,2230,UPI,Gaming,July,7,Tuesday,0,28,TXN1523,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,39631,9,7.21
+2024-07-09,Health,3911,UPI,Health checkup,July,7,Tuesday,0,28,TXN1524,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,43542,9,88.03
+2024-07-10,Food & Dining,218,Debit Card,Swiggy delivery,July,7,Wednesday,0,28,TXN1525,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,43760,10,-89.52
+2024-07-10,Transportation,403,Credit Card,Bus ticket,July,7,Wednesday,0,28,TXN1526,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,44163,10,-80.63
+2024-07-10,Entertainment,438,UPI,Netflix subscription,July,7,Wednesday,0,28,TXN1527,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,44601,10,-78.94
+2024-07-11,Food & Dining,1230,Debit Card,Street food,July,7,Thursday,0,28,TXN1528,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,45831,11,-40.87
+2024-07-12,Food & Dining,1296,Credit Card,Zomato order,July,7,Friday,0,28,TXN1529,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,47127,12,-37.69
+2024-07-12,Transportation,647,Debit Card,Metro card recharge,July,7,Friday,0,28,TXN1530,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,47774,12,-68.89
+2024-07-12,Shopping,7273,Debit Card,Myntra order,July,7,Friday,0,28,TXN1531,Q3 (Jul-Sep),Weekday,Very Large (5000+),Non-Essential,55047,12,249.66
+2024-07-12,Rent,12000,Credit Card,Monthly rent,July,7,Friday,0,28,TXN1532,Q3 (Jul-Sep),Weekday,Very Large (5000+),Essential,67047,12,476.92
+2024-07-13,Food & Dining,3641,Debit Card,Cafe coffee,July,7,Saturday,1,28,TXN1534,Q3 (Jul-Sep),Weekend,Large (2000-5000),Non-Essential,70688,13,75.05
+2024-07-13,Transportation,734,Credit Card,Auto rickshaw,July,7,Saturday,1,28,TXN1533,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,71422,13,-64.71
+2024-07-14,Food & Dining,1168,Debit Card,Swiggy delivery,July,7,Sunday,1,28,TXN1535,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,72590,14,-43.85
+2024-07-14,Transportation,145,UPI,Metro card recharge,July,7,Sunday,1,28,TXN1536,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,72735,14,-93.03
+2024-07-14,Utilities,1218,UPI,Water bill,July,7,Sunday,1,28,TXN1537,Q3 (Jul-Sep),Weekend,Medium (500-2000),Essential,73953,14,-41.44
+2024-07-15,Food & Dining,1703,Credit Card,Zomato order,July,7,Monday,0,29,TXN1538,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,75656,15,-18.13
+2024-07-15,Transportation,260,Credit Card,Auto rickshaw,July,7,Monday,0,29,TXN1539,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,75916,15,-87.5
+2024-07-16,Food & Dining,689,Credit Card,Lunch with friends,July,7,Tuesday,0,29,TXN1540,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,76605,16,-66.88
+2024-07-18,Food & Dining,438,Credit Card,Restaurant dinner,July,7,Thursday,0,29,TXN1541,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,77043,18,-78.94
+2024-07-18,Transportation,178,Credit Card,Petrol,July,7,Thursday,0,29,TXN1542,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,77221,18,-91.44
+2024-07-18,Utilities,1474,Debit Card,DTH recharge,July,7,Thursday,0,29,TXN1543,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,78695,18,-29.14
+2024-07-19,Food & Dining,591,UPI,Lunch with friends,July,7,Friday,0,29,TXN1544,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,79286,19,-71.59
+2024-07-19,Transportation,454,Cash,Auto rickshaw,July,7,Friday,0,29,TXN1545,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,79740,19,-78.17
+2024-07-20,Food & Dining,3286,UPI,Lunch with friends,July,7,Saturday,1,29,TXN1546,Q3 (Jul-Sep),Weekend,Large (2000-5000),Non-Essential,83026,20,57.98
+2024-07-20,Groceries,3906,UPI,D-Mart shopping,July,7,Saturday,1,29,TXN1547,Q3 (Jul-Sep),Weekend,Large (2000-5000),Essential,86932,20,87.79
+2024-07-21,Health,4903,Debit Card,Gym membership,July,7,Sunday,1,29,TXN1550,Q3 (Jul-Sep),Weekend,Large (2000-5000),Essential,91835,21,135.72
+2024-07-21,Education,1919,Credit Card,Coaching fees,July,7,Sunday,1,29,TXN1549,Q3 (Jul-Sep),Weekend,Medium (500-2000),Essential,93754,21,-7.74
+2024-07-21,Utilities,2754,Credit Card,Internet bill,July,7,Sunday,1,29,TXN1548,Q3 (Jul-Sep),Weekend,Large (2000-5000),Essential,96508,21,32.4
+2024-07-22,Food & Dining,267,Net Banking,Restaurant dinner,July,7,Monday,0,30,TXN1551,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,96775,22,-87.16
+2024-07-22,Transportation,123,UPI,Ola cab,July,7,Monday,0,30,TXN1552,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,96898,22,-94.09
+2024-07-22,Shopping,2758,Cash,Clothes shopping,July,7,Monday,0,30,TXN1553,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,99656,22,32.59
+2024-07-23,Food & Dining,2144,Credit Card,Restaurant dinner,July,7,Tuesday,0,30,TXN1554,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,101800,23,3.08
+2024-07-23,Health,1398,UPI,Pharmacy,July,7,Tuesday,0,30,TXN1555,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,103198,23,-32.79
+2024-07-23,Education,1570,Debit Card,Udemy course,July,7,Tuesday,0,30,TXN1556,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,104768,23,-24.52
+2024-07-23,Utilities,1417,UPI,Water bill,July,7,Tuesday,0,30,TXN1557,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,106185,23,-31.88
+2024-07-23,Travel,15380,Cash,Hotel booking,July,7,Tuesday,0,30,TXN1558,Q3 (Jul-Sep),Weekday,Very Large (5000+),Non-Essential,121565,23,639.41
+2024-07-24,Food & Dining,1335,UPI,Restaurant dinner,July,7,Wednesday,0,30,TXN1559,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,122900,24,-35.82
+2024-07-24,Groceries,1804,Debit Card,Blinkit delivery,July,7,Wednesday,0,30,TXN1560,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,124704,24,-13.27
+2024-07-25,Food & Dining,2159,Credit Card,Cafe coffee,July,7,Thursday,0,30,TXN1561,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,126863,25,3.8
+2024-07-25,Transportation,345,UPI,Ola cab,July,7,Thursday,0,30,TXN1562,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,127208,25,-83.41
+2024-07-26,Education,7419,UPI,Stationery,July,7,Friday,0,30,TXN1564,Q3 (Jul-Sep),Weekday,Very Large (5000+),Essential,134627,26,256.68
+2024-07-26,Food & Dining,2335,Cash,Zomato order,July,7,Friday,0,30,TXN1565,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,136962,26,12.26
+2024-07-26,Shopping,1757,Debit Card,Amazon purchase,July,7,Friday,0,30,TXN1563,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,138719,26,-15.53
+2024-07-27,Food & Dining,2646,Credit Card,Swiggy delivery,July,7,Saturday,1,30,TXN1566,Q3 (Jul-Sep),Weekend,Large (2000-5000),Non-Essential,141365,27,27.21
+2024-07-27,Transportation,325,UPI,Uber ride,July,7,Saturday,1,30,TXN1567,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,141690,27,-84.38
+2024-07-27,Shopping,6770,Net Banking,Myntra order,July,7,Saturday,1,30,TXN1568,Q3 (Jul-Sep),Weekend,Very Large (5000+),Non-Essential,148460,27,225.48
+2024-07-27,Entertainment,1077,UPI,Spotify premium,July,7,Saturday,1,30,TXN1569,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,149537,27,-48.22
+2024-07-28,Food & Dining,301,Debit Card,Swiggy delivery,July,7,Sunday,1,30,TXN1570,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,149838,28,-85.53
+2024-07-28,Transportation,432,Net Banking,Bus ticket,July,7,Sunday,1,30,TXN1571,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,150270,28,-79.23
+2024-07-29,Food & Dining,2051,Credit Card,Zomato order,July,7,Monday,0,31,TXN1573,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,152321,29,-1.4
+2024-07-29,Transportation,784,UPI,Ola cab,July,7,Monday,0,31,TXN1572,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,153105,29,-62.31
+2024-07-30,Food & Dining,2198,Credit Card,Street food,July,7,Tuesday,0,31,TXN1574,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,155303,30,5.67
+2024-07-31,Food & Dining,426,Debit Card,Cafe coffee,July,7,Wednesday,0,31,TXN1575,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,155729,31,-79.52
+2024-07-31,Transportation,273,UPI,Auto rickshaw,July,7,Wednesday,0,31,TXN1576,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,156002,31,-86.88
+2024-08-01,Entertainment,2367,UPI,Amazon Prime,August,8,Thursday,0,31,TXN1577,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,2367,1,-10.75
+2024-08-02,Food & Dining,2053,UPI,Lunch with friends,August,8,Friday,0,31,TXN1578,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,4420,2,-22.59
+2024-08-02,Transportation,436,Cash,Petrol,August,8,Friday,0,31,TXN1579,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,4856,2,-83.56
+2024-08-03,Food & Dining,1049,Credit Card,Zomato order,August,8,Saturday,1,31,TXN1584,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,5905,3,-60.45
+2024-08-03,Transportation,766,UPI,Petrol,August,8,Saturday,1,31,TXN1583,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,6671,3,-71.12
+2024-08-03,Health,3429,UPI,Gym membership,August,8,Saturday,1,31,TXN1582,Q3 (Jul-Sep),Weekend,Large (2000-5000),Essential,10100,3,29.3
+2024-08-03,Education,9519,UPI,Books,August,8,Saturday,1,31,TXN1581,Q3 (Jul-Sep),Weekend,Very Large (5000+),Essential,19619,3,258.93
+2024-08-03,Groceries,1155,Debit Card,Blinkit delivery,August,8,Saturday,1,31,TXN1580,Q3 (Jul-Sep),Weekend,Medium (500-2000),Essential,20774,3,-56.45
+2024-08-04,Food & Dining,1684,UPI,Lunch with friends,August,8,Sunday,1,31,TXN1585,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,22458,4,-36.5
+2024-08-04,Shopping,9934,UPI,Amazon purchase,August,8,Sunday,1,31,TXN1586,Q3 (Jul-Sep),Weekend,Very Large (5000+),Non-Essential,32392,4,274.58
+2024-08-04,Groceries,2715,UPI,BigBasket order,August,8,Sunday,1,31,TXN1587,Q3 (Jul-Sep),Weekend,Large (2000-5000),Essential,35107,4,2.37
+2024-08-05,Transportation,788,Debit Card,Ola cab,August,8,Monday,0,32,TXN1588,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,35895,5,-70.29
+2024-08-06,Food & Dining,1082,Debit Card,Restaurant dinner,August,8,Tuesday,0,32,TXN1589,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,36977,6,-59.2
+2024-08-06,Transportation,530,UPI,Auto rickshaw,August,8,Tuesday,0,32,TXN1590,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,37507,6,-80.02
+2024-08-07,Food & Dining,1594,UPI,Zomato order,August,8,Wednesday,0,32,TXN1591,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,39101,7,-39.9
+2024-08-07,Transportation,499,Debit Card,Metro card recharge,August,8,Wednesday,0,32,TXN1592,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,39600,7,-81.18
+2024-08-08,Food & Dining,2424,UPI,Swiggy delivery,August,8,Thursday,0,32,TXN1593,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,42024,8,-8.6
+2024-08-08,Transportation,619,Debit Card,Ola cab,August,8,Thursday,0,32,TXN1594,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,42643,8,-76.66
+2024-08-09,Transportation,509,UPI,Uber ride,August,8,Friday,0,32,TXN1595,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,43152,9,-80.81
+2024-08-09,Entertainment,336,UPI,Gaming,August,8,Friday,0,32,TXN1596,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,43488,9,-87.33
+2024-08-09,Groceries,3967,Credit Card,Blinkit delivery,August,8,Friday,0,32,TXN1597,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,47455,9,49.58
+2024-08-10,Food & Dining,535,Debit Card,Zomato order,August,8,Saturday,1,32,TXN1599,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,47990,10,-79.83
+2024-08-10,Transportation,509,Cash,Petrol,August,8,Saturday,1,32,TXN1598,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,48499,10,-80.81
+2024-08-11,Food & Dining,1369,Credit Card,Cafe coffee,August,8,Sunday,1,32,TXN1600,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,49868,11,-48.38
+2024-08-11,Shopping,9884,UPI,Home decor,August,8,Sunday,1,32,TXN1601,Q3 (Jul-Sep),Weekend,Very Large (5000+),Non-Essential,59752,11,272.69
+2024-08-11,Groceries,4972,UPI,Vegetable market,August,8,Sunday,1,32,TXN1602,Q3 (Jul-Sep),Weekend,Large (2000-5000),Essential,64724,11,87.48
+2024-08-12,Food & Dining,2187,Credit Card,Street food,August,8,Monday,0,33,TXN1603,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,66911,12,-17.54
+2024-08-12,Rent,12000,Debit Card,Monthly rent,August,8,Monday,0,33,TXN1604,Q3 (Jul-Sep),Weekday,Very Large (5000+),Essential,78911,12,352.48
+2024-08-13,Food & Dining,2303,UPI,Lunch with friends,August,8,Tuesday,0,33,TXN1605,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,81214,13,-13.16
+2024-08-13,Transportation,634,Cash,Uber ride,August,8,Tuesday,0,33,TXN1606,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,81848,13,-76.09
+2024-08-13,Entertainment,2277,Cash,Gaming,August,8,Tuesday,0,33,TXN1607,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,84125,13,-14.14
+2024-08-13,Health,1925,Debit Card,Pharmacy,August,8,Tuesday,0,33,TXN1608,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,86050,13,-27.42
+2024-08-13,Groceries,3745,Credit Card,Blinkit delivery,August,8,Tuesday,0,33,TXN1609,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,89795,13,41.21
+2024-08-13,Travel,4587,UPI,Flight ticket,August,8,Tuesday,0,33,TXN1610,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,94382,13,72.96
+2024-08-14,Food & Dining,751,Net Banking,Zomato order,August,8,Wednesday,0,33,TXN1611,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,95133,14,-71.68
+2024-08-14,Transportation,240,Debit Card,Uber ride,August,8,Wednesday,0,33,TXN1612,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,95373,14,-90.95
+2024-08-15,Food & Dining,1048,UPI,Street food,August,8,Thursday,0,33,TXN1615,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,96421,15,-60.48
+2024-08-15,Shopping,1762,UPI,Myntra order,August,8,Thursday,0,33,TXN1614,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,98183,15,-33.56
+2024-08-15,Rent,12000,Debit Card,Room rent,August,8,Thursday,0,33,TXN1613,Q3 (Jul-Sep),Weekday,Very Large (5000+),Essential,110183,15,352.48
+2024-08-16,Food & Dining,1185,Credit Card,Lunch with friends,August,8,Friday,0,33,TXN1616,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,111368,16,-55.32
+2024-08-16,Transportation,195,UPI,Ola cab,August,8,Friday,0,33,TXN1617,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,111563,16,-92.65
+2024-08-16,Entertainment,2631,UPI,Spotify premium,August,8,Friday,0,33,TXN1618,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,114194,16,-0.79
+2024-08-16,Education,8504,Credit Card,Coaching fees,August,8,Friday,0,33,TXN1619,Q3 (Jul-Sep),Weekday,Very Large (5000+),Essential,122698,16,220.65
+2024-08-17,Food & Dining,536,Net Banking,Restaurant dinner,August,8,Saturday,1,33,TXN1620,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,123234,17,-79.79
+2024-08-17,Transportation,190,Credit Card,Bus ticket,August,8,Saturday,1,33,TXN1621,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,123424,17,-92.84
+2024-08-17,Utilities,2435,UPI,Gas cylinder,August,8,Saturday,1,33,TXN1622,Q3 (Jul-Sep),Weekend,Large (2000-5000),Essential,125859,17,-8.19
+2024-08-18,Food & Dining,469,Debit Card,Zomato order,August,8,Sunday,1,33,TXN1623,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,126328,18,-82.32
+2024-08-18,Transportation,632,Cash,Metro card recharge,August,8,Sunday,1,33,TXN1624,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,126960,18,-76.17
+2024-08-18,Education,9849,UPI,Stationery,August,8,Sunday,1,33,TXN1625,Q3 (Jul-Sep),Weekend,Very Large (5000+),Essential,136809,18,271.37
+2024-08-19,Food & Dining,2175,Debit Card,Lunch with friends,August,8,Monday,0,34,TXN1626,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,138984,19,-17.99
+2024-08-19,Transportation,142,Cash,Uber ride,August,8,Monday,0,34,TXN1627,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,139126,19,-94.65
+2024-08-19,Groceries,1834,Debit Card,Vegetable market,August,8,Monday,0,34,TXN1628,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,140960,19,-30.85
+2024-08-20,Transportation,465,Debit Card,Bus ticket,August,8,Tuesday,0,34,TXN1630,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,141425,20,-82.47
+2024-08-20,Entertainment,2397,Debit Card,Spotify premium,August,8,Tuesday,0,34,TXN1629,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,143822,20,-9.62
+2024-08-21,Food & Dining,1040,UPI,Restaurant dinner,August,8,Wednesday,0,34,TXN1631,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,144862,21,-60.79
+2024-08-21,Utilities,2915,Credit Card,Internet bill,August,8,Wednesday,0,34,TXN1632,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,147777,21,9.91
+2024-08-21,Groceries,2337,UPI,BigBasket order,August,8,Wednesday,0,34,TXN1633,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,150114,21,-11.88
+2024-08-21,Travel,14618,Credit Card,Hotel booking,August,8,Wednesday,0,34,TXN1634,Q3 (Jul-Sep),Weekday,Very Large (5000+),Non-Essential,164732,21,451.19
+2024-08-22,Food & Dining,1682,UPI,Street food,August,8,Thursday,0,34,TXN1635,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,166414,22,-36.58
+2024-08-22,Utilities,1477,UPI,Mobile recharge,August,8,Thursday,0,34,TXN1636,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,167891,22,-44.31
+2024-08-22,Groceries,1482,UPI,Blinkit delivery,August,8,Thursday,0,34,TXN1637,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,169373,22,-44.12
+2024-08-23,Food & Dining,690,UPI,Swiggy delivery,August,8,Friday,0,34,TXN1638,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,170063,23,-73.98
+2024-08-23,Transportation,382,Credit Card,Bus ticket,August,8,Friday,0,34,TXN1639,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,170445,23,-85.6
+2024-08-23,Travel,19524,Debit Card,Flight ticket,August,8,Friday,0,34,TXN1640,Q3 (Jul-Sep),Weekday,Very Large (5000+),Non-Essential,189969,23,636.18
+2024-08-24,Food & Dining,856,Debit Card,Street food,August,8,Saturday,1,34,TXN1641,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,190825,24,-67.72
+2024-08-24,Transportation,679,UPI,Petrol,August,8,Saturday,1,34,TXN1642,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,191504,24,-74.4
+2024-08-25,Education,4939,Credit Card,Online certification,August,8,Sunday,1,34,TXN1644,Q3 (Jul-Sep),Weekend,Large (2000-5000),Essential,196443,25,86.23
+2024-08-25,Food & Dining,2097,Credit Card,Street food,August,8,Sunday,1,34,TXN1645,Q3 (Jul-Sep),Weekend,Large (2000-5000),Non-Essential,198540,25,-20.93
+2024-08-25,Shopping,9378,UPI,Flipkart order,August,8,Sunday,1,34,TXN1643,Q3 (Jul-Sep),Weekend,Very Large (5000+),Non-Essential,207918,25,253.61
+2024-08-27,Transportation,349,UPI,Uber ride,August,8,Tuesday,0,35,TXN1648,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,208267,27,-86.84
+2024-08-27,Health,789,Debit Card,Gym membership,August,8,Tuesday,0,35,TXN1646,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,209056,27,-70.25
+2024-08-27,Food & Dining,1115,Debit Card,Restaurant dinner,August,8,Tuesday,0,35,TXN1647,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,210171,27,-57.96
+2024-08-28,Food & Dining,329,Credit Card,Zomato order,August,8,Wednesday,0,35,TXN1649,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,210500,28,-87.59
+2024-08-28,Transportation,65,UPI,Auto rickshaw,August,8,Wednesday,0,35,TXN1650,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,210565,28,-97.55
+2024-08-28,Health,640,Debit Card,Medicine,August,8,Wednesday,0,35,TXN1651,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,211205,28,-75.87
+2024-08-29,Food & Dining,1404,Debit Card,Swiggy delivery,August,8,Thursday,0,35,TXN1652,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,212609,29,-47.06
+2024-08-29,Transportation,157,UPI,Metro card recharge,August,8,Thursday,0,35,TXN1653,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,212766,29,-94.08
+2024-08-30,Food & Dining,2277,UPI,Cafe coffee,August,8,Friday,0,35,TXN1654,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,215043,30,-14.14
+2024-08-30,Shopping,943,Cash,Amazon purchase,August,8,Friday,0,35,TXN1655,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,215986,30,-64.44
+2024-08-30,Utilities,1760,Credit Card,Water bill,August,8,Friday,0,35,TXN1656,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,217746,30,-33.64
+2024-08-30,Groceries,1335,UPI,Blinkit delivery,August,8,Friday,0,35,TXN1657,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,219081,30,-49.66
+2024-08-31,Food & Dining,953,Credit Card,Zomato order,August,8,Saturday,1,35,TXN1658,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,220034,31,-64.07
+2024-08-31,Transportation,88,Credit Card,Ola cab,August,8,Saturday,1,35,TXN1659,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,220122,31,-96.68
+2024-09-01,Food & Dining,1498,UPI,Lunch with friends,September,9,Sunday,1,35,TXN1660,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,1498,1,-26.36
+2024-09-01,Shopping,8256,Credit Card,Myntra order,September,9,Sunday,1,35,TXN1661,Q3 (Jul-Sep),Weekend,Very Large (5000+),Non-Essential,9754,1,305.86
+2024-09-02,Food & Dining,394,UPI,Street food,September,9,Monday,0,36,TXN1665,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,10148,2,-80.63
+2024-09-02,Transportation,748,Cash,Auto rickshaw,September,9,Monday,0,36,TXN1664,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,10896,2,-63.23
+2024-09-02,Health,2743,UPI,Pharmacy,September,9,Monday,0,36,TXN1663,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,13639,2,34.84
+2024-09-02,Utilities,2323,Debit Card,Electricity bill,September,9,Monday,0,36,TXN1662,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,15962,2,14.2
+2024-09-03,Food & Dining,571,Credit Card,Restaurant dinner,September,9,Tuesday,0,36,TXN1666,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,16533,3,-71.93
+2024-09-03,Transportation,92,UPI,Metro card recharge,September,9,Tuesday,0,36,TXN1667,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,16625,3,-95.48
+2024-09-03,Health,4354,Debit Card,Pharmacy,September,9,Tuesday,0,36,TXN1668,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,20979,3,114.04
+2024-09-03,Groceries,4480,UPI,Blinkit delivery,September,9,Tuesday,0,36,TXN1669,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,25459,3,120.23
+2024-09-04,Food & Dining,2319,UPI,Cafe coffee,September,9,Wednesday,0,36,TXN1670,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,27778,4,14.0
+2024-09-04,Transportation,657,UPI,Bus ticket,September,9,Wednesday,0,36,TXN1671,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,28435,4,-67.7
+2024-09-05,Food & Dining,1051,Debit Card,Street food,September,9,Thursday,0,36,TXN1672,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,29486,5,-48.33
+2024-09-06,Transportation,220,UPI,Petrol,September,9,Friday,0,36,TXN1673,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,29706,6,-89.18
+2024-09-07,Food & Dining,652,Debit Card,Restaurant dinner,September,9,Saturday,1,36,TXN1674,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,30358,7,-67.95
+2024-09-07,Health,2102,Credit Card,Gym membership,September,9,Saturday,1,36,TXN1675,Q3 (Jul-Sep),Weekend,Large (2000-5000),Essential,32460,7,3.33
+2024-09-08,Food & Dining,2249,Debit Card,Restaurant dinner,September,9,Sunday,1,36,TXN1676,Q3 (Jul-Sep),Weekend,Large (2000-5000),Non-Essential,34709,8,10.56
+2024-09-08,Transportation,425,UPI,Auto rickshaw,September,9,Sunday,1,36,TXN1677,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,35134,8,-79.11
+2024-09-10,Entertainment,2581,UPI,Gaming,September,9,Tuesday,0,37,TXN1680,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,37715,10,26.88
+2024-09-10,Groceries,3039,Net Banking,Milk & dairy,September,9,Tuesday,0,37,TXN1678,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,40754,10,49.4
+2024-09-10,Food & Dining,946,Net Banking,Swiggy delivery,September,9,Tuesday,0,37,TXN1679,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,41700,10,-53.5
+2024-09-11,Food & Dining,443,UPI,Zomato order,September,9,Wednesday,0,37,TXN1681,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,42143,11,-78.22
+2024-09-12,Food & Dining,1411,UPI,Zomato order,September,9,Thursday,0,37,TXN1682,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,43554,12,-30.64
+2024-09-12,Transportation,551,UPI,Ola cab,September,9,Thursday,0,37,TXN1683,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,44105,12,-72.91
+2024-09-12,Shopping,7845,Cash,Clothes shopping,September,9,Thursday,0,37,TXN1684,Q3 (Jul-Sep),Weekday,Very Large (5000+),Non-Essential,51950,12,285.66
+2024-09-12,Entertainment,1119,Debit Card,Movie tickets,September,9,Thursday,0,37,TXN1685,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,53069,12,-44.99
+2024-09-12,Groceries,2436,UPI,Vegetable market,September,9,Thursday,0,37,TXN1686,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,55505,12,19.75
+2024-09-13,Food & Dining,1752,Credit Card,Lunch with friends,September,9,Friday,0,37,TXN1687,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,57257,13,-13.87
+2024-09-13,Health,2455,Cash,Lab tests,September,9,Friday,0,37,TXN1688,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,59712,13,20.69
+2024-09-13,Groceries,1441,Net Banking,Blinkit delivery,September,9,Friday,0,37,TXN1689,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,61153,13,-29.16
+2024-09-14,Transportation,406,UPI,Uber ride,September,9,Saturday,1,37,TXN1692,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,61559,14,-80.04
+2024-09-14,Education,1904,Cash,Coaching fees,September,9,Saturday,1,37,TXN1690,Q3 (Jul-Sep),Weekend,Medium (500-2000),Essential,63463,14,-6.4
+2024-09-14,Food & Dining,2942,Credit Card,Swiggy delivery,September,9,Saturday,1,37,TXN1691,Q3 (Jul-Sep),Weekend,Large (2000-5000),Non-Essential,66405,14,44.63
+2024-09-14,Groceries,1270,Credit Card,D-Mart shopping,September,9,Saturday,1,37,TXN1693,Q3 (Jul-Sep),Weekend,Medium (500-2000),Essential,67675,14,-37.57
+2024-09-15,Food & Dining,2119,UPI,Street food,September,9,Sunday,1,37,TXN1695,Q3 (Jul-Sep),Weekend,Large (2000-5000),Non-Essential,69794,15,4.17
+2024-09-15,Entertainment,996,UPI,Movie tickets,September,9,Sunday,1,37,TXN1694,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,70790,15,-51.04
+2024-09-16,Food & Dining,343,Cash,Cafe coffee,September,9,Monday,0,38,TXN1696,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,71133,16,-83.14
+2024-09-16,Transportation,228,Credit Card,Ola cab,September,9,Monday,0,38,TXN1697,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,71361,16,-88.79
+2024-09-16,Shopping,4233,UPI,Home decor,September,9,Monday,0,38,TXN1698,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,75594,16,108.09
+2024-09-17,Food & Dining,228,UPI,Lunch with friends,September,9,Tuesday,0,38,TXN1699,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,75822,17,-88.79
+2024-09-17,Transportation,343,Credit Card,Metro card recharge,September,9,Tuesday,0,38,TXN1700,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,76165,17,-83.14
+2024-09-17,Utilities,950,UPI,Gas cylinder,September,9,Tuesday,0,38,TXN1701,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,77115,17,-53.3
+2024-09-18,Food & Dining,2262,Debit Card,Swiggy delivery,September,9,Wednesday,0,38,TXN1707,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,79377,18,11.2
+2024-09-18,Transportation,457,Credit Card,Petrol,September,9,Wednesday,0,38,TXN1706,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,79834,18,-77.53
+2024-09-18,Groceries,2464,UPI,Vegetable market,September,9,Wednesday,0,38,TXN1705,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,82298,18,21.13
+2024-09-18,Shopping,2014,Credit Card,Amazon purchase,September,9,Wednesday,0,38,TXN1708,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,84312,18,-0.99
+2024-09-18,Health,4217,UPI,Doctor consultation,September,9,Wednesday,0,38,TXN1703,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,88529,18,107.31
+2024-09-18,Education,6649,Cash,Online certification,September,9,Wednesday,0,38,TXN1702,Q3 (Jul-Sep),Weekday,Very Large (5000+),Essential,95178,18,226.86
+2024-09-18,Entertainment,2259,Net Banking,Gaming,September,9,Wednesday,0,38,TXN1704,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,97437,18,11.05
+2024-09-19,Food & Dining,667,Credit Card,Cafe coffee,September,9,Thursday,0,38,TXN1711,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,98104,19,-67.21
+2024-09-19,Transportation,372,Net Banking,Bus ticket,September,9,Thursday,0,38,TXN1710,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,98476,19,-81.71
+2024-09-19,Utilities,1641,Credit Card,Internet bill,September,9,Thursday,0,38,TXN1709,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,100117,19,-19.33
+2024-09-20,Transportation,163,Credit Card,Metro card recharge,September,9,Friday,0,38,TXN1712,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,100280,20,-91.99
+2024-09-21,Food & Dining,3159,UPI,Cafe coffee,September,9,Saturday,1,38,TXN1713,Q3 (Jul-Sep),Weekend,Large (2000-5000),Non-Essential,103439,21,55.29
+2024-09-21,Transportation,589,Debit Card,Auto rickshaw,September,9,Saturday,1,38,TXN1714,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,104028,21,-71.05
+2024-09-21,Shopping,11377,UPI,Clothes shopping,September,9,Saturday,1,38,TXN1715,Q3 (Jul-Sep),Weekend,Very Large (5000+),Non-Essential,115405,21,459.29
+2024-09-22,Transportation,488,Cash,Auto rickshaw,September,9,Sunday,1,38,TXN1716,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,115893,22,-76.01
+2024-09-22,Entertainment,3102,UPI,Spotify premium,September,9,Sunday,1,38,TXN1717,Q3 (Jul-Sep),Weekend,Large (2000-5000),Non-Essential,118995,22,52.49
+2024-09-23,Food & Dining,2082,Credit Card,Swiggy delivery,September,9,Monday,0,39,TXN1718,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,121077,23,2.35
+2024-09-23,Transportation,352,UPI,Uber ride,September,9,Monday,0,39,TXN1719,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,121429,23,-82.7
+2024-09-23,Entertainment,2594,UPI,Netflix subscription,September,9,Monday,0,39,TXN1720,Q3 (Jul-Sep),Weekday,Large (2000-5000),Non-Essential,124023,23,27.52
+2024-09-23,Groceries,4248,UPI,D-Mart shopping,September,9,Monday,0,39,TXN1721,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,128271,23,108.83
+2024-09-24,Food & Dining,227,Credit Card,Zomato order,September,9,Tuesday,0,39,TXN1726,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,128498,24,-88.84
+2024-09-24,Transportation,346,Credit Card,Ola cab,September,9,Tuesday,0,39,TXN1725,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,128844,24,-82.99
+2024-09-24,Shopping,1401,UPI,Myntra order,September,9,Tuesday,0,39,TXN1727,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,130245,24,-31.13
+2024-09-24,Entertainment,970,UPI,Spotify premium,September,9,Tuesday,0,39,TXN1723,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,131215,24,-52.32
+2024-09-24,Health,4541,Debit Card,Lab tests,September,9,Tuesday,0,39,TXN1722,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,135756,24,123.23
+2024-09-24,Groceries,3476,Credit Card,Milk & dairy,September,9,Tuesday,0,39,TXN1724,Q3 (Jul-Sep),Weekday,Large (2000-5000),Essential,139232,24,70.88
+2024-09-25,Transportation,772,Credit Card,Bus ticket,September,9,Wednesday,0,39,TXN1728,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,140004,25,-62.05
+2024-09-26,Food & Dining,1857,UPI,Zomato order,September,9,Thursday,0,39,TXN1729,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,141861,26,-8.71
+2024-09-26,Transportation,600,Debit Card,Uber ride,September,9,Thursday,0,39,TXN1730,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,142461,26,-70.5
+2024-09-26,Rent,12000,Credit Card,Monthly rent,September,9,Thursday,0,39,TXN1731,Q3 (Jul-Sep),Weekday,Very Large (5000+),Essential,154461,26,489.91
+2024-09-27,Food & Dining,342,UPI,Cafe coffee,September,9,Friday,0,39,TXN1732,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,154803,27,-83.19
+2024-09-27,Utilities,1618,UPI,Mobile recharge,September,9,Friday,0,39,TXN1733,Q3 (Jul-Sep),Weekday,Medium (500-2000),Essential,156421,27,-20.46
+2024-09-28,Food & Dining,2863,UPI,Cafe coffee,September,9,Saturday,1,39,TXN1735,Q3 (Jul-Sep),Weekend,Large (2000-5000),Non-Essential,159284,28,40.74
+2024-09-28,Transportation,317,UPI,Petrol,September,9,Saturday,1,39,TXN1734,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,159601,28,-84.42
+2024-09-29,Food & Dining,587,UPI,Swiggy delivery,September,9,Sunday,1,39,TXN1736,Q3 (Jul-Sep),Weekend,Medium (500-2000),Non-Essential,160188,29,-71.14
+2024-09-29,Transportation,232,UPI,Uber ride,September,9,Sunday,1,39,TXN1737,Q3 (Jul-Sep),Weekend,Small (<500),Non-Essential,160420,29,-88.6
+2024-09-30,Food & Dining,1949,Credit Card,Restaurant dinner,September,9,Monday,0,40,TXN1738,Q3 (Jul-Sep),Weekday,Medium (500-2000),Non-Essential,162369,30,-4.19
+2024-09-30,Transportation,367,Debit Card,Ola cab,September,9,Monday,0,40,TXN1739,Q3 (Jul-Sep),Weekday,Small (<500),Non-Essential,162736,30,-81.96
+2024-10-01,Food & Dining,310,UPI,Restaurant dinner,October,10,Tuesday,0,40,TXN1740,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,310,1,-89.25
+2024-10-01,Transportation,781,Credit Card,Metro card recharge,October,10,Tuesday,0,40,TXN1741,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,1091,1,-72.92
+2024-10-02,Transportation,587,UPI,Bus ticket,October,10,Wednesday,0,40,TXN1745,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,1678,2,-79.64
+2024-10-02,Food & Dining,2144,UPI,Lunch with friends,October,10,Wednesday,0,40,TXN1744,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,3822,2,-25.65
+2024-10-02,Entertainment,887,UPI,Amazon Prime,October,10,Wednesday,0,40,TXN1742,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,4709,2,-69.24
+2024-10-02,Shopping,5494,UPI,Home decor,October,10,Wednesday,0,40,TXN1743,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,10203,2,90.53
+2024-10-03,Food & Dining,1423,Debit Card,Cafe coffee,October,10,Thursday,0,40,TXN1746,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,11626,3,-50.65
+2024-10-03,Transportation,436,UPI,Metro card recharge,October,10,Thursday,0,40,TXN1747,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,12062,3,-84.88
+2024-10-03,Health,3458,UPI,Gym membership,October,10,Thursday,0,40,TXN1748,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,15520,3,19.92
+2024-10-04,Food & Dining,1612,Net Banking,Restaurant dinner,October,10,Friday,0,40,TXN1749,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,17132,4,-44.1
+2024-10-04,Shopping,615,Credit Card,Home decor,October,10,Friday,0,40,TXN1750,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,17747,4,-78.67
+2024-10-05,Food & Dining,1105,UPI,Restaurant dinner,October,10,Saturday,1,40,TXN1751,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,18852,5,-61.68
+2024-10-05,Transportation,410,UPI,Auto rickshaw,October,10,Saturday,1,40,TXN1752,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,19262,5,-85.78
+2024-10-05,Shopping,12343,UPI,Flipkart order,October,10,Saturday,1,40,TXN1753,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,31605,5,328.05
+2024-10-06,Food & Dining,917,UPI,Swiggy delivery,October,10,Sunday,1,40,TXN1754,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,32522,6,-68.2
+2024-10-06,Transportation,650,Credit Card,Auto rickshaw,October,10,Sunday,1,40,TXN1755,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,33172,6,-77.46
+2024-10-06,Shopping,8172,Cash,Flipkart order,October,10,Sunday,1,40,TXN1756,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,41344,6,183.4
+2024-10-07,Food & Dining,1198,Debit Card,Street food,October,10,Monday,0,41,TXN1759,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,42542,7,-58.45
+2024-10-07,Shopping,6236,Credit Card,Amazon purchase,October,10,Monday,0,41,TXN1760,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,48778,7,116.26
+2024-10-07,Education,3659,Credit Card,Workshop,October,10,Monday,0,41,TXN1757,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,52437,7,26.89
+2024-10-07,Groceries,3925,Cash,BigBasket order,October,10,Monday,0,41,TXN1758,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,56362,7,36.12
+2024-10-08,Food & Dining,2372,UPI,Restaurant dinner,October,10,Tuesday,0,41,TXN1761,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,58734,8,-17.74
+2024-10-08,Utilities,1301,UPI,Internet bill,October,10,Tuesday,0,41,TXN1762,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,60035,8,-54.88
+2024-10-09,Food & Dining,2360,Credit Card,Street food,October,10,Wednesday,0,41,TXN1763,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,62395,9,-18.16
+2024-10-09,Transportation,128,Debit Card,Bus ticket,October,10,Wednesday,0,41,TXN1764,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,62523,9,-95.56
+2024-10-09,Shopping,3309,Credit Card,Electronics,October,10,Wednesday,0,41,TXN1765,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,65832,9,14.76
+2024-10-10,Entertainment,2779,Debit Card,Amazon Prime,October,10,Thursday,0,41,TXN1769,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,68611,10,-3.62
+2024-10-10,Groceries,1981,Credit Card,Supermarket,October,10,Thursday,0,41,TXN1766,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,70592,10,-31.3
+2024-10-10,Transportation,523,UPI,Metro card recharge,October,10,Thursday,0,41,TXN1767,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,71115,10,-81.86
+2024-10-10,Shopping,7965,UPI,Clothes shopping,October,10,Thursday,0,41,TXN1768,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,79080,10,176.22
+2024-10-11,Food & Dining,658,Cash,Street food,October,10,Friday,0,41,TXN1770,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,79738,11,-77.18
+2024-10-12,Shopping,8857,Cash,Home decor,October,10,Saturday,1,41,TXN1772,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,88595,12,207.16
+2024-10-12,Entertainment,3640,Net Banking,Spotify premium,October,10,Saturday,1,41,TXN1771,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,92235,12,26.23
+2024-10-13,Transportation,322,Debit Card,Petrol,October,10,Sunday,1,41,TXN1773,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,92557,13,-88.83
+2024-10-14,Food & Dining,1304,Credit Card,Lunch with friends,October,10,Monday,0,42,TXN1778,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,93861,14,-54.78
+2024-10-14,Transportation,389,Debit Card,Auto rickshaw,October,10,Monday,0,42,TXN1777,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,94250,14,-86.51
+2024-10-14,Shopping,6854,UPI,Home decor,October,10,Monday,0,42,TXN1776,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,101104,14,137.7
+2024-10-14,Entertainment,2782,UPI,Gaming,October,10,Monday,0,42,TXN1775,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,103886,14,-3.52
+2024-10-14,Groceries,4140,UPI,Blinkit delivery,October,10,Monday,0,42,TXN1774,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,108026,14,43.57
+2024-10-15,Transportation,383,Credit Card,Metro card recharge,October,10,Tuesday,0,42,TXN1779,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,108409,15,-86.72
+2024-10-15,Entertainment,745,Credit Card,Netflix subscription,October,10,Tuesday,0,42,TXN1780,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,109154,15,-74.16
+2024-10-15,Groceries,4072,Credit Card,Supermarket,October,10,Tuesday,0,42,TXN1781,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,113226,15,41.22
+2024-10-16,Food & Dining,425,Debit Card,Street food,October,10,Wednesday,0,42,TXN1782,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,113651,16,-85.26
+2024-10-16,Transportation,258,Credit Card,Metro card recharge,October,10,Wednesday,0,42,TXN1783,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,113909,16,-91.05
+2024-10-16,Shopping,6301,Credit Card,Electronics,October,10,Wednesday,0,42,TXN1784,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,120210,16,118.52
+2024-10-17,Food & Dining,2361,Cash,Zomato order,October,10,Thursday,0,42,TXN1785,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,122571,17,-18.12
+2024-10-17,Shopping,2994,Credit Card,Clothes shopping,October,10,Thursday,0,42,TXN1786,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,125565,17,3.83
+2024-10-17,Entertainment,300,UPI,Concert tickets,October,10,Thursday,0,42,TXN1787,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,125865,17,-89.6
+2024-10-17,Education,5704,UPI,Stationery,October,10,Thursday,0,42,TXN1788,Q4 (Oct-Dec),Weekday,Very Large (5000+),Essential,131569,17,97.81
+2024-10-18,Food & Dining,1496,UPI,Lunch with friends,October,10,Friday,0,42,TXN1789,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,133065,18,-48.12
+2024-10-18,Transportation,764,UPI,Uber ride,October,10,Friday,0,42,TXN1790,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,133829,18,-73.5
+2024-10-19,Food & Dining,1122,Credit Card,Restaurant dinner,October,10,Saturday,1,42,TXN1793,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,134951,19,-61.09
+2024-10-19,Transportation,254,UPI,Petrol,October,10,Saturday,1,42,TXN1792,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,135205,19,-91.19
+2024-10-19,Shopping,6329,Credit Card,Flipkart order,October,10,Saturday,1,42,TXN1791,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,141534,19,119.49
+2024-10-20,Food & Dining,498,Debit Card,Zomato order,October,10,Sunday,1,42,TXN1794,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,142032,20,-82.73
+2024-10-20,Shopping,8988,Credit Card,Myntra order,October,10,Sunday,1,42,TXN1795,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,151020,20,211.7
+2024-10-21,Food & Dining,686,UPI,Cafe coffee,October,10,Monday,0,43,TXN1796,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,151706,21,-76.21
+2024-10-21,Transportation,282,UPI,Uber ride,October,10,Monday,0,43,TXN1797,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,151988,21,-90.22
+2024-10-21,Shopping,4794,Credit Card,Amazon purchase,October,10,Monday,0,43,TXN1798,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,156782,21,66.25
+2024-10-22,Transportation,639,UPI,Uber ride,October,10,Tuesday,0,43,TXN1799,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,157421,22,-77.84
+2024-10-22,Education,2480,UPI,Stationery,October,10,Tuesday,0,43,TXN1800,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,159901,22,-13.99
+2024-10-23,Food & Dining,1098,Credit Card,Swiggy delivery,October,10,Wednesday,0,43,TXN1801,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,160999,23,-61.92
+2024-10-23,Shopping,3910,UPI,Home decor,October,10,Wednesday,0,43,TXN1802,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,164909,23,35.6
+2024-10-23,Utilities,679,Debit Card,DTH recharge,October,10,Wednesday,0,43,TXN1803,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,165588,23,-76.45
+2024-10-23,Groceries,1479,Cash,Milk & dairy,October,10,Wednesday,0,43,TXN1804,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,167067,23,-48.71
+2024-10-24,Transportation,696,Debit Card,Metro card recharge,October,10,Thursday,0,43,TXN1805,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,167763,24,-75.86
+2024-10-24,Shopping,1910,UPI,Home decor,October,10,Thursday,0,43,TXN1806,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,169673,24,-33.76
+2024-10-25,Shopping,4097,UPI,Flipkart order,October,10,Friday,0,43,TXN1807,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,173770,25,42.08
+2024-10-25,Utilities,1133,UPI,Mobile recharge,October,10,Friday,0,43,TXN1808,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,174903,25,-60.71
+2024-10-26,Food & Dining,2402,Debit Card,Zomato order,October,10,Saturday,1,43,TXN1809,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,177305,26,-16.7
+2024-10-27,Food & Dining,2351,Debit Card,Street food,October,10,Sunday,1,43,TXN1810,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,179656,27,-18.47
+2024-10-27,Shopping,9642,Credit Card,Myntra order,October,10,Sunday,1,43,TXN1811,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,189298,27,234.38
+2024-10-27,Utilities,2763,UPI,Electricity bill,October,10,Sunday,1,43,TXN1812,Q4 (Oct-Dec),Weekend,Large (2000-5000),Essential,192061,27,-4.18
+2024-10-27,Travel,15373,UPI,Bus booking,October,10,Sunday,1,43,TXN1813,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,207434,27,433.13
+2024-10-28,Food & Dining,1880,Credit Card,Lunch with friends,October,10,Monday,0,44,TXN1814,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,209314,28,-34.8
+2024-10-28,Transportation,315,Debit Card,Auto rickshaw,October,10,Monday,0,44,TXN1815,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,209629,28,-89.08
+2024-10-28,Shopping,4424,UPI,Amazon purchase,October,10,Monday,0,44,TXN1816,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,214053,28,53.42
+2024-10-28,Health,1055,Debit Card,Medicine,October,10,Monday,0,44,TXN1817,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,215108,28,-63.41
+2024-10-28,Groceries,4865,Credit Card,Blinkit delivery,October,10,Monday,0,44,TXN1818,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,219973,28,68.72
+2024-10-29,Food & Dining,542,UPI,Zomato order,October,10,Tuesday,0,44,TXN1819,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,220515,29,-81.2
+2024-10-29,Shopping,7572,UPI,Electronics,October,10,Tuesday,0,44,TXN1820,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,228087,29,162.6
+2024-10-29,Groceries,4755,UPI,Supermarket,October,10,Tuesday,0,44,TXN1821,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,232842,29,64.9
+2024-10-30,Transportation,210,Credit Card,Ola cab,October,10,Wednesday,0,44,TXN1822,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,233052,30,-92.72
+2024-10-30,Shopping,3462,Debit Card,Myntra order,October,10,Wednesday,0,44,TXN1823,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,236514,30,20.06
+2024-10-30,Groceries,2927,UPI,D-Mart shopping,October,10,Wednesday,0,44,TXN1824,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,239441,30,1.51
+2024-10-31,Transportation,747,Credit Card,Petrol,October,10,Thursday,0,44,TXN1827,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,240188,31,-74.09
+2024-10-31,Rent,12000,UPI,Room rent,October,10,Thursday,0,44,TXN1825,Q4 (Oct-Dec),Weekday,Very Large (5000+),Essential,252188,31,316.16
+2024-10-31,Food & Dining,1562,UPI,Swiggy delivery,October,10,Thursday,0,44,TXN1826,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,253750,31,-45.83
+2024-11-01,Food & Dining,1411,Debit Card,Street food,November,11,Friday,0,44,TXN1828,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,1411,1,-41.87
+2024-11-01,Transportation,508,Cash,Auto rickshaw,November,11,Friday,0,44,TXN1829,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,1919,1,-79.07
+2024-11-01,Shopping,7009,UPI,Flipkart order,November,11,Friday,0,44,TXN1830,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,8928,1,188.73
+2024-11-01,Groceries,3757,Credit Card,Vegetable market,November,11,Friday,0,44,TXN1831,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,12685,1,54.77
+2024-11-02,Shopping,7373,Net Banking,Home decor,November,11,Saturday,1,44,TXN1832,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,20058,2,203.73
+2024-11-02,Entertainment,1792,Credit Card,Concert tickets,November,11,Saturday,1,44,TXN1833,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,21850,2,-26.18
+2024-11-02,Education,5452,UPI,Udemy course,November,11,Saturday,1,44,TXN1834,Q4 (Oct-Dec),Weekend,Very Large (5000+),Essential,27302,2,124.59
+2024-11-02,Utilities,783,Debit Card,Gas cylinder,November,11,Saturday,1,44,TXN1835,Q4 (Oct-Dec),Weekend,Medium (500-2000),Essential,28085,2,-67.74
+2024-11-02,Groceries,3662,Cash,Blinkit delivery,November,11,Saturday,1,44,TXN1836,Q4 (Oct-Dec),Weekend,Large (2000-5000),Essential,31747,2,50.85
+2024-11-03,Transportation,594,UPI,Ola cab,November,11,Sunday,1,44,TXN1837,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,32341,3,-75.53
+2024-11-04,Food & Dining,2251,Cash,Cafe coffee,November,11,Monday,0,45,TXN1838,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,34592,4,-7.27
+2024-11-04,Shopping,1943,Credit Card,Amazon purchase,November,11,Monday,0,45,TXN1839,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,36535,4,-19.96
+2024-11-05,Food & Dining,628,UPI,Cafe coffee,November,11,Tuesday,0,45,TXN1843,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,37163,5,-74.13
+2024-11-05,Transportation,637,UPI,Uber ride,November,11,Tuesday,0,45,TXN1842,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,37800,5,-73.76
+2024-11-05,Shopping,7834,Debit Card,Amazon purchase,November,11,Tuesday,0,45,TXN1841,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,45634,5,222.72
+2024-11-05,Health,4057,Cash,Medicine,November,11,Tuesday,0,45,TXN1840,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,49691,5,67.13
+2024-11-06,Food & Dining,1097,Cash,Lunch with friends,November,11,Wednesday,0,45,TXN1844,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,50788,6,-54.81
+2024-11-06,Transportation,416,Net Banking,Metro card recharge,November,11,Wednesday,0,45,TXN1845,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,51204,6,-82.86
+2024-11-06,Shopping,4522,Cash,Electronics,November,11,Wednesday,0,45,TXN1846,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,55726,6,86.28
+2024-11-07,Food & Dining,1337,Cash,Cafe coffee,November,11,Thursday,0,45,TXN1847,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,57063,7,-44.92
+2024-11-07,Transportation,360,UPI,Petrol,November,11,Thursday,0,45,TXN1848,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,57423,7,-85.17
+2024-11-07,Utilities,664,Credit Card,Electricity bill,November,11,Thursday,0,45,TXN1849,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,58087,7,-72.65
+2024-11-08,Food & Dining,261,Credit Card,Cafe coffee,November,11,Friday,0,45,TXN1852,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,58348,8,-89.25
+2024-11-08,Shopping,7674,UPI,Home decor,November,11,Friday,0,45,TXN1851,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,66022,8,216.13
+2024-11-08,Groceries,1452,Credit Card,Blinkit delivery,November,11,Friday,0,45,TXN1850,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,67474,8,-40.19
+2024-11-09,Transportation,441,UPI,Ola cab,November,11,Saturday,1,45,TXN1853,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,67915,9,-81.83
+2024-11-09,Shopping,879,UPI,Amazon purchase,November,11,Saturday,1,45,TXN1854,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,68794,9,-63.79
+2024-11-09,Groceries,4555,Credit Card,D-Mart shopping,November,11,Saturday,1,45,TXN1855,Q4 (Oct-Dec),Weekend,Large (2000-5000),Essential,73349,9,87.64
+2024-11-10,Transportation,427,UPI,Bus ticket,November,11,Sunday,1,45,TXN1856,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,73776,10,-82.41
+2024-11-10,Utilities,1482,UPI,DTH recharge,November,11,Sunday,1,45,TXN1857,Q4 (Oct-Dec),Weekend,Medium (500-2000),Essential,75258,10,-38.95
+2024-11-11,Transportation,242,Credit Card,Uber ride,November,11,Monday,0,46,TXN1861,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,75500,11,-90.03
+2024-11-11,Food & Dining,1933,Net Banking,Restaurant dinner,November,11,Monday,0,46,TXN1860,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,77433,11,-20.37
+2024-11-11,Health,3031,UPI,Pharmacy,November,11,Monday,0,46,TXN1858,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,80464,11,24.86
+2024-11-11,Entertainment,1376,Credit Card,Amazon Prime,November,11,Monday,0,46,TXN1859,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,81840,11,-43.32
+2024-11-12,Food & Dining,1545,Cash,Lunch with friends,November,11,Tuesday,0,46,TXN1862,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,83385,12,-36.35
+2024-11-12,Transportation,91,Cash,Ola cab,November,11,Tuesday,0,46,TXN1863,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,83476,12,-96.25
+2024-11-12,Shopping,3490,Credit Card,Myntra order,November,11,Tuesday,0,46,TXN1864,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,86966,12,43.77
+2024-11-13,Food & Dining,2221,UPI,Lunch with friends,November,11,Wednesday,0,46,TXN1865,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,89187,13,-8.51
+2024-11-13,Transportation,777,UPI,Petrol,November,11,Wednesday,0,46,TXN1866,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,89964,13,-67.99
+2024-11-14,Food & Dining,1511,Credit Card,Cafe coffee,November,11,Thursday,0,46,TXN1867,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,91475,14,-37.76
+2024-11-14,Transportation,468,Credit Card,Metro card recharge,November,11,Thursday,0,46,TXN1868,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,91943,14,-80.72
+2024-11-14,Shopping,3892,UPI,Home decor,November,11,Thursday,0,46,TXN1869,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,95835,14,60.33
+2024-11-14,Education,6053,UPI,Workshop,November,11,Thursday,0,46,TXN1870,Q4 (Oct-Dec),Weekday,Very Large (5000+),Essential,101888,14,149.35
+2024-11-15,Food & Dining,1188,UPI,Lunch with friends,November,11,Friday,0,46,TXN1871,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,103076,15,-51.06
+2024-11-15,Health,2740,Cash,Health checkup,November,11,Friday,0,46,TXN1872,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,105816,15,12.87
+2024-11-16,Transportation,461,UPI,Metro card recharge,November,11,Saturday,1,46,TXN1876,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,106277,16,-81.01
+2024-11-16,Shopping,4884,Debit Card,Myntra order,November,11,Saturday,1,46,TXN1875,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,111161,16,101.19
+2024-11-16,Entertainment,360,Debit Card,Gaming,November,11,Saturday,1,46,TXN1874,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,111521,16,-85.17
+2024-11-16,Utilities,2927,Net Banking,Internet bill,November,11,Saturday,1,46,TXN1873,Q4 (Oct-Dec),Weekend,Large (2000-5000),Essential,114448,16,20.58
+2024-11-17,Food & Dining,620,Debit Card,Restaurant dinner,November,11,Sunday,1,46,TXN1877,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,115068,17,-74.46
+2024-11-17,Transportation,168,UPI,Uber ride,November,11,Sunday,1,46,TXN1878,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,115236,17,-93.08
+2024-11-17,Utilities,1939,UPI,DTH recharge,November,11,Sunday,1,46,TXN1879,Q4 (Oct-Dec),Weekend,Medium (500-2000),Essential,117175,17,-20.12
+2024-11-17,Groceries,1508,UPI,BigBasket order,November,11,Sunday,1,46,TXN1880,Q4 (Oct-Dec),Weekend,Medium (500-2000),Essential,118683,17,-37.88
+2024-11-18,Food & Dining,1752,UPI,Restaurant dinner,November,11,Monday,0,47,TXN1881,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,120435,18,-27.83
+2024-11-18,Transportation,780,Credit Card,Auto rickshaw,November,11,Monday,0,47,TXN1882,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,121215,18,-67.87
+2024-11-18,Shopping,4087,Cash,Clothes shopping,November,11,Monday,0,47,TXN1883,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,125302,18,68.36
+2024-11-18,Education,9501,UPI,Coaching fees,November,11,Monday,0,47,TXN1884,Q4 (Oct-Dec),Weekday,Very Large (5000+),Essential,134803,18,291.39
+2024-11-18,Travel,8904,UPI,Flight ticket,November,11,Monday,0,47,TXN1885,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,143707,18,266.8
+2024-11-19,Food & Dining,2224,Net Banking,Street food,November,11,Tuesday,0,47,TXN1886,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,145931,19,-8.38
+2024-11-19,Transportation,397,Debit Card,Uber ride,November,11,Tuesday,0,47,TXN1887,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,146328,19,-83.65
+2024-11-19,Shopping,1630,Debit Card,Clothes shopping,November,11,Tuesday,0,47,TXN1888,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,147958,19,-32.85
+2024-11-19,Groceries,1492,Credit Card,Blinkit delivery,November,11,Tuesday,0,47,TXN1889,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,149450,19,-38.54
+2024-11-20,Transportation,779,Credit Card,Auto rickshaw,November,11,Wednesday,0,47,TXN1892,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,150229,20,-67.91
+2024-11-20,Education,8754,Credit Card,Stationery,November,11,Wednesday,0,47,TXN1890,Q4 (Oct-Dec),Weekday,Very Large (5000+),Essential,158983,20,260.62
+2024-11-20,Food & Dining,839,UPI,Restaurant dinner,November,11,Wednesday,0,47,TXN1891,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,159822,20,-65.44
+2024-11-21,Food & Dining,1774,Cash,Restaurant dinner,November,11,Thursday,0,47,TXN1893,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,161596,21,-26.92
+2024-11-21,Transportation,140,Credit Card,Bus ticket,November,11,Thursday,0,47,TXN1894,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,161736,21,-94.23
+2024-11-21,Health,2087,UPI,Pharmacy,November,11,Thursday,0,47,TXN1895,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,163823,21,-14.03
+2024-11-22,Food & Dining,2028,Credit Card,Swiggy delivery,November,11,Friday,0,47,TXN1896,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,165851,22,-16.46
+2024-11-22,Transportation,684,Debit Card,Uber ride,November,11,Friday,0,47,TXN1897,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,166535,22,-71.82
+2024-11-22,Shopping,2563,UPI,Clothes shopping,November,11,Friday,0,47,TXN1898,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,169098,22,5.58
+2024-11-23,Food & Dining,2761,Credit Card,Swiggy delivery,November,11,Saturday,1,47,TXN1899,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,171859,23,13.74
+2024-11-23,Transportation,475,Cash,Metro card recharge,November,11,Saturday,1,47,TXN1900,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,172334,23,-80.43
+2024-11-23,Shopping,7743,Net Banking,Flipkart order,November,11,Saturday,1,47,TXN1901,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,180077,23,218.97
+2024-11-24,Transportation,70,Credit Card,Bus ticket,November,11,Sunday,1,47,TXN1904,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,180147,24,-97.12
+2024-11-24,Entertainment,1945,Credit Card,Spotify premium,November,11,Sunday,1,47,TXN1902,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,182092,24,-19.88
+2024-11-24,Food & Dining,358,UPI,Swiggy delivery,November,11,Sunday,1,47,TXN1903,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,182450,24,-85.25
+2024-11-25,Transportation,307,Credit Card,Bus ticket,November,11,Monday,0,48,TXN1907,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,182757,25,-87.35
+2024-11-25,Utilities,1188,Net Banking,Gas cylinder,November,11,Monday,0,48,TXN1905,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,183945,25,-51.06
+2024-11-25,Food & Dining,325,Debit Card,Swiggy delivery,November,11,Monday,0,48,TXN1906,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,184270,25,-86.61
+2024-11-26,Food & Dining,2483,UPI,Street food,November,11,Tuesday,0,48,TXN1908,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,186753,26,2.29
+2024-11-26,Transportation,172,UPI,Auto rickshaw,November,11,Tuesday,0,48,TXN1909,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,186925,26,-92.91
+2024-11-26,Shopping,6690,Cash,Clothes shopping,November,11,Tuesday,0,48,TXN1910,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,193615,26,175.59
+2024-11-26,Entertainment,637,Debit Card,Movie tickets,November,11,Tuesday,0,48,TXN1911,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,194252,26,-73.76
+2024-11-27,Food & Dining,399,Cash,Street food,November,11,Wednesday,0,48,TXN1912,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,194651,27,-83.56
+2024-11-27,Shopping,7725,Credit Card,Flipkart order,November,11,Wednesday,0,48,TXN1913,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,202376,27,218.23
+2024-11-27,Education,6785,Debit Card,Workshop,November,11,Wednesday,0,48,TXN1914,Q4 (Oct-Dec),Weekday,Very Large (5000+),Essential,209161,27,179.5
+2024-11-27,Groceries,2365,Cash,BigBasket order,November,11,Wednesday,0,48,TXN1915,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,211526,27,-2.58
+2024-11-28,Food & Dining,611,UPI,Lunch with friends,November,11,Thursday,0,48,TXN1916,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,212137,28,-74.83
+2024-11-29,Food & Dining,1265,UPI,Restaurant dinner,November,11,Friday,0,48,TXN1917,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,213402,29,-47.89
+2024-11-29,Shopping,7740,Cash,Amazon purchase,November,11,Friday,0,48,TXN1918,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,221142,29,218.85
+2024-11-29,Entertainment,1147,UPI,Concert tickets,November,11,Friday,0,48,TXN1919,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,222289,29,-52.75
+2024-11-30,Transportation,258,Credit Card,Auto rickshaw,November,11,Saturday,1,48,TXN1923,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,222547,30,-89.37
+2024-11-30,Food & Dining,1404,Net Banking,Cafe coffee,November,11,Saturday,1,48,TXN1922,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,223951,30,-42.16
+2024-11-30,Education,3892,UPI,Books,November,11,Saturday,1,48,TXN1920,Q4 (Oct-Dec),Weekend,Large (2000-5000),Essential,227843,30,60.33
+2024-11-30,Shopping,5198,Debit Card,Clothes shopping,November,11,Saturday,1,48,TXN1921,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,233041,30,114.13
+2024-12-01,Food & Dining,3385,Credit Card,Swiggy delivery,December,12,Sunday,1,48,TXN1924,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,3385,1,40.64
+2024-12-01,Transportation,779,UPI,Metro card recharge,December,12,Sunday,1,48,TXN1925,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,4164,1,-67.63
+2024-12-01,Entertainment,1709,UPI,Movie tickets,December,12,Sunday,1,48,TXN1926,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,5873,1,-28.99
+2024-12-01,Health,4654,UPI,Doctor consultation,December,12,Sunday,1,48,TXN1927,Q4 (Oct-Dec),Weekend,Large (2000-5000),Essential,10527,1,93.37
+2024-12-01,Utilities,1500,Credit Card,Water bill,December,12,Sunday,1,48,TXN1928,Q4 (Oct-Dec),Weekend,Medium (500-2000),Essential,12027,1,-37.68
+2024-12-02,Food & Dining,2303,UPI,Lunch with friends,December,12,Monday,0,49,TXN1929,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,14330,2,-4.31
+2024-12-02,Transportation,488,UPI,Uber ride,December,12,Monday,0,49,TXN1930,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,14818,2,-79.72
+2024-12-02,Shopping,3896,UPI,Myntra order,December,12,Monday,0,49,TXN1931,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,18714,2,61.87
+2024-12-02,Travel,8009,Credit Card,Weekend trip,December,12,Monday,0,49,TXN1932,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,26723,2,232.76
+2024-12-03,Food & Dining,1838,UPI,Street food,December,12,Tuesday,0,49,TXN1933,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,28561,3,-23.63
+2024-12-03,Transportation,646,Credit Card,Petrol,December,12,Tuesday,0,49,TXN1934,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,29207,3,-73.16
+2024-12-04,Food & Dining,2203,UPI,Zomato order,December,12,Wednesday,0,49,TXN1935,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,31410,4,-8.47
+2024-12-05,Transportation,411,Debit Card,Ola cab,December,12,Thursday,0,49,TXN1939,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,31821,5,-82.92
+2024-12-05,Shopping,2181,UPI,Amazon purchase,December,12,Thursday,0,49,TXN1938,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,34002,5,-9.38
+2024-12-05,Entertainment,2709,UPI,Amazon Prime,December,12,Thursday,0,49,TXN1937,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,36711,5,12.55
+2024-12-05,Education,4932,UPI,Books,December,12,Thursday,0,49,TXN1936,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,41643,5,104.92
+2024-12-06,Food & Dining,261,UPI,Lunch with friends,December,12,Friday,0,49,TXN1940,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,41904,6,-89.16
+2024-12-06,Transportation,771,Cash,Petrol,December,12,Friday,0,49,TXN1941,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,42675,6,-67.97
+2024-12-07,Food & Dining,2870,Net Banking,Zomato order,December,12,Saturday,1,49,TXN1942,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,45545,7,19.24
+2024-12-07,Transportation,591,UPI,Auto rickshaw,December,12,Saturday,1,49,TXN1943,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,46136,7,-75.45
+2024-12-07,Health,4781,Net Banking,Health checkup,December,12,Saturday,1,49,TXN1944,Q4 (Oct-Dec),Weekend,Large (2000-5000),Essential,50917,7,98.64
+2024-12-07,Groceries,1470,UPI,D-Mart shopping,December,12,Saturday,1,49,TXN1945,Q4 (Oct-Dec),Weekend,Medium (500-2000),Essential,52387,7,-38.92
+2024-12-07,Travel,9719,Debit Card,Hotel booking,December,12,Saturday,1,49,TXN1946,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,62106,7,303.81
+2024-12-08,Food & Dining,2570,UPI,Swiggy delivery,December,12,Sunday,1,49,TXN1947,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,64676,8,6.78
+2024-12-08,Shopping,3764,Credit Card,Myntra order,December,12,Sunday,1,49,TXN1948,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,68440,8,56.39
+2024-12-08,Education,1312,Debit Card,Stationery,December,12,Sunday,1,49,TXN1949,Q4 (Oct-Dec),Weekend,Medium (500-2000),Essential,69752,8,-45.49
+2024-12-09,Food & Dining,2094,Cash,Swiggy delivery,December,12,Monday,0,50,TXN1950,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,71846,9,-13.0
+2024-12-09,Transportation,665,UPI,Petrol,December,12,Monday,0,50,TXN1951,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,72511,9,-72.37
+2024-12-09,Entertainment,690,Debit Card,Gaming,December,12,Monday,0,50,TXN1952,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,73201,9,-71.33
+2024-12-10,Transportation,75,Credit Card,Metro card recharge,December,12,Tuesday,0,50,TXN1955,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,73276,10,-96.88
+2024-12-10,Shopping,7325,Debit Card,Electronics,December,12,Tuesday,0,50,TXN1953,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,80601,10,204.34
+2024-12-10,Food & Dining,527,Debit Card,Restaurant dinner,December,12,Tuesday,0,50,TXN1954,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,81128,10,-78.1
+2024-12-11,Food & Dining,2108,Debit Card,Swiggy delivery,December,12,Wednesday,0,50,TXN1956,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,83236,11,-12.42
+2024-12-11,Transportation,318,UPI,Metro card recharge,December,12,Wednesday,0,50,TXN1957,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,83554,11,-86.79
+2024-12-11,Shopping,2270,Debit Card,Home decor,December,12,Wednesday,0,50,TXN1958,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,85824,11,-5.69
+2024-12-12,Food & Dining,877,UPI,Swiggy delivery,December,12,Thursday,0,50,TXN1959,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,86701,12,-63.56
+2024-12-12,Transportation,121,Credit Card,Ola cab,December,12,Thursday,0,50,TXN1960,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,86822,12,-94.97
+2024-12-12,Shopping,6544,UPI,Myntra order,December,12,Thursday,0,50,TXN1961,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,93366,12,171.89
+2024-12-12,Groceries,1454,UPI,BigBasket order,December,12,Thursday,0,50,TXN1962,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,94820,12,-39.59
+2024-12-13,Food & Dining,1724,UPI,Zomato order,December,12,Friday,0,50,TXN1963,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,96544,13,-28.37
+2024-12-13,Transportation,275,Debit Card,Uber ride,December,12,Friday,0,50,TXN1964,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,96819,13,-88.57
+2024-12-13,Shopping,2678,UPI,Clothes shopping,December,12,Friday,0,50,TXN1965,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,99497,13,11.27
+2024-12-13,Utilities,1114,UPI,Water bill,December,12,Friday,0,50,TXN1966,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,100611,13,-53.72
+2024-12-14,Food & Dining,2454,UPI,Zomato order,December,12,Saturday,1,50,TXN1971,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,103065,14,1.96
+2024-12-14,Transportation,222,Credit Card,Metro card recharge,December,12,Saturday,1,50,TXN1970,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,103287,14,-90.78
+2024-12-14,Shopping,6977,UPI,Clothes shopping,December,12,Saturday,1,50,TXN1969,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,110264,14,189.88
+2024-12-14,Health,4746,UPI,Gym membership,December,12,Saturday,1,50,TXN1968,Q4 (Oct-Dec),Weekend,Large (2000-5000),Essential,115010,14,97.19
+2024-12-14,Utilities,2195,UPI,Internet bill,December,12,Saturday,1,50,TXN1967,Q4 (Oct-Dec),Weekend,Large (2000-5000),Essential,117205,14,-8.8
+2024-12-15,Food & Dining,2229,Debit Card,Zomato order,December,12,Sunday,1,50,TXN1972,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,119434,15,-7.39
+2024-12-15,Transportation,486,Credit Card,Uber ride,December,12,Sunday,1,50,TXN1973,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,119920,15,-79.81
+2024-12-15,Travel,14692,Debit Card,Train ticket,December,12,Sunday,1,50,TXN1974,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,134612,15,510.43
+2024-12-16,Food & Dining,1979,UPI,Cafe coffee,December,12,Monday,0,51,TXN1975,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,136591,16,-17.78
+2024-12-16,Transportation,351,Debit Card,Bus ticket,December,12,Monday,0,51,TXN1976,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,136942,16,-85.42
+2024-12-16,Shopping,1608,Net Banking,Clothes shopping,December,12,Monday,0,51,TXN1977,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,138550,16,-33.19
+2024-12-17,Food & Dining,1600,UPI,Zomato order,December,12,Tuesday,0,51,TXN1978,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,140150,17,-33.52
+2024-12-17,Transportation,51,Debit Card,Auto rickshaw,December,12,Tuesday,0,51,TXN1979,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,140201,17,-97.88
+2024-12-17,Shopping,3239,Credit Card,Home decor,December,12,Tuesday,0,51,TXN1980,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,143440,17,34.57
+2024-12-17,Utilities,2156,Debit Card,DTH recharge,December,12,Tuesday,0,51,TXN1981,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,145596,17,-10.42
+2024-12-18,Transportation,609,UPI,Metro card recharge,December,12,Wednesday,0,51,TXN1982,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,146205,18,-74.7
+2024-12-18,Utilities,1449,Debit Card,Gas cylinder,December,12,Wednesday,0,51,TXN1983,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,147654,18,-39.8
+2024-12-19,Shopping,7360,Cash,Amazon purchase,December,12,Thursday,0,51,TXN1987,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,155014,19,205.79
+2024-12-19,Transportation,261,Credit Card,Uber ride,December,12,Thursday,0,51,TXN1986,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,155275,19,-89.16
+2024-12-19,Health,3037,Credit Card,Gym membership,December,12,Thursday,0,51,TXN1984,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,158312,19,26.18
+2024-12-19,Entertainment,927,UPI,Gaming,December,12,Thursday,0,51,TXN1985,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,159239,19,-61.48
+2024-12-20,Food & Dining,1177,UPI,Cafe coffee,December,12,Friday,0,51,TXN1988,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,160416,20,-51.1
+2024-12-20,Transportation,109,UPI,Metro card recharge,December,12,Friday,0,51,TXN1989,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,160525,20,-95.47
+2024-12-20,Shopping,6160,Debit Card,Myntra order,December,12,Friday,0,51,TXN1990,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,166685,20,155.94
+2024-12-20,Health,700,Credit Card,Gym membership,December,12,Friday,0,51,TXN1991,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,167385,20,-70.92
+2024-12-21,Food & Dining,2411,Credit Card,Zomato order,December,12,Saturday,1,51,TXN1992,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,169796,21,0.17
+2024-12-21,Transportation,750,Debit Card,Metro card recharge,December,12,Saturday,1,51,TXN1993,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,170546,21,-68.84
+2024-12-21,Shopping,2154,Credit Card,Amazon purchase,December,12,Saturday,1,51,TXN1994,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,172700,21,-10.51
+2024-12-21,Entertainment,2150,UPI,Movie tickets,December,12,Saturday,1,51,TXN1995,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,174850,21,-10.67
+2024-12-22,Transportation,183,Credit Card,Petrol,December,12,Sunday,1,51,TXN1998,Q4 (Oct-Dec),Weekend,Small (<500),Non-Essential,175033,22,-92.4
+2024-12-22,Entertainment,768,Credit Card,Amazon Prime,December,12,Sunday,1,51,TXN1996,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,175801,22,-68.09
+2024-12-22,Food & Dining,3597,UPI,Zomato order,December,12,Sunday,1,51,TXN1997,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,179398,22,49.45
+2024-12-23,Shopping,6916,Credit Card,Electronics,December,12,Monday,0,52,TXN2002,Q4 (Oct-Dec),Weekday,Very Large (5000+),Non-Essential,186314,23,187.35
+2024-12-23,Food & Dining,966,Debit Card,Restaurant dinner,December,12,Monday,0,52,TXN2001,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,187280,23,-59.86
+2024-12-23,Utilities,2437,Cash,Electricity bill,December,12,Monday,0,52,TXN1999,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,189717,23,1.25
+2024-12-23,Entertainment,695,UPI,Amazon Prime,December,12,Monday,0,52,TXN2000,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,190412,23,-71.12
+2024-12-24,Food & Dining,1125,UPI,Restaurant dinner,December,12,Tuesday,0,52,TXN2003,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,191537,24,-53.26
+2024-12-24,Transportation,482,Debit Card,Petrol,December,12,Tuesday,0,52,TXN2004,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,192019,24,-79.97
+2024-12-24,Entertainment,614,Debit Card,Concert tickets,December,12,Tuesday,0,52,TXN2005,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,192633,24,-74.49
+2024-12-24,Utilities,583,UPI,Water bill,December,12,Tuesday,0,52,TXN2006,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,193216,24,-75.78
+2024-12-24,Groceries,1058,Debit Card,Vegetable market,December,12,Tuesday,0,52,TXN2007,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,194274,24,-56.04
+2024-12-25,Shopping,3845,UPI,Flipkart order,December,12,Wednesday,0,52,TXN2008,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,198119,25,59.75
+2024-12-25,Entertainment,1937,Credit Card,Spotify premium,December,12,Wednesday,0,52,TXN2009,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,200056,25,-19.52
+2024-12-26,Food & Dining,1238,UPI,Lunch with friends,December,12,Thursday,0,52,TXN2010,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,201294,26,-48.56
+2024-12-26,Transportation,421,UPI,Uber ride,December,12,Thursday,0,52,TXN2011,Q4 (Oct-Dec),Weekday,Small (<500),Non-Essential,201715,26,-82.51
+2024-12-26,Health,2291,Credit Card,Gym membership,December,12,Thursday,0,52,TXN2012,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,204006,26,-4.81
+2024-12-27,Education,8450,UPI,Stationery,December,12,Friday,0,52,TXN2016,Q4 (Oct-Dec),Weekday,Very Large (5000+),Essential,212456,27,251.08
+2024-12-27,Food & Dining,2473,Cash,Lunch with friends,December,12,Friday,0,52,TXN2019,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,214929,27,2.75
+2024-12-27,Transportation,661,Credit Card,Uber ride,December,12,Friday,0,52,TXN2018,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,215590,27,-72.54
+2024-12-27,Shopping,906,Credit Card,Myntra order,December,12,Friday,0,52,TXN2017,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,216496,27,-62.36
+2024-12-27,Utilities,2393,Debit Card,Mobile recharge,December,12,Friday,0,52,TXN2015,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,218889,27,-0.58
+2024-12-27,Groceries,3321,Debit Card,BigBasket order,December,12,Friday,0,52,TXN2014,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,222210,27,37.98
+2024-12-27,Health,1739,Debit Card,Gym membership,December,12,Friday,0,52,TXN2013,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,223949,27,-27.75
+2024-12-28,Food & Dining,3336,Credit Card,Swiggy delivery,December,12,Saturday,1,52,TXN2020,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,227285,28,38.6
+2024-12-28,Transportation,654,Cash,Metro card recharge,December,12,Saturday,1,52,TXN2021,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,227939,28,-72.83
+2024-12-28,Shopping,4566,Debit Card,Myntra order,December,12,Saturday,1,52,TXN2022,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,232505,28,89.71
+2024-12-28,Entertainment,3541,Debit Card,Amazon Prime,December,12,Saturday,1,52,TXN2023,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,236046,28,47.12
+2024-12-28,Utilities,1237,UPI,Water bill,December,12,Saturday,1,52,TXN2024,Q4 (Oct-Dec),Weekend,Medium (500-2000),Essential,237283,28,-48.6
+2024-12-28,Travel,13292,UPI,Holiday trip,December,12,Saturday,1,52,TXN2025,Q4 (Oct-Dec),Weekend,Very Large (5000+),Non-Essential,250575,28,452.26
+2024-12-29,Food & Dining,2152,Credit Card,Cafe coffee,December,12,Sunday,1,52,TXN2026,Q4 (Oct-Dec),Weekend,Large (2000-5000),Non-Essential,252727,29,-10.59
+2024-12-29,Transportation,784,UPI,Uber ride,December,12,Sunday,1,52,TXN2027,Q4 (Oct-Dec),Weekend,Medium (500-2000),Non-Essential,253511,29,-67.43
+2024-12-29,Groceries,2897,Debit Card,BigBasket order,December,12,Sunday,1,52,TXN2028,Q4 (Oct-Dec),Weekend,Large (2000-5000),Essential,256408,29,20.36
+2024-12-30,Entertainment,1414,UPI,Spotify premium,December,12,Monday,0,1,TXN2030,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,257822,30,-41.25
+2024-12-30,Food & Dining,1015,UPI,Zomato order,December,12,Monday,0,1,TXN2031,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,258837,30,-57.83
+2024-12-30,Shopping,3610,UPI,Clothes shopping,December,12,Monday,0,1,TXN2029,Q4 (Oct-Dec),Weekday,Large (2000-5000),Non-Essential,262447,30,49.99
+2024-12-30,Groceries,2821,Credit Card,D-Mart shopping,December,12,Monday,0,1,TXN2032,Q4 (Oct-Dec),Weekday,Large (2000-5000),Essential,265268,30,17.21
+2024-12-31,Transportation,668,UPI,Petrol,December,12,Tuesday,0,1,TXN2033,Q4 (Oct-Dec),Weekday,Medium (500-2000),Non-Essential,265936,31,-72.25
+2024-12-31,Education,1224,Debit Card,Coaching fees,December,12,Tuesday,0,1,TXN2034,Q4 (Oct-Dec),Weekday,Medium (500-2000),Essential,267160,31,-49.15

@@ -1,0 +1,11 @@
+category,total_spent,avg_per_txn,num_txns,max_single,pct_of_total
+Shopping,638252,4986,128,12343,24.81
+Food & Dining,456024,1520,300,3772,17.73
+Travel,382412,12336,31,19789,14.87
+Groceries,256248,2847,90,4972,9.96
+Education,199419,5248,38,9849,7.75
+Rent,168000,12000,14,12000,6.53
+Health,135301,2653,51,4903,5.26
+Entertainment,126703,1689,75,3640,4.93
+Transportation,108750,439,248,788,4.23
+Utilities,101245,1687,60,2927,3.94

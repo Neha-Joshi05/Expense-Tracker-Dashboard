@@ -1,0 +1,1036 @@
+date,category,amount,payment_method,description,month,month_num,day_of_week,is_weekend,week_of_year,transaction_id
+2024-01-01,Food & Dining,1060,UPI,Street food,January,1,Monday,0,1,TXN1000
+2024-01-01,Transportation,171,UPI,Metro card recharge,January,1,Monday,0,1,TXN1001
+2024-01-01,Utilities,2891,Debit Card,DTH recharge,January,1,Monday,0,1,TXN1002
+2024-01-01,Rent,12000,Net Banking,Monthly rent,January,1,Monday,0,1,TXN1003
+2024-01-02,Food & Dining,674,Credit Card,Swiggy delivery,January,1,Tuesday,0,1,TXN1004
+2024-01-02,Transportation,749,UPI,Bus ticket,January,1,Tuesday,0,1,TXN1005
+2024-01-02,Shopping,3505,UPI,Electronics,January,1,Tuesday,0,1,TXN1006
+2024-01-02,Health,4190,Debit Card,Doctor consultation,January,1,Tuesday,0,1,TXN1007
+2024-01-02,Education,9792,Net Banking,Books,January,1,Tuesday,0,1,TXN1008
+2024-01-02,Rent,12000,UPI,PG accommodation,January,1,Tuesday,0,1,TXN1009
+2024-01-03,Food & Dining,234,Cash,Cafe coffee,January,1,Wednesday,0,1,TXN1010
+2024-01-03,Transportation,437,UPI,Bus ticket,January,1,Wednesday,0,1,TXN1011
+2024-01-03,Shopping,4343,UPI,Flipkart order,January,1,Wednesday,0,1,TXN1012
+2024-01-03,Groceries,4798,Credit Card,Milk & dairy,January,1,Wednesday,0,1,TXN1013
+2024-01-04,Utilities,2022,Debit Card,Mobile recharge,January,1,Thursday,0,1,TXN1014
+2024-01-04,Health,2868,Debit Card,Lab tests,January,1,Thursday,0,1,TXN1015
+2024-01-04,Entertainment,1380,Debit Card,Netflix subscription,January,1,Thursday,0,1,TXN1016
+2024-01-04,Food & Dining,537,Credit Card,Swiggy delivery,January,1,Thursday,0,1,TXN1017
+2024-01-05,Food & Dining,2382,Cash,Cafe coffee,January,1,Friday,0,1,TXN1018
+2024-01-05,Transportation,97,UPI,Bus ticket,January,1,Friday,0,1,TXN1019
+2024-01-06,Food & Dining,834,Credit Card,Swiggy delivery,January,1,Saturday,1,1,TXN1020
+2024-01-06,Transportation,510,UPI,Ola cab,January,1,Saturday,1,1,TXN1021
+2024-01-07,Food & Dining,3173,Debit Card,Zomato order,January,1,Sunday,1,1,TXN1022
+2024-01-07,Transportation,77,UPI,Petrol,January,1,Sunday,1,1,TXN1023
+2024-01-08,Food & Dining,1968,UPI,Lunch with friends,January,1,Monday,0,2,TXN1024
+2024-01-08,Transportation,698,Credit Card,Ola cab,January,1,Monday,0,2,TXN1025
+2024-01-08,Shopping,5279,UPI,Clothes shopping,January,1,Monday,0,2,TXN1026
+2024-01-09,Food & Dining,1836,UPI,Zomato order,January,1,Tuesday,0,2,TXN1027
+2024-01-09,Transportation,51,Credit Card,Bus ticket,January,1,Tuesday,0,2,TXN1028
+2024-01-09,Shopping,6355,Cash,Clothes shopping,January,1,Tuesday,0,2,TXN1029
+2024-01-09,Groceries,4255,UPI,Milk & dairy,January,1,Tuesday,0,2,TXN1030
+2024-01-10,Groceries,1488,Debit Card,Blinkit delivery,January,1,Wednesday,0,2,TXN1031
+2024-01-10,Food & Dining,397,UPI,Zomato order,January,1,Wednesday,0,2,TXN1032
+2024-01-10,Transportation,236,UPI,Auto rickshaw,January,1,Wednesday,0,2,TXN1033
+2024-01-11,Food & Dining,2169,Cash,Lunch with friends,January,1,Thursday,0,2,TXN1034
+2024-01-11,Shopping,6787,Debit Card,Amazon purchase,January,1,Thursday,0,2,TXN1035
+2024-01-12,Food & Dining,1882,Debit Card,Restaurant dinner,January,1,Friday,0,2,TXN1036
+2024-01-13,Groceries,1397,UPI,Supermarket,January,1,Saturday,1,2,TXN1037
+2024-01-14,Food & Dining,2074,Credit Card,Cafe coffee,January,1,Sunday,1,2,TXN1038
+2024-01-14,Transportation,519,UPI,Bus ticket,January,1,Sunday,1,2,TXN1039
+2024-01-15,Transportation,708,Credit Card,Ola cab,January,1,Monday,0,3,TXN1040
+2024-01-15,Shopping,7839,Cash,Home decor,January,1,Monday,0,3,TXN1041
+2024-01-15,Entertainment,2765,UPI,Netflix subscription,January,1,Monday,0,3,TXN1042
+2024-01-16,Food & Dining,2206,UPI,Restaurant dinner,January,1,Tuesday,0,3,TXN1043
+2024-01-16,Transportation,784,Debit Card,Metro card recharge,January,1,Tuesday,0,3,TXN1044
+2024-01-16,Entertainment,1886,UPI,Spotify premium,January,1,Tuesday,0,3,TXN1045
+2024-01-17,Transportation,555,UPI,Petrol,January,1,Wednesday,0,3,TXN1046
+2024-01-17,Food & Dining,737,Debit Card,Zomato order,January,1,Wednesday,0,3,TXN1047
+2024-01-18,Food & Dining,1053,UPI,Swiggy delivery,January,1,Thursday,0,3,TXN1048
+2024-01-18,Transportation,174,Debit Card,Uber ride,January,1,Thursday,0,3,TXN1049
+2024-01-18,Shopping,2215,UPI,Myntra order,January,1,Thursday,0,3,TXN1050
+2024-01-19,Food & Dining,246,Debit Card,Cafe coffee,January,1,Friday,0,3,TXN1051
+2024-01-19,Transportation,419,Credit Card,Bus ticket,January,1,Friday,0,3,TXN1052
+2024-01-19,Shopping,619,UPI,Electronics,January,1,Friday,0,3,TXN1053
+2024-01-19,Utilities,1650,Debit Card,Gas cylinder,January,1,Friday,0,3,TXN1054
+2024-01-20,Food & Dining,1992,Debit Card,Street food,January,1,Saturday,1,3,TXN1055
+2024-01-20,Transportation,238,Debit Card,Auto rickshaw,January,1,Saturday,1,3,TXN1056
+2024-01-20,Rent,12000,UPI,Monthly rent,January,1,Saturday,1,3,TXN1057
+2024-01-20,Groceries,3141,Cash,Supermarket,January,1,Saturday,1,3,TXN1058
+2024-01-21,Transportation,571,Cash,Petrol,January,1,Sunday,1,3,TXN1059
+2024-01-21,Shopping,9516,Cash,Amazon purchase,January,1,Sunday,1,3,TXN1060
+2024-01-21,Food & Dining,1003,Credit Card,Street food,January,1,Sunday,1,3,TXN1061
+2024-01-22,Transportation,740,Debit Card,Petrol,January,1,Monday,0,4,TXN1062
+2024-01-22,Utilities,2130,UPI,Gas cylinder,January,1,Monday,0,4,TXN1063
+2024-01-22,Food & Dining,2131,UPI,Cafe coffee,January,1,Monday,0,4,TXN1064
+2024-01-23,Food & Dining,1825,UPI,Restaurant dinner,January,1,Tuesday,0,4,TXN1065
+2024-01-23,Transportation,245,Debit Card,Uber ride,January,1,Tuesday,0,4,TXN1066
+2024-01-24,Transportation,145,UPI,Bus ticket,January,1,Wednesday,0,4,TXN1067
+2024-01-24,Entertainment,1748,Debit Card,Spotify premium,January,1,Wednesday,0,4,TXN1068
+2024-01-24,Health,4252,Credit Card,Doctor consultation,January,1,Wednesday,0,4,TXN1069
+2024-01-24,Groceries,4304,Debit Card,BigBasket order,January,1,Wednesday,0,4,TXN1070
+2024-01-26,Health,1253,Credit Card,Pharmacy,January,1,Friday,0,4,TXN1071
+2024-01-26,Transportation,272,UPI,Metro card recharge,January,1,Friday,0,4,TXN1072
+2024-01-26,Food & Dining,2356,Cash,Swiggy delivery,January,1,Friday,0,4,TXN1073
+2024-01-27,Food & Dining,2808,Net Banking,Street food,January,1,Saturday,1,4,TXN1074
+2024-01-27,Transportation,549,UPI,Ola cab,January,1,Saturday,1,4,TXN1075
+2024-01-28,Food & Dining,448,Credit Card,Swiggy delivery,January,1,Sunday,1,4,TXN1076
+2024-01-29,Food & Dining,1340,Net Banking,Cafe coffee,January,1,Monday,0,5,TXN1077
+2024-01-29,Health,3584,Net Banking,Pharmacy,January,1,Monday,0,5,TXN1078
+2024-01-29,Groceries,4376,Debit Card,BigBasket order,January,1,Monday,0,5,TXN1079
+2024-01-30,Shopping,857,Credit Card,Electronics,January,1,Tuesday,0,5,TXN1080
+2024-01-30,Food & Dining,670,UPI,Cafe coffee,January,1,Tuesday,0,5,TXN1081
+2024-01-31,Food & Dining,2146,Debit Card,Zomato order,January,1,Wednesday,0,5,TXN1082
+2024-01-31,Transportation,773,Credit Card,Auto rickshaw,January,1,Wednesday,0,5,TXN1083
+2024-01-31,Shopping,3824,Cash,Clothes shopping,January,1,Wednesday,0,5,TXN1084
+2024-01-31,Groceries,4190,Credit Card,Milk & dairy,January,1,Wednesday,0,5,TXN1085
+2024-02-01,Transportation,331,UPI,Bus ticket,February,2,Thursday,0,5,TXN1086
+2024-02-01,Health,2452,Credit Card,Doctor consultation,February,2,Thursday,0,5,TXN1087
+2024-02-01,Education,3000,Credit Card,Stationery,February,2,Thursday,0,5,TXN1088
+2024-02-02,Transportation,127,UPI,Ola cab,February,2,Friday,0,5,TXN1089
+2024-02-02,Groceries,3201,Credit Card,Milk & dairy,February,2,Friday,0,5,TXN1090
+2024-02-03,Food & Dining,712,Net Banking,Lunch with friends,February,2,Saturday,1,5,TXN1091
+2024-02-03,Entertainment,2102,Debit Card,Spotify premium,February,2,Saturday,1,5,TXN1092
+2024-02-04,Food & Dining,2969,Credit Card,Cafe coffee,February,2,Sunday,1,5,TXN1093
+2024-02-04,Transportation,155,Cash,Auto rickshaw,February,2,Sunday,1,5,TXN1094
+2024-02-04,Utilities,568,Net Banking,Gas cylinder,February,2,Sunday,1,5,TXN1095
+2024-02-05,Groceries,2028,UPI,Blinkit delivery,February,2,Monday,0,6,TXN1096
+2024-02-05,Food & Dining,2358,UPI,Restaurant dinner,February,2,Monday,0,6,TXN1097
+2024-02-05,Transportation,569,UPI,Petrol,February,2,Monday,0,6,TXN1098
+2024-02-06,Food & Dining,2480,UPI,Lunch with friends,February,2,Tuesday,0,6,TXN1099
+2024-02-06,Transportation,127,UPI,Metro card recharge,February,2,Tuesday,0,6,TXN1100
+2024-02-06,Shopping,2796,Credit Card,Myntra order,February,2,Tuesday,0,6,TXN1101
+2024-02-06,Entertainment,2597,UPI,Concert tickets,February,2,Tuesday,0,6,TXN1102
+2024-02-06,Health,2355,Debit Card,Pharmacy,February,2,Tuesday,0,6,TXN1103
+2024-02-07,Food & Dining,564,UPI,Restaurant dinner,February,2,Wednesday,0,6,TXN1104
+2024-02-07,Transportation,56,Debit Card,Bus ticket,February,2,Wednesday,0,6,TXN1105
+2024-02-07,Entertainment,2986,UPI,Netflix subscription,February,2,Wednesday,0,6,TXN1106
+2024-02-07,Groceries,1125,UPI,BigBasket order,February,2,Wednesday,0,6,TXN1107
+2024-02-08,Food & Dining,266,Credit Card,Swiggy delivery,February,2,Thursday,0,6,TXN1108
+2024-02-08,Transportation,160,Debit Card,Ola cab,February,2,Thursday,0,6,TXN1109
+2024-02-09,Health,542,UPI,Pharmacy,February,2,Friday,0,6,TXN1110
+2024-02-09,Groceries,1946,Debit Card,Blinkit delivery,February,2,Friday,0,6,TXN1111
+2024-02-09,Rent,12000,Net Banking,Room rent,February,2,Friday,0,6,TXN1112
+2024-02-09,Transportation,326,UPI,Petrol,February,2,Friday,0,6,TXN1113
+2024-02-09,Entertainment,2597,UPI,Netflix subscription,February,2,Friday,0,6,TXN1114
+2024-02-09,Utilities,967,Net Banking,Water bill,February,2,Friday,0,6,TXN1115
+2024-02-10,Food & Dining,2545,UPI,Swiggy delivery,February,2,Saturday,1,6,TXN1116
+2024-02-10,Transportation,773,Credit Card,Ola cab,February,2,Saturday,1,6,TXN1117
+2024-02-10,Education,2917,UPI,Coaching fees,February,2,Saturday,1,6,TXN1118
+2024-02-11,Entertainment,2764,Net Banking,Amazon Prime,February,2,Sunday,1,6,TXN1119
+2024-02-11,Food & Dining,2989,UPI,Swiggy delivery,February,2,Sunday,1,6,TXN1120
+2024-02-11,Transportation,368,Debit Card,Ola cab,February,2,Sunday,1,6,TXN1121
+2024-02-11,Shopping,4801,Credit Card,Myntra order,February,2,Sunday,1,6,TXN1122
+2024-02-12,Food & Dining,1572,UPI,Zomato order,February,2,Monday,0,7,TXN1123
+2024-02-13,Travel,7018,Credit Card,Bus booking,February,2,Tuesday,0,7,TXN1124
+2024-02-13,Food & Dining,2063,Credit Card,Lunch with friends,February,2,Tuesday,0,7,TXN1125
+2024-02-14,Transportation,603,UPI,Auto rickshaw,February,2,Wednesday,0,7,TXN1126
+2024-02-15,Shopping,6528,UPI,Electronics,February,2,Thursday,0,7,TXN1127
+2024-02-15,Food & Dining,2057,Debit Card,Restaurant dinner,February,2,Thursday,0,7,TXN1128
+2024-02-16,Groceries,4281,Credit Card,Supermarket,February,2,Friday,0,7,TXN1129
+2024-02-16,Food & Dining,2155,Credit Card,Restaurant dinner,February,2,Friday,0,7,TXN1130
+2024-02-16,Transportation,709,UPI,Uber ride,February,2,Friday,0,7,TXN1131
+2024-02-17,Food & Dining,2345,UPI,Swiggy delivery,February,2,Saturday,1,7,TXN1132
+2024-02-17,Entertainment,373,Cash,Amazon Prime,February,2,Saturday,1,7,TXN1133
+2024-02-17,Groceries,4030,Cash,Milk & dairy,February,2,Saturday,1,7,TXN1134
+2024-02-18,Food & Dining,2043,Debit Card,Street food,February,2,Sunday,1,7,TXN1135
+2024-02-18,Transportation,624,Credit Card,Uber ride,February,2,Sunday,1,7,TXN1136
+2024-02-19,Food & Dining,2190,UPI,Street food,February,2,Monday,0,8,TXN1137
+2024-02-19,Education,6588,Credit Card,Udemy course,February,2,Monday,0,8,TXN1138
+2024-02-20,Transportation,785,UPI,Metro card recharge,February,2,Tuesday,0,8,TXN1139
+2024-02-20,Shopping,1222,UPI,Myntra order,February,2,Tuesday,0,8,TXN1140
+2024-02-20,Entertainment,628,UPI,Spotify premium,February,2,Tuesday,0,8,TXN1141
+2024-02-20,Health,3357,Credit Card,Lab tests,February,2,Tuesday,0,8,TXN1142
+2024-02-20,Groceries,4335,Cash,Vegetable market,February,2,Tuesday,0,8,TXN1143
+2024-02-21,Transportation,525,Debit Card,Auto rickshaw,February,2,Wednesday,0,8,TXN1144
+2024-02-21,Food & Dining,2101,Credit Card,Zomato order,February,2,Wednesday,0,8,TXN1145
+2024-02-22,Transportation,313,UPI,Bus ticket,February,2,Thursday,0,8,TXN1146
+2024-02-23,Food & Dining,2398,Debit Card,Street food,February,2,Friday,0,8,TXN1147
+2024-02-23,Travel,17596,UPI,Bus booking,February,2,Friday,0,8,TXN1148
+2024-02-24,Food & Dining,1681,Cash,Lunch with friends,February,2,Saturday,1,8,TXN1149
+2024-02-24,Shopping,10915,Cash,Amazon purchase,February,2,Saturday,1,8,TXN1150
+2024-02-25,Food & Dining,1000,Debit Card,Street food,February,2,Sunday,1,8,TXN1151
+2024-02-25,Transportation,195,Credit Card,Uber ride,February,2,Sunday,1,8,TXN1152
+2024-02-25,Groceries,3074,Cash,Milk & dairy,February,2,Sunday,1,8,TXN1153
+2024-02-26,Food & Dining,1972,Debit Card,Swiggy delivery,February,2,Monday,0,9,TXN1154
+2024-02-26,Education,4067,Net Banking,Udemy course,February,2,Monday,0,9,TXN1155
+2024-02-26,Utilities,1894,UPI,Gas cylinder,February,2,Monday,0,9,TXN1156
+2024-02-27,Entertainment,564,UPI,Netflix subscription,February,2,Tuesday,0,9,TXN1157
+2024-02-27,Food & Dining,1450,Cash,Lunch with friends,February,2,Tuesday,0,9,TXN1158
+2024-02-27,Transportation,361,UPI,Petrol,February,2,Tuesday,0,9,TXN1159
+2024-02-27,Utilities,1540,Credit Card,Gas cylinder,February,2,Tuesday,0,9,TXN1160
+2024-02-28,Transportation,573,UPI,Petrol,February,2,Wednesday,0,9,TXN1161
+2024-02-28,Food & Dining,1452,UPI,Restaurant dinner,February,2,Wednesday,0,9,TXN1162
+2024-02-29,Food & Dining,1950,Debit Card,Lunch with friends,February,2,Thursday,0,9,TXN1163
+2024-02-29,Education,9238,UPI,Udemy course,February,2,Thursday,0,9,TXN1164
+2024-02-29,Travel,11820,Debit Card,Train ticket,February,2,Thursday,0,9,TXN1165
+2024-03-01,Groceries,2182,UPI,Supermarket,March,3,Friday,0,9,TXN1166
+2024-03-02,Food & Dining,1862,Debit Card,Cafe coffee,March,3,Saturday,1,9,TXN1167
+2024-03-02,Transportation,546,Credit Card,Bus ticket,March,3,Saturday,1,9,TXN1168
+2024-03-02,Rent,12000,Cash,Room rent,March,3,Saturday,1,9,TXN1169
+2024-03-02,Groceries,2804,Credit Card,Vegetable market,March,3,Saturday,1,9,TXN1170
+2024-03-03,Food & Dining,343,Credit Card,Street food,March,3,Sunday,1,9,TXN1171
+2024-03-03,Transportation,321,Cash,Ola cab,March,3,Sunday,1,9,TXN1172
+2024-03-04,Food & Dining,2181,Credit Card,Zomato order,March,3,Monday,0,10,TXN1173
+2024-03-04,Shopping,4994,UPI,Electronics,March,3,Monday,0,10,TXN1174
+2024-03-04,Utilities,1209,Net Banking,DTH recharge,March,3,Monday,0,10,TXN1175
+2024-03-05,Entertainment,1024,UPI,Netflix subscription,March,3,Tuesday,0,10,TXN1176
+2024-03-05,Food & Dining,971,UPI,Cafe coffee,March,3,Tuesday,0,10,TXN1177
+2024-03-05,Shopping,7910,Credit Card,Flipkart order,March,3,Tuesday,0,10,TXN1178
+2024-03-06,Food & Dining,1976,UPI,Swiggy delivery,March,3,Wednesday,0,10,TXN1179
+2024-03-06,Transportation,111,Net Banking,Metro card recharge,March,3,Wednesday,0,10,TXN1180
+2024-03-06,Groceries,2640,UPI,Vegetable market,March,3,Wednesday,0,10,TXN1181
+2024-03-07,Utilities,1483,UPI,DTH recharge,March,3,Thursday,0,10,TXN1182
+2024-03-08,Food & Dining,1911,Debit Card,Street food,March,3,Friday,0,10,TXN1183
+2024-03-08,Shopping,1824,Credit Card,Home decor,March,3,Friday,0,10,TXN1184
+2024-03-09,Transportation,620,Cash,Ola cab,March,3,Saturday,1,10,TXN1185
+2024-03-10,Travel,4007,UPI,Bus booking,March,3,Sunday,1,10,TXN1186
+2024-03-10,Food & Dining,1919,UPI,Restaurant dinner,March,3,Sunday,1,10,TXN1187
+2024-03-10,Transportation,600,UPI,Petrol,March,3,Sunday,1,10,TXN1188
+2024-03-10,Utilities,2190,Net Banking,Electricity bill,March,3,Sunday,1,10,TXN1189
+2024-03-11,Health,1340,Debit Card,Doctor consultation,March,3,Monday,0,11,TXN1190
+2024-03-11,Groceries,3353,Net Banking,D-Mart shopping,March,3,Monday,0,11,TXN1191
+2024-03-11,Food & Dining,1456,Net Banking,Cafe coffee,March,3,Monday,0,11,TXN1192
+2024-03-11,Transportation,271,Debit Card,Bus ticket,March,3,Monday,0,11,TXN1193
+2024-03-12,Shopping,6602,Credit Card,Myntra order,March,3,Tuesday,0,11,TXN1194
+2024-03-12,Food & Dining,1147,Debit Card,Street food,March,3,Tuesday,0,11,TXN1195
+2024-03-12,Transportation,695,UPI,Metro card recharge,March,3,Tuesday,0,11,TXN1196
+2024-03-13,Shopping,4030,UPI,Amazon purchase,March,3,Wednesday,0,11,TXN1197
+2024-03-13,Health,1288,Cash,Pharmacy,March,3,Wednesday,0,11,TXN1198
+2024-03-14,Transportation,212,UPI,Ola cab,March,3,Thursday,0,11,TXN1199
+2024-03-14,Groceries,1519,Debit Card,Milk & dairy,March,3,Thursday,0,11,TXN1200
+2024-03-15,Food & Dining,548,UPI,Street food,March,3,Friday,0,11,TXN1201
+2024-03-15,Entertainment,726,Credit Card,Amazon Prime,March,3,Friday,0,11,TXN1202
+2024-03-16,Food & Dining,453,Credit Card,Street food,March,3,Saturday,1,11,TXN1203
+2024-03-16,Transportation,323,Debit Card,Uber ride,March,3,Saturday,1,11,TXN1204
+2024-03-16,Groceries,1213,Debit Card,BigBasket order,March,3,Saturday,1,11,TXN1205
+2024-03-17,Transportation,641,Credit Card,Petrol,March,3,Sunday,1,11,TXN1206
+2024-03-17,Health,301,Credit Card,Doctor consultation,March,3,Sunday,1,11,TXN1207
+2024-03-17,Utilities,2663,UPI,Internet bill,March,3,Sunday,1,11,TXN1208
+2024-03-18,Shopping,1134,UPI,Myntra order,March,3,Monday,0,12,TXN1209
+2024-03-18,Food & Dining,305,UPI,Zomato order,March,3,Monday,0,12,TXN1210
+2024-03-19,Food & Dining,2254,Debit Card,Cafe coffee,March,3,Tuesday,0,12,TXN1211
+2024-03-19,Transportation,71,Credit Card,Metro card recharge,March,3,Tuesday,0,12,TXN1212
+2024-03-19,Shopping,5469,Credit Card,Flipkart order,March,3,Tuesday,0,12,TXN1213
+2024-03-19,Entertainment,2334,Debit Card,Netflix subscription,March,3,Tuesday,0,12,TXN1214
+2024-03-19,Groceries,4702,Credit Card,Vegetable market,March,3,Tuesday,0,12,TXN1215
+2024-03-20,Food & Dining,861,UPI,Zomato order,March,3,Wednesday,0,12,TXN1216
+2024-03-20,Transportation,763,Credit Card,Auto rickshaw,March,3,Wednesday,0,12,TXN1217
+2024-03-20,Shopping,6578,UPI,Electronics,March,3,Wednesday,0,12,TXN1218
+2024-03-20,Entertainment,1948,Debit Card,Concert tickets,March,3,Wednesday,0,12,TXN1219
+2024-03-21,Food & Dining,1473,Debit Card,Cafe coffee,March,3,Thursday,0,12,TXN1220
+2024-03-22,Food & Dining,993,Debit Card,Lunch with friends,March,3,Friday,0,12,TXN1221
+2024-03-22,Transportation,575,Net Banking,Auto rickshaw,March,3,Friday,0,12,TXN1222
+2024-03-23,Transportation,473,Credit Card,Petrol,March,3,Saturday,1,12,TXN1223
+2024-03-23,Food & Dining,3045,Cash,Street food,March,3,Saturday,1,12,TXN1224
+2024-03-23,Education,1269,UPI,Stationery,March,3,Saturday,1,12,TXN1225
+2024-03-24,Food & Dining,1041,UPI,Restaurant dinner,March,3,Sunday,1,12,TXN1226
+2024-03-25,Food & Dining,1168,Credit Card,Cafe coffee,March,3,Monday,0,13,TXN1227
+2024-03-25,Transportation,50,UPI,Bus ticket,March,3,Monday,0,13,TXN1228
+2024-03-25,Shopping,5678,UPI,Amazon purchase,March,3,Monday,0,13,TXN1229
+2024-03-25,Groceries,1216,Credit Card,BigBasket order,March,3,Monday,0,13,TXN1230
+2024-03-26,Food & Dining,1118,Debit Card,Cafe coffee,March,3,Tuesday,0,13,TXN1231
+2024-03-26,Transportation,687,UPI,Uber ride,March,3,Tuesday,0,13,TXN1232
+2024-03-26,Shopping,4970,UPI,Home decor,March,3,Tuesday,0,13,TXN1233
+2024-03-26,Entertainment,1999,UPI,Amazon Prime,March,3,Tuesday,0,13,TXN1234
+2024-03-27,Food & Dining,502,Credit Card,Cafe coffee,March,3,Wednesday,0,13,TXN1235
+2024-03-27,Transportation,394,Debit Card,Ola cab,March,3,Wednesday,0,13,TXN1236
+2024-03-27,Groceries,1703,UPI,BigBasket order,March,3,Wednesday,0,13,TXN1237
+2024-03-28,Shopping,3730,Debit Card,Electronics,March,3,Thursday,0,13,TXN1238
+2024-03-29,Transportation,504,UPI,Ola cab,March,3,Friday,0,13,TXN1239
+2024-03-30,Food & Dining,1608,UPI,Swiggy delivery,March,3,Saturday,1,13,TXN1240
+2024-03-31,Food & Dining,2321,Debit Card,Restaurant dinner,March,3,Sunday,1,13,TXN1241
+2024-03-31,Transportation,456,Credit Card,Auto rickshaw,March,3,Sunday,1,13,TXN1242
+2024-03-31,Education,1140,UPI,Books,March,3,Sunday,1,13,TXN1243
+2024-04-01,Transportation,697,UPI,Petrol,April,4,Monday,0,14,TXN1244
+2024-04-02,Food & Dining,644,UPI,Cafe coffee,April,4,Tuesday,0,14,TXN1245
+2024-04-02,Transportation,434,UPI,Auto rickshaw,April,4,Tuesday,0,14,TXN1246
+2024-04-03,Food & Dining,1860,Cash,Zomato order,April,4,Wednesday,0,14,TXN1247
+2024-04-03,Transportation,342,UPI,Metro card recharge,April,4,Wednesday,0,14,TXN1248
+2024-04-03,Groceries,2584,Debit Card,Blinkit delivery,April,4,Wednesday,0,14,TXN1249
+2024-04-04,Food & Dining,861,UPI,Restaurant dinner,April,4,Thursday,0,14,TXN1250
+2024-04-04,Transportation,209,Credit Card,Ola cab,April,4,Thursday,0,14,TXN1251
+2024-04-05,Shopping,5339,Credit Card,Electronics,April,4,Friday,0,14,TXN1252
+2024-04-05,Entertainment,2895,UPI,Amazon Prime,April,4,Friday,0,14,TXN1253
+2024-04-05,Food & Dining,1198,UPI,Lunch with friends,April,4,Friday,0,14,TXN1254
+2024-04-05,Transportation,267,UPI,Auto rickshaw,April,4,Friday,0,14,TXN1255
+2024-04-05,Education,7704,Debit Card,Coaching fees,April,4,Friday,0,14,TXN1256
+2024-04-06,Travel,16711,Debit Card,Holiday trip,April,4,Saturday,1,14,TXN1257
+2024-04-06,Health,2168,Credit Card,Doctor consultation,April,4,Saturday,1,14,TXN1258
+2024-04-06,Transportation,258,Net Banking,Bus ticket,April,4,Saturday,1,14,TXN1259
+2024-04-06,Food & Dining,342,Debit Card,Cafe coffee,April,4,Saturday,1,14,TXN1260
+2024-04-07,Food & Dining,544,Net Banking,Lunch with friends,April,4,Sunday,1,14,TXN1261
+2024-04-08,Food & Dining,1723,Debit Card,Lunch with friends,April,4,Monday,0,15,TXN1262
+2024-04-08,Transportation,712,UPI,Uber ride,April,4,Monday,0,15,TXN1263
+2024-04-09,Food & Dining,605,Credit Card,Lunch with friends,April,4,Tuesday,0,15,TXN1264
+2024-04-09,Transportation,293,UPI,Ola cab,April,4,Tuesday,0,15,TXN1265
+2024-04-09,Shopping,1093,Credit Card,Myntra order,April,4,Tuesday,0,15,TXN1266
+2024-04-09,Groceries,2428,UPI,Vegetable market,April,4,Tuesday,0,15,TXN1267
+2024-04-10,Groceries,3964,UPI,BigBasket order,April,4,Wednesday,0,15,TXN1268
+2024-04-10,Entertainment,2583,Debit Card,Concert tickets,April,4,Wednesday,0,15,TXN1269
+2024-04-10,Food & Dining,2011,Credit Card,Swiggy delivery,April,4,Wednesday,0,15,TXN1270
+2024-04-10,Shopping,7465,UPI,Myntra order,April,4,Wednesday,0,15,TXN1271
+2024-04-11,Food & Dining,327,Credit Card,Street food,April,4,Thursday,0,15,TXN1272
+2024-04-11,Education,5349,Credit Card,Online certification,April,4,Thursday,0,15,TXN1273
+2024-04-11,Groceries,3392,UPI,Vegetable market,April,4,Thursday,0,15,TXN1274
+2024-04-12,Groceries,1419,Credit Card,Blinkit delivery,April,4,Friday,0,15,TXN1275
+2024-04-12,Shopping,6906,Debit Card,Electronics,April,4,Friday,0,15,TXN1276
+2024-04-12,Food & Dining,1686,Net Banking,Restaurant dinner,April,4,Friday,0,15,TXN1277
+2024-04-12,Transportation,198,UPI,Bus ticket,April,4,Friday,0,15,TXN1278
+2024-04-13,Transportation,532,UPI,Petrol,April,4,Saturday,1,15,TXN1279
+2024-04-13,Entertainment,3383,UPI,Movie tickets,April,4,Saturday,1,15,TXN1280
+2024-04-14,Food & Dining,3772,Credit Card,Street food,April,4,Sunday,1,15,TXN1281
+2024-04-14,Health,2742,Credit Card,Lab tests,April,4,Sunday,1,15,TXN1282
+2024-04-15,Food & Dining,1968,Credit Card,Street food,April,4,Monday,0,16,TXN1283
+2024-04-15,Transportation,70,Net Banking,Ola cab,April,4,Monday,0,16,TXN1284
+2024-04-15,Travel,11906,Credit Card,Train ticket,April,4,Monday,0,16,TXN1285
+2024-04-16,Food & Dining,278,Cash,Street food,April,4,Tuesday,0,16,TXN1286
+2024-04-16,Transportation,465,Net Banking,Auto rickshaw,April,4,Tuesday,0,16,TXN1287
+2024-04-16,Shopping,3771,UPI,Clothes shopping,April,4,Tuesday,0,16,TXN1288
+2024-04-16,Utilities,647,Debit Card,Internet bill,April,4,Tuesday,0,16,TXN1289
+2024-04-17,Utilities,2685,UPI,Water bill,April,4,Wednesday,0,16,TXN1290
+2024-04-18,Utilities,2382,Net Banking,DTH recharge,April,4,Thursday,0,16,TXN1291
+2024-04-18,Shopping,2327,Credit Card,Myntra order,April,4,Thursday,0,16,TXN1292
+2024-04-18,Entertainment,416,Credit Card,Amazon Prime,April,4,Thursday,0,16,TXN1293
+2024-04-19,Food & Dining,1449,UPI,Zomato order,April,4,Friday,0,16,TXN1294
+2024-04-19,Shopping,6284,UPI,Myntra order,April,4,Friday,0,16,TXN1295
+2024-04-19,Groceries,1685,UPI,D-Mart shopping,April,4,Friday,0,16,TXN1296
+2024-04-20,Food & Dining,366,Cash,Swiggy delivery,April,4,Saturday,1,16,TXN1297
+2024-04-20,Transportation,710,Net Banking,Bus ticket,April,4,Saturday,1,16,TXN1298
+2024-04-20,Travel,16057,UPI,Holiday trip,April,4,Saturday,1,16,TXN1299
+2024-04-21,Food & Dining,2364,Debit Card,Street food,April,4,Sunday,1,16,TXN1300
+2024-04-21,Transportation,470,Credit Card,Metro card recharge,April,4,Sunday,1,16,TXN1301
+2024-04-21,Groceries,1361,Credit Card,BigBasket order,April,4,Sunday,1,16,TXN1302
+2024-04-22,Transportation,532,Credit Card,Uber ride,April,4,Monday,0,17,TXN1303
+2024-04-23,Groceries,4694,Credit Card,Supermarket,April,4,Tuesday,0,17,TXN1304
+2024-04-23,Food & Dining,2481,Debit Card,Lunch with friends,April,4,Tuesday,0,17,TXN1305
+2024-04-23,Shopping,6252,Net Banking,Amazon purchase,April,4,Tuesday,0,17,TXN1306
+2024-04-24,Utilities,835,UPI,Water bill,April,4,Wednesday,0,17,TXN1307
+2024-04-24,Health,3490,Cash,Pharmacy,April,4,Wednesday,0,17,TXN1308
+2024-04-24,Food & Dining,2028,Debit Card,Lunch with friends,April,4,Wednesday,0,17,TXN1309
+2024-04-24,Shopping,2585,UPI,Electronics,April,4,Wednesday,0,17,TXN1310
+2024-04-25,Food & Dining,2406,UPI,Restaurant dinner,April,4,Thursday,0,17,TXN1311
+2024-04-25,Transportation,260,UPI,Auto rickshaw,April,4,Thursday,0,17,TXN1312
+2024-04-25,Groceries,3160,Credit Card,Blinkit delivery,April,4,Thursday,0,17,TXN1313
+2024-04-26,Food & Dining,675,Debit Card,Restaurant dinner,April,4,Friday,0,17,TXN1314
+2024-04-26,Entertainment,397,Credit Card,Spotify premium,April,4,Friday,0,17,TXN1315
+2024-04-27,Health,846,Credit Card,Gym membership,April,4,Saturday,1,17,TXN1316
+2024-04-27,Food & Dining,449,UPI,Zomato order,April,4,Saturday,1,17,TXN1317
+2024-04-27,Transportation,679,UPI,Ola cab,April,4,Saturday,1,17,TXN1318
+2024-04-28,Entertainment,1812,UPI,Netflix subscription,April,4,Sunday,1,17,TXN1319
+2024-04-28,Groceries,3461,UPI,Vegetable market,April,4,Sunday,1,17,TXN1320
+2024-04-28,Food & Dining,2248,Debit Card,Swiggy delivery,April,4,Sunday,1,17,TXN1321
+2024-04-29,Groceries,2422,UPI,Vegetable market,April,4,Monday,0,18,TXN1322
+2024-04-29,Shopping,5847,UPI,Electronics,April,4,Monday,0,18,TXN1323
+2024-04-29,Transportation,778,Debit Card,Petrol,April,4,Monday,0,18,TXN1324
+2024-04-29,Food & Dining,1105,UPI,Lunch with friends,April,4,Monday,0,18,TXN1325
+2024-04-30,Food & Dining,2446,UPI,Swiggy delivery,April,4,Tuesday,0,18,TXN1326
+2024-04-30,Transportation,191,Debit Card,Uber ride,April,4,Tuesday,0,18,TXN1327
+2024-04-30,Entertainment,1953,UPI,Netflix subscription,April,4,Tuesday,0,18,TXN1328
+2024-04-30,Groceries,4249,Debit Card,Blinkit delivery,April,4,Tuesday,0,18,TXN1329
+2024-05-01,Food & Dining,792,Net Banking,Street food,May,5,Wednesday,0,18,TXN1330
+2024-05-01,Entertainment,376,Credit Card,Amazon Prime,May,5,Wednesday,0,18,TXN1331
+2024-05-02,Transportation,343,Debit Card,Uber ride,May,5,Thursday,0,18,TXN1332
+2024-05-02,Food & Dining,2103,Credit Card,Lunch with friends,May,5,Thursday,0,18,TXN1333
+2024-05-03,Food & Dining,2460,Debit Card,Cafe coffee,May,5,Friday,0,18,TXN1334
+2024-05-03,Shopping,3548,Credit Card,Electronics,May,5,Friday,0,18,TXN1335
+2024-05-03,Health,4270,Cash,Doctor consultation,May,5,Friday,0,18,TXN1336
+2024-05-04,Food & Dining,646,UPI,Cafe coffee,May,5,Saturday,1,18,TXN1337
+2024-05-04,Groceries,1467,Credit Card,Blinkit delivery,May,5,Saturday,1,18,TXN1338
+2024-05-05,Travel,5307,Debit Card,Bus booking,May,5,Sunday,1,18,TXN1339
+2024-05-06,Utilities,726,UPI,Gas cylinder,May,5,Monday,0,19,TXN1340
+2024-05-06,Travel,19299,Net Banking,Hotel booking,May,5,Monday,0,19,TXN1341
+2024-05-06,Entertainment,1760,UPI,Gaming,May,5,Monday,0,19,TXN1342
+2024-05-06,Food & Dining,1747,Debit Card,Zomato order,May,5,Monday,0,19,TXN1343
+2024-05-06,Transportation,582,Debit Card,Uber ride,May,5,Monday,0,19,TXN1344
+2024-05-06,Shopping,1625,Net Banking,Clothes shopping,May,5,Monday,0,19,TXN1345
+2024-05-07,Food & Dining,2099,UPI,Swiggy delivery,May,5,Tuesday,0,19,TXN1346
+2024-05-07,Utilities,1940,UPI,Water bill,May,5,Tuesday,0,19,TXN1347
+2024-05-08,Food & Dining,1095,UPI,Street food,May,5,Wednesday,0,19,TXN1348
+2024-05-08,Health,3240,Debit Card,Medicine,May,5,Wednesday,0,19,TXN1349
+2024-05-08,Utilities,1570,UPI,Electricity bill,May,5,Wednesday,0,19,TXN1350
+2024-05-08,Travel,12794,Debit Card,Flight ticket,May,5,Wednesday,0,19,TXN1351
+2024-05-09,Food & Dining,2390,UPI,Restaurant dinner,May,5,Thursday,0,19,TXN1352
+2024-05-10,Transportation,492,UPI,Bus ticket,May,5,Friday,0,19,TXN1353
+2024-05-10,Travel,7249,Net Banking,Bus booking,May,5,Friday,0,19,TXN1354
+2024-05-11,Utilities,1433,UPI,Water bill,May,5,Saturday,1,19,TXN1355
+2024-05-11,Travel,14639,UPI,Bus booking,May,5,Saturday,1,19,TXN1356
+2024-05-11,Shopping,11579,Credit Card,Electronics,May,5,Saturday,1,19,TXN1357
+2024-05-11,Transportation,475,Debit Card,Petrol,May,5,Saturday,1,19,TXN1358
+2024-05-12,Food & Dining,2532,Debit Card,Zomato order,May,5,Sunday,1,19,TXN1359
+2024-05-12,Transportation,117,Cash,Uber ride,May,5,Sunday,1,19,TXN1360
+2024-05-12,Utilities,1585,Debit Card,DTH recharge,May,5,Sunday,1,19,TXN1361
+2024-05-13,Food & Dining,860,UPI,Cafe coffee,May,5,Monday,0,20,TXN1362
+2024-05-13,Transportation,733,UPI,Auto rickshaw,May,5,Monday,0,20,TXN1363
+2024-05-13,Entertainment,1258,Debit Card,Netflix subscription,May,5,Monday,0,20,TXN1364
+2024-05-13,Health,642,Credit Card,Lab tests,May,5,Monday,0,20,TXN1365
+2024-05-13,Travel,19789,Credit Card,Train ticket,May,5,Monday,0,20,TXN1366
+2024-05-14,Food & Dining,704,Debit Card,Cafe coffee,May,5,Tuesday,0,20,TXN1367
+2024-05-14,Shopping,1271,UPI,Home decor,May,5,Tuesday,0,20,TXN1368
+2024-05-15,Transportation,622,Credit Card,Uber ride,May,5,Wednesday,0,20,TXN1369
+2024-05-16,Shopping,1659,UPI,Electronics,May,5,Thursday,0,20,TXN1370
+2024-05-16,Groceries,3280,UPI,D-Mart shopping,May,5,Thursday,0,20,TXN1371
+2024-05-16,Food & Dining,1912,Credit Card,Lunch with friends,May,5,Thursday,0,20,TXN1372
+2024-05-17,Food & Dining,2012,UPI,Zomato order,May,5,Friday,0,20,TXN1373
+2024-05-17,Transportation,753,Debit Card,Metro card recharge,May,5,Friday,0,20,TXN1374
+2024-05-18,Food & Dining,3291,Net Banking,Swiggy delivery,May,5,Saturday,1,20,TXN1375
+2024-05-18,Entertainment,3277,Credit Card,Movie tickets,May,5,Saturday,1,20,TXN1376
+2024-05-18,Groceries,2774,Credit Card,Supermarket,May,5,Saturday,1,20,TXN1377
+2024-05-19,Food & Dining,3607,Debit Card,Zomato order,May,5,Sunday,1,20,TXN1378
+2024-05-19,Transportation,315,Credit Card,Metro card recharge,May,5,Sunday,1,20,TXN1379
+2024-05-19,Utilities,2128,UPI,DTH recharge,May,5,Sunday,1,20,TXN1380
+2024-05-19,Groceries,1267,UPI,BigBasket order,May,5,Sunday,1,20,TXN1381
+2024-05-19,Travel,4998,UPI,Weekend trip,May,5,Sunday,1,20,TXN1382
+2024-05-20,Transportation,326,Debit Card,Uber ride,May,5,Monday,0,21,TXN1383
+2024-05-20,Food & Dining,1350,UPI,Zomato order,May,5,Monday,0,21,TXN1384
+2024-05-20,Entertainment,2320,UPI,Movie tickets,May,5,Monday,0,21,TXN1385
+2024-05-21,Travel,19028,Credit Card,Hotel booking,May,5,Tuesday,0,21,TXN1386
+2024-05-21,Food & Dining,2241,UPI,Lunch with friends,May,5,Tuesday,0,21,TXN1387
+2024-05-22,Transportation,625,Credit Card,Uber ride,May,5,Wednesday,0,21,TXN1388
+2024-05-22,Food & Dining,1650,UPI,Restaurant dinner,May,5,Wednesday,0,21,TXN1389
+2024-05-23,Food & Dining,756,UPI,Restaurant dinner,May,5,Thursday,0,21,TXN1390
+2024-05-23,Transportation,412,UPI,Uber ride,May,5,Thursday,0,21,TXN1391
+2024-05-23,Utilities,2669,UPI,Internet bill,May,5,Thursday,0,21,TXN1392
+2024-05-24,Transportation,126,Credit Card,Bus ticket,May,5,Friday,0,21,TXN1393
+2024-05-25,Transportation,603,Debit Card,Auto rickshaw,May,5,Saturday,1,21,TXN1394
+2024-05-25,Shopping,1123,UPI,Electronics,May,5,Saturday,1,21,TXN1395
+2024-05-25,Groceries,3913,Credit Card,Vegetable market,May,5,Saturday,1,21,TXN1396
+2024-05-26,Food & Dining,3127,Debit Card,Restaurant dinner,May,5,Sunday,1,21,TXN1397
+2024-05-26,Transportation,569,UPI,Ola cab,May,5,Sunday,1,21,TXN1398
+2024-05-26,Health,3462,Cash,Gym membership,May,5,Sunday,1,21,TXN1399
+2024-05-27,Food & Dining,1407,UPI,Lunch with friends,May,5,Monday,0,22,TXN1400
+2024-05-27,Transportation,631,UPI,Metro card recharge,May,5,Monday,0,22,TXN1401
+2024-05-27,Entertainment,1063,Credit Card,Movie tickets,May,5,Monday,0,22,TXN1402
+2024-05-28,Transportation,736,Debit Card,Petrol,May,5,Tuesday,0,22,TXN1403
+2024-05-28,Education,8084,Credit Card,Udemy course,May,5,Tuesday,0,22,TXN1404
+2024-05-28,Food & Dining,1914,Cash,Restaurant dinner,May,5,Tuesday,0,22,TXN1405
+2024-05-29,Food & Dining,1142,Credit Card,Swiggy delivery,May,5,Wednesday,0,22,TXN1406
+2024-05-29,Transportation,398,UPI,Metro card recharge,May,5,Wednesday,0,22,TXN1407
+2024-05-29,Entertainment,325,Credit Card,Gaming,May,5,Wednesday,0,22,TXN1408
+2024-05-29,Groceries,1018,UPI,Blinkit delivery,May,5,Wednesday,0,22,TXN1409
+2024-05-30,Groceries,4426,Credit Card,Milk & dairy,May,5,Thursday,0,22,TXN1410
+2024-05-30,Food & Dining,778,Debit Card,Zomato order,May,5,Thursday,0,22,TXN1411
+2024-05-30,Transportation,598,UPI,Auto rickshaw,May,5,Thursday,0,22,TXN1412
+2024-05-30,Utilities,1301,UPI,Water bill,May,5,Thursday,0,22,TXN1413
+2024-05-31,Transportation,622,UPI,Bus ticket,May,5,Friday,0,22,TXN1414
+2024-05-31,Entertainment,2622,Debit Card,Gaming,May,5,Friday,0,22,TXN1415
+2024-05-31,Education,2497,Credit Card,Coaching fees,May,5,Friday,0,22,TXN1416
+2024-05-31,Travel,8686,Cash,Weekend trip,May,5,Friday,0,22,TXN1417
+2024-06-01,Food & Dining,3012,Credit Card,Street food,June,6,Saturday,1,22,TXN1418
+2024-06-01,Transportation,330,UPI,Ola cab,June,6,Saturday,1,22,TXN1419
+2024-06-02,Rent,12000,Credit Card,Room rent,June,6,Sunday,1,22,TXN1420
+2024-06-02,Utilities,2239,Credit Card,Electricity bill,June,6,Sunday,1,22,TXN1421
+2024-06-02,Transportation,520,Debit Card,Petrol,June,6,Sunday,1,22,TXN1422
+2024-06-02,Food & Dining,383,Credit Card,Cafe coffee,June,6,Sunday,1,22,TXN1423
+2024-06-03,Transportation,439,UPI,Ola cab,June,6,Monday,0,23,TXN1424
+2024-06-03,Shopping,1167,UPI,Amazon purchase,June,6,Monday,0,23,TXN1425
+2024-06-03,Entertainment,336,Debit Card,Gaming,June,6,Monday,0,23,TXN1426
+2024-06-04,Food & Dining,670,Credit Card,Zomato order,June,6,Tuesday,0,23,TXN1427
+2024-06-04,Travel,15718,Cash,Flight ticket,June,6,Tuesday,0,23,TXN1428
+2024-06-05,Food & Dining,1946,Credit Card,Swiggy delivery,June,6,Wednesday,0,23,TXN1429
+2024-06-05,Transportation,551,Net Banking,Petrol,June,6,Wednesday,0,23,TXN1430
+2024-06-05,Health,526,UPI,Lab tests,June,6,Wednesday,0,23,TXN1431
+2024-06-06,Food & Dining,1682,Debit Card,Lunch with friends,June,6,Thursday,0,23,TXN1432
+2024-06-06,Transportation,670,Debit Card,Auto rickshaw,June,6,Thursday,0,23,TXN1433
+2024-06-06,Entertainment,2027,Debit Card,Gaming,June,6,Thursday,0,23,TXN1434
+2024-06-06,Education,1539,Debit Card,Workshop,June,6,Thursday,0,23,TXN1435
+2024-06-06,Groceries,2548,UPI,Milk & dairy,June,6,Thursday,0,23,TXN1436
+2024-06-07,Groceries,3905,Debit Card,Supermarket,June,6,Friday,0,23,TXN1437
+2024-06-07,Food & Dining,2300,Debit Card,Street food,June,6,Friday,0,23,TXN1438
+2024-06-07,Transportation,447,Credit Card,Ola cab,June,6,Friday,0,23,TXN1439
+2024-06-08,Food & Dining,2944,Cash,Lunch with friends,June,6,Saturday,1,23,TXN1440
+2024-06-08,Transportation,748,UPI,Ola cab,June,6,Saturday,1,23,TXN1441
+2024-06-08,Shopping,10720,UPI,Amazon purchase,June,6,Saturday,1,23,TXN1442
+2024-06-08,Rent,12000,UPI,Monthly rent,June,6,Saturday,1,23,TXN1443
+2024-06-09,Food & Dining,811,Credit Card,Street food,June,6,Sunday,1,23,TXN1444
+2024-06-09,Transportation,693,Cash,Auto rickshaw,June,6,Sunday,1,23,TXN1445
+2024-06-09,Shopping,4550,Credit Card,Electronics,June,6,Sunday,1,23,TXN1446
+2024-06-09,Health,692,UPI,Lab tests,June,6,Sunday,1,23,TXN1447
+2024-06-10,Food & Dining,225,Debit Card,Restaurant dinner,June,6,Monday,0,24,TXN1448
+2024-06-10,Transportation,316,Net Banking,Petrol,June,6,Monday,0,24,TXN1449
+2024-06-11,Transportation,508,UPI,Ola cab,June,6,Tuesday,0,24,TXN1450
+2024-06-11,Food & Dining,1976,Cash,Cafe coffee,June,6,Tuesday,0,24,TXN1451
+2024-06-12,Shopping,3732,UPI,Clothes shopping,June,6,Wednesday,0,24,TXN1452
+2024-06-12,Transportation,142,Credit Card,Auto rickshaw,June,6,Wednesday,0,24,TXN1453
+2024-06-12,Food & Dining,2132,Credit Card,Restaurant dinner,June,6,Wednesday,0,24,TXN1454
+2024-06-13,Food & Dining,1555,UPI,Zomato order,June,6,Thursday,0,24,TXN1455
+2024-06-13,Shopping,1369,Credit Card,Flipkart order,June,6,Thursday,0,24,TXN1456
+2024-06-13,Entertainment,819,Debit Card,Spotify premium,June,6,Thursday,0,24,TXN1457
+2024-06-15,Education,3217,UPI,Books,June,6,Saturday,1,24,TXN1458
+2024-06-16,Food & Dining,2251,Cash,Lunch with friends,June,6,Sunday,1,24,TXN1459
+2024-06-16,Transportation,716,Net Banking,Ola cab,June,6,Sunday,1,24,TXN1460
+2024-06-16,Shopping,4389,Credit Card,Electronics,June,6,Sunday,1,24,TXN1461
+2024-06-17,Food & Dining,1305,Debit Card,Swiggy delivery,June,6,Monday,0,25,TXN1462
+2024-06-17,Health,4710,UPI,Doctor consultation,June,6,Monday,0,25,TXN1463
+2024-06-18,Food & Dining,850,Credit Card,Street food,June,6,Tuesday,0,25,TXN1464
+2024-06-18,Transportation,331,Debit Card,Auto rickshaw,June,6,Tuesday,0,25,TXN1465
+2024-06-19,Transportation,607,UPI,Ola cab,June,6,Wednesday,0,25,TXN1466
+2024-06-19,Utilities,539,UPI,Water bill,June,6,Wednesday,0,25,TXN1467
+2024-06-19,Food & Dining,420,UPI,Restaurant dinner,June,6,Wednesday,0,25,TXN1468
+2024-06-20,Food & Dining,478,Cash,Lunch with friends,June,6,Thursday,0,25,TXN1469
+2024-06-20,Transportation,730,UPI,Ola cab,June,6,Thursday,0,25,TXN1470
+2024-06-20,Shopping,5945,UPI,Flipkart order,June,6,Thursday,0,25,TXN1471
+2024-06-20,Education,5307,UPI,Online certification,June,6,Thursday,0,25,TXN1472
+2024-06-20,Utilities,2487,Net Banking,DTH recharge,June,6,Thursday,0,25,TXN1473
+2024-06-21,Food & Dining,2049,UPI,Lunch with friends,June,6,Friday,0,25,TXN1474
+2024-06-21,Shopping,705,UPI,Clothes shopping,June,6,Friday,0,25,TXN1475
+2024-06-21,Groceries,1271,UPI,Blinkit delivery,June,6,Friday,0,25,TXN1476
+2024-06-22,Rent,12000,UPI,Monthly rent,June,6,Saturday,1,25,TXN1477
+2024-06-22,Food & Dining,649,Net Banking,Swiggy delivery,June,6,Saturday,1,25,TXN1478
+2024-06-22,Transportation,609,UPI,Ola cab,June,6,Saturday,1,25,TXN1479
+2024-06-22,Shopping,4239,Credit Card,Amazon purchase,June,6,Saturday,1,25,TXN1480
+2024-06-22,Entertainment,2051,Debit Card,Spotify premium,June,6,Saturday,1,25,TXN1481
+2024-06-22,Utilities,1008,Cash,Electricity bill,June,6,Saturday,1,25,TXN1482
+2024-06-23,Groceries,2567,UPI,Supermarket,June,6,Sunday,1,25,TXN1483
+2024-06-24,Travel,9426,Credit Card,Weekend trip,June,6,Monday,0,26,TXN1484
+2024-06-24,Food & Dining,2107,UPI,Lunch with friends,June,6,Monday,0,26,TXN1485
+2024-06-26,Food & Dining,1039,UPI,Restaurant dinner,June,6,Wednesday,0,26,TXN1486
+2024-06-26,Rent,12000,UPI,Monthly rent,June,6,Wednesday,0,26,TXN1487
+2024-06-27,Food & Dining,2147,Credit Card,Lunch with friends,June,6,Thursday,0,26,TXN1488
+2024-06-27,Transportation,82,UPI,Ola cab,June,6,Thursday,0,26,TXN1489
+2024-06-27,Health,2906,UPI,Doctor consultation,June,6,Thursday,0,26,TXN1490
+2024-06-27,Groceries,4474,Debit Card,D-Mart shopping,June,6,Thursday,0,26,TXN1491
+2024-06-27,Travel,18166,Credit Card,Flight ticket,June,6,Thursday,0,26,TXN1492
+2024-06-28,Food & Dining,1797,Credit Card,Zomato order,June,6,Friday,0,26,TXN1493
+2024-06-28,Transportation,619,UPI,Bus ticket,June,6,Friday,0,26,TXN1494
+2024-06-28,Entertainment,1691,Credit Card,Spotify premium,June,6,Friday,0,26,TXN1495
+2024-06-28,Education,7241,Credit Card,Books,June,6,Friday,0,26,TXN1496
+2024-06-29,Health,2042,Credit Card,Doctor consultation,June,6,Saturday,1,26,TXN1497
+2024-06-29,Food & Dining,1362,UPI,Zomato order,June,6,Saturday,1,26,TXN1498
+2024-06-29,Transportation,157,Credit Card,Metro card recharge,June,6,Saturday,1,26,TXN1499
+2024-06-30,Travel,12283,Cash,Flight ticket,June,6,Sunday,1,26,TXN1500
+2024-06-30,Shopping,9982,UPI,Clothes shopping,June,6,Sunday,1,26,TXN1501
+2024-07-01,Food & Dining,2120,UPI,Zomato order,July,7,Monday,0,27,TXN1502
+2024-07-01,Shopping,6905,Net Banking,Amazon purchase,July,7,Monday,0,27,TXN1503
+2024-07-02,Food & Dining,272,Credit Card,Restaurant dinner,July,7,Tuesday,0,27,TXN1504
+2024-07-02,Transportation,92,Credit Card,Uber ride,July,7,Tuesday,0,27,TXN1505
+2024-07-02,Utilities,1959,UPI,Electricity bill,July,7,Tuesday,0,27,TXN1506
+2024-07-03,Food & Dining,260,Credit Card,Lunch with friends,July,7,Wednesday,0,27,TXN1507
+2024-07-03,Transportation,380,Credit Card,Bus ticket,July,7,Wednesday,0,27,TXN1508
+2024-07-04,Food & Dining,2111,Net Banking,Restaurant dinner,July,7,Thursday,0,27,TXN1509
+2024-07-04,Travel,5817,Credit Card,Train ticket,July,7,Thursday,0,27,TXN1510
+2024-07-05,Food & Dining,941,Credit Card,Cafe coffee,July,7,Friday,0,27,TXN1511
+2024-07-05,Transportation,668,Cash,Petrol,July,7,Friday,0,27,TXN1512
+2024-07-06,Transportation,87,UPI,Auto rickshaw,July,7,Saturday,1,27,TXN1513
+2024-07-06,Shopping,5142,Debit Card,Clothes shopping,July,7,Saturday,1,27,TXN1514
+2024-07-06,Food & Dining,1517,UPI,Zomato order,July,7,Saturday,1,27,TXN1515
+2024-07-07,Groceries,3156,Credit Card,Milk & dairy,July,7,Sunday,1,27,TXN1516
+2024-07-07,Shopping,1685,UPI,Flipkart order,July,7,Sunday,1,27,TXN1517
+2024-07-07,Food & Dining,712,UPI,Zomato order,July,7,Sunday,1,27,TXN1518
+2024-07-08,Food & Dining,286,Debit Card,Restaurant dinner,July,7,Monday,0,28,TXN1519
+2024-07-08,Transportation,775,UPI,Auto rickshaw,July,7,Monday,0,28,TXN1520
+2024-07-09,Food & Dining,1829,UPI,Zomato order,July,7,Tuesday,0,28,TXN1521
+2024-07-09,Transportation,687,UPI,Uber ride,July,7,Tuesday,0,28,TXN1522
+2024-07-09,Entertainment,2230,UPI,Gaming,July,7,Tuesday,0,28,TXN1523
+2024-07-09,Health,3911,UPI,Health checkup,July,7,Tuesday,0,28,TXN1524
+2024-07-10,Food & Dining,218,Debit Card,Swiggy delivery,July,7,Wednesday,0,28,TXN1525
+2024-07-10,Transportation,403,Credit Card,Bus ticket,July,7,Wednesday,0,28,TXN1526
+2024-07-10,Entertainment,438,UPI,Netflix subscription,July,7,Wednesday,0,28,TXN1527
+2024-07-11,Food & Dining,1230,Debit Card,Street food,July,7,Thursday,0,28,TXN1528
+2024-07-12,Food & Dining,1296,Credit Card,Zomato order,July,7,Friday,0,28,TXN1529
+2024-07-12,Transportation,647,Debit Card,Metro card recharge,July,7,Friday,0,28,TXN1530
+2024-07-12,Shopping,7273,Debit Card,Myntra order,July,7,Friday,0,28,TXN1531
+2024-07-12,Rent,12000,Credit Card,Monthly rent,July,7,Friday,0,28,TXN1532
+2024-07-13,Transportation,734,Credit Card,Auto rickshaw,July,7,Saturday,1,28,TXN1533
+2024-07-13,Food & Dining,3641,Debit Card,Cafe coffee,July,7,Saturday,1,28,TXN1534
+2024-07-14,Food & Dining,1168,Debit Card,Swiggy delivery,July,7,Sunday,1,28,TXN1535
+2024-07-14,Transportation,145,UPI,Metro card recharge,July,7,Sunday,1,28,TXN1536
+2024-07-14,Utilities,1218,UPI,Water bill,July,7,Sunday,1,28,TXN1537
+2024-07-15,Food & Dining,1703,Credit Card,Zomato order,July,7,Monday,0,29,TXN1538
+2024-07-15,Transportation,260,Credit Card,Auto rickshaw,July,7,Monday,0,29,TXN1539
+2024-07-16,Food & Dining,689,Credit Card,Lunch with friends,July,7,Tuesday,0,29,TXN1540
+2024-07-18,Food & Dining,438,Credit Card,Restaurant dinner,July,7,Thursday,0,29,TXN1541
+2024-07-18,Transportation,178,Credit Card,Petrol,July,7,Thursday,0,29,TXN1542
+2024-07-18,Utilities,1474,Debit Card,DTH recharge,July,7,Thursday,0,29,TXN1543
+2024-07-19,Food & Dining,591,UPI,Lunch with friends,July,7,Friday,0,29,TXN1544
+2024-07-19,Transportation,454,Cash,Auto rickshaw,July,7,Friday,0,29,TXN1545
+2024-07-20,Food & Dining,3286,UPI,Lunch with friends,July,7,Saturday,1,29,TXN1546
+2024-07-20,Groceries,3906,UPI,D-Mart shopping,July,7,Saturday,1,29,TXN1547
+2024-07-21,Utilities,2754,Credit Card,Internet bill,July,7,Sunday,1,29,TXN1548
+2024-07-21,Education,1919,Credit Card,Coaching fees,July,7,Sunday,1,29,TXN1549
+2024-07-21,Health,4903,Debit Card,Gym membership,July,7,Sunday,1,29,TXN1550
+2024-07-22,Food & Dining,267,Net Banking,Restaurant dinner,July,7,Monday,0,30,TXN1551
+2024-07-22,Transportation,123,UPI,Ola cab,July,7,Monday,0,30,TXN1552
+2024-07-22,Shopping,2758,Cash,Clothes shopping,July,7,Monday,0,30,TXN1553
+2024-07-23,Food & Dining,2144,Credit Card,Restaurant dinner,July,7,Tuesday,0,30,TXN1554
+2024-07-23,Health,1398,UPI,Pharmacy,July,7,Tuesday,0,30,TXN1555
+2024-07-23,Education,1570,Debit Card,Udemy course,July,7,Tuesday,0,30,TXN1556
+2024-07-23,Utilities,1417,UPI,Water bill,July,7,Tuesday,0,30,TXN1557
+2024-07-23,Travel,15380,Cash,Hotel booking,July,7,Tuesday,0,30,TXN1558
+2024-07-24,Food & Dining,1335,UPI,Restaurant dinner,July,7,Wednesday,0,30,TXN1559
+2024-07-24,Groceries,1804,Debit Card,Blinkit delivery,July,7,Wednesday,0,30,TXN1560
+2024-07-25,Food & Dining,2159,Credit Card,Cafe coffee,July,7,Thursday,0,30,TXN1561
+2024-07-25,Transportation,345,UPI,Ola cab,July,7,Thursday,0,30,TXN1562
+2024-07-26,Shopping,1757,Debit Card,Amazon purchase,July,7,Friday,0,30,TXN1563
+2024-07-26,Education,7419,UPI,Stationery,July,7,Friday,0,30,TXN1564
+2024-07-26,Food & Dining,2335,Cash,Zomato order,July,7,Friday,0,30,TXN1565
+2024-07-27,Food & Dining,2646,Credit Card,Swiggy delivery,July,7,Saturday,1,30,TXN1566
+2024-07-27,Transportation,325,UPI,Uber ride,July,7,Saturday,1,30,TXN1567
+2024-07-27,Shopping,6770,Net Banking,Myntra order,July,7,Saturday,1,30,TXN1568
+2024-07-27,Entertainment,1077,UPI,Spotify premium,July,7,Saturday,1,30,TXN1569
+2024-07-28,Food & Dining,301,Debit Card,Swiggy delivery,July,7,Sunday,1,30,TXN1570
+2024-07-28,Transportation,432,Net Banking,Bus ticket,July,7,Sunday,1,30,TXN1571
+2024-07-29,Transportation,784,UPI,Ola cab,July,7,Monday,0,31,TXN1572
+2024-07-29,Food & Dining,2051,Credit Card,Zomato order,July,7,Monday,0,31,TXN1573
+2024-07-30,Food & Dining,2198,Credit Card,Street food,July,7,Tuesday,0,31,TXN1574
+2024-07-31,Food & Dining,426,Debit Card,Cafe coffee,July,7,Wednesday,0,31,TXN1575
+2024-07-31,Transportation,273,UPI,Auto rickshaw,July,7,Wednesday,0,31,TXN1576
+2024-08-01,Entertainment,2367,UPI,Amazon Prime,August,8,Thursday,0,31,TXN1577
+2024-08-02,Food & Dining,2053,UPI,Lunch with friends,August,8,Friday,0,31,TXN1578
+2024-08-02,Transportation,436,Cash,Petrol,August,8,Friday,0,31,TXN1579
+2024-08-03,Groceries,1155,Debit Card,Blinkit delivery,August,8,Saturday,1,31,TXN1580
+2024-08-03,Education,9519,UPI,Books,August,8,Saturday,1,31,TXN1581
+2024-08-03,Health,3429,UPI,Gym membership,August,8,Saturday,1,31,TXN1582
+2024-08-03,Transportation,766,UPI,Petrol,August,8,Saturday,1,31,TXN1583
+2024-08-03,Food & Dining,1049,Credit Card,Zomato order,August,8,Saturday,1,31,TXN1584
+2024-08-04,Food & Dining,1684,UPI,Lunch with friends,August,8,Sunday,1,31,TXN1585
+2024-08-04,Shopping,9934,UPI,Amazon purchase,August,8,Sunday,1,31,TXN1586
+2024-08-04,Groceries,2715,UPI,BigBasket order,August,8,Sunday,1,31,TXN1587
+2024-08-05,Transportation,788,Debit Card,Ola cab,August,8,Monday,0,32,TXN1588
+2024-08-06,Food & Dining,1082,Debit Card,Restaurant dinner,August,8,Tuesday,0,32,TXN1589
+2024-08-06,Transportation,530,UPI,Auto rickshaw,August,8,Tuesday,0,32,TXN1590
+2024-08-07,Food & Dining,1594,UPI,Zomato order,August,8,Wednesday,0,32,TXN1591
+2024-08-07,Transportation,499,Debit Card,Metro card recharge,August,8,Wednesday,0,32,TXN1592
+2024-08-08,Food & Dining,2424,UPI,Swiggy delivery,August,8,Thursday,0,32,TXN1593
+2024-08-08,Transportation,619,Debit Card,Ola cab,August,8,Thursday,0,32,TXN1594
+2024-08-09,Transportation,509,UPI,Uber ride,August,8,Friday,0,32,TXN1595
+2024-08-09,Entertainment,336,UPI,Gaming,August,8,Friday,0,32,TXN1596
+2024-08-09,Groceries,3967,Credit Card,Blinkit delivery,August,8,Friday,0,32,TXN1597
+2024-08-10,Transportation,509,Cash,Petrol,August,8,Saturday,1,32,TXN1598
+2024-08-10,Food & Dining,535,Debit Card,Zomato order,August,8,Saturday,1,32,TXN1599
+2024-08-11,Food & Dining,1369,Credit Card,Cafe coffee,August,8,Sunday,1,32,TXN1600
+2024-08-11,Shopping,9884,UPI,Home decor,August,8,Sunday,1,32,TXN1601
+2024-08-11,Groceries,4972,UPI,Vegetable market,August,8,Sunday,1,32,TXN1602
+2024-08-12,Food & Dining,2187,Credit Card,Street food,August,8,Monday,0,33,TXN1603
+2024-08-12,Rent,12000,Debit Card,Monthly rent,August,8,Monday,0,33,TXN1604
+2024-08-13,Food & Dining,2303,UPI,Lunch with friends,August,8,Tuesday,0,33,TXN1605
+2024-08-13,Transportation,634,Cash,Uber ride,August,8,Tuesday,0,33,TXN1606
+2024-08-13,Entertainment,2277,Cash,Gaming,August,8,Tuesday,0,33,TXN1607
+2024-08-13,Health,1925,Debit Card,Pharmacy,August,8,Tuesday,0,33,TXN1608
+2024-08-13,Groceries,3745,Credit Card,Blinkit delivery,August,8,Tuesday,0,33,TXN1609
+2024-08-13,Travel,4587,UPI,Flight ticket,August,8,Tuesday,0,33,TXN1610
+2024-08-14,Food & Dining,751,Net Banking,Zomato order,August,8,Wednesday,0,33,TXN1611
+2024-08-14,Transportation,240,Debit Card,Uber ride,August,8,Wednesday,0,33,TXN1612
+2024-08-15,Rent,12000,Debit Card,Room rent,August,8,Thursday,0,33,TXN1613
+2024-08-15,Shopping,1762,UPI,Myntra order,August,8,Thursday,0,33,TXN1614
+2024-08-15,Food & Dining,1048,UPI,Street food,August,8,Thursday,0,33,TXN1615
+2024-08-16,Food & Dining,1185,Credit Card,Lunch with friends,August,8,Friday,0,33,TXN1616
+2024-08-16,Transportation,195,UPI,Ola cab,August,8,Friday,0,33,TXN1617
+2024-08-16,Entertainment,2631,UPI,Spotify premium,August,8,Friday,0,33,TXN1618
+2024-08-16,Education,8504,Credit Card,Coaching fees,August,8,Friday,0,33,TXN1619
+2024-08-17,Food & Dining,536,Net Banking,Restaurant dinner,August,8,Saturday,1,33,TXN1620
+2024-08-17,Transportation,190,Credit Card,Bus ticket,August,8,Saturday,1,33,TXN1621
+2024-08-17,Utilities,2435,UPI,Gas cylinder,August,8,Saturday,1,33,TXN1622
+2024-08-18,Food & Dining,469,Debit Card,Zomato order,August,8,Sunday,1,33,TXN1623
+2024-08-18,Transportation,632,Cash,Metro card recharge,August,8,Sunday,1,33,TXN1624
+2024-08-18,Education,9849,UPI,Stationery,August,8,Sunday,1,33,TXN1625
+2024-08-19,Food & Dining,2175,Debit Card,Lunch with friends,August,8,Monday,0,34,TXN1626
+2024-08-19,Transportation,142,Cash,Uber ride,August,8,Monday,0,34,TXN1627
+2024-08-19,Groceries,1834,Debit Card,Vegetable market,August,8,Monday,0,34,TXN1628
+2024-08-20,Entertainment,2397,Debit Card,Spotify premium,August,8,Tuesday,0,34,TXN1629
+2024-08-20,Transportation,465,Debit Card,Bus ticket,August,8,Tuesday,0,34,TXN1630
+2024-08-21,Food & Dining,1040,UPI,Restaurant dinner,August,8,Wednesday,0,34,TXN1631
+2024-08-21,Utilities,2915,Credit Card,Internet bill,August,8,Wednesday,0,34,TXN1632
+2024-08-21,Groceries,2337,UPI,BigBasket order,August,8,Wednesday,0,34,TXN1633
+2024-08-21,Travel,14618,Credit Card,Hotel booking,August,8,Wednesday,0,34,TXN1634
+2024-08-22,Food & Dining,1682,UPI,Street food,August,8,Thursday,0,34,TXN1635
+2024-08-22,Utilities,1477,UPI,Mobile recharge,August,8,Thursday,0,34,TXN1636
+2024-08-22,Groceries,1482,UPI,Blinkit delivery,August,8,Thursday,0,34,TXN1637
+2024-08-23,Food & Dining,690,UPI,Swiggy delivery,August,8,Friday,0,34,TXN1638
+2024-08-23,Transportation,382,Credit Card,Bus ticket,August,8,Friday,0,34,TXN1639
+2024-08-23,Travel,19524,Debit Card,Flight ticket,August,8,Friday,0,34,TXN1640
+2024-08-24,Food & Dining,856,Debit Card,Street food,August,8,Saturday,1,34,TXN1641
+2024-08-24,Transportation,679,UPI,Petrol,August,8,Saturday,1,34,TXN1642
+2024-08-25,Shopping,9378,UPI,Flipkart order,August,8,Sunday,1,34,TXN1643
+2024-08-25,Education,4939,Credit Card,Online certification,August,8,Sunday,1,34,TXN1644
+2024-08-25,Food & Dining,2097,Credit Card,Street food,August,8,Sunday,1,34,TXN1645
+2024-08-27,Health,789,Debit Card,Gym membership,August,8,Tuesday,0,35,TXN1646
+2024-08-27,Food & Dining,1115,Debit Card,Restaurant dinner,August,8,Tuesday,0,35,TXN1647
+2024-08-27,Transportation,349,UPI,Uber ride,August,8,Tuesday,0,35,TXN1648
+2024-08-28,Food & Dining,329,Credit Card,Zomato order,August,8,Wednesday,0,35,TXN1649
+2024-08-28,Transportation,65,UPI,Auto rickshaw,August,8,Wednesday,0,35,TXN1650
+2024-08-28,Health,640,Debit Card,Medicine,August,8,Wednesday,0,35,TXN1651
+2024-08-29,Food & Dining,1404,Debit Card,Swiggy delivery,August,8,Thursday,0,35,TXN1652
+2024-08-29,Transportation,157,UPI,Metro card recharge,August,8,Thursday,0,35,TXN1653
+2024-08-30,Food & Dining,2277,UPI,Cafe coffee,August,8,Friday,0,35,TXN1654
+2024-08-30,Shopping,943,Cash,Amazon purchase,August,8,Friday,0,35,TXN1655
+2024-08-30,Utilities,1760,Credit Card,Water bill,August,8,Friday,0,35,TXN1656
+2024-08-30,Groceries,1335,UPI,Blinkit delivery,August,8,Friday,0,35,TXN1657
+2024-08-31,Food & Dining,953,Credit Card,Zomato order,August,8,Saturday,1,35,TXN1658
+2024-08-31,Transportation,88,Credit Card,Ola cab,August,8,Saturday,1,35,TXN1659
+2024-09-01,Food & Dining,1498,UPI,Lunch with friends,September,9,Sunday,1,35,TXN1660
+2024-09-01,Shopping,8256,Credit Card,Myntra order,September,9,Sunday,1,35,TXN1661
+2024-09-02,Utilities,2323,Debit Card,Electricity bill,September,9,Monday,0,36,TXN1662
+2024-09-02,Health,2743,UPI,Pharmacy,September,9,Monday,0,36,TXN1663
+2024-09-02,Transportation,748,Cash,Auto rickshaw,September,9,Monday,0,36,TXN1664
+2024-09-02,Food & Dining,394,UPI,Street food,September,9,Monday,0,36,TXN1665
+2024-09-03,Food & Dining,571,Credit Card,Restaurant dinner,September,9,Tuesday,0,36,TXN1666
+2024-09-03,Transportation,92,UPI,Metro card recharge,September,9,Tuesday,0,36,TXN1667
+2024-09-03,Health,4354,Debit Card,Pharmacy,September,9,Tuesday,0,36,TXN1668
+2024-09-03,Groceries,4480,UPI,Blinkit delivery,September,9,Tuesday,0,36,TXN1669
+2024-09-04,Food & Dining,2319,UPI,Cafe coffee,September,9,Wednesday,0,36,TXN1670
+2024-09-04,Transportation,657,UPI,Bus ticket,September,9,Wednesday,0,36,TXN1671
+2024-09-05,Food & Dining,1051,Debit Card,Street food,September,9,Thursday,0,36,TXN1672
+2024-09-06,Transportation,220,UPI,Petrol,September,9,Friday,0,36,TXN1673
+2024-09-07,Food & Dining,652,Debit Card,Restaurant dinner,September,9,Saturday,1,36,TXN1674
+2024-09-07,Health,2102,Credit Card,Gym membership,September,9,Saturday,1,36,TXN1675
+2024-09-08,Food & Dining,2249,Debit Card,Restaurant dinner,September,9,Sunday,1,36,TXN1676
+2024-09-08,Transportation,425,UPI,Auto rickshaw,September,9,Sunday,1,36,TXN1677
+2024-09-10,Groceries,3039,Net Banking,Milk & dairy,September,9,Tuesday,0,37,TXN1678
+2024-09-10,Food & Dining,946,Net Banking,Swiggy delivery,September,9,Tuesday,0,37,TXN1679
+2024-09-10,Entertainment,2581,UPI,Gaming,September,9,Tuesday,0,37,TXN1680
+2024-09-11,Food & Dining,443,UPI,Zomato order,September,9,Wednesday,0,37,TXN1681
+2024-09-12,Food & Dining,1411,UPI,Zomato order,September,9,Thursday,0,37,TXN1682
+2024-09-12,Transportation,551,UPI,Ola cab,September,9,Thursday,0,37,TXN1683
+2024-09-12,Shopping,7845,Cash,Clothes shopping,September,9,Thursday,0,37,TXN1684
+2024-09-12,Entertainment,1119,Debit Card,Movie tickets,September,9,Thursday,0,37,TXN1685
+2024-09-12,Groceries,2436,UPI,Vegetable market,September,9,Thursday,0,37,TXN1686
+2024-09-13,Food & Dining,1752,Credit Card,Lunch with friends,September,9,Friday,0,37,TXN1687
+2024-09-13,Health,2455,Cash,Lab tests,September,9,Friday,0,37,TXN1688
+2024-09-13,Groceries,1441,Net Banking,Blinkit delivery,September,9,Friday,0,37,TXN1689
+2024-09-14,Education,1904,Cash,Coaching fees,September,9,Saturday,1,37,TXN1690
+2024-09-14,Food & Dining,2942,Credit Card,Swiggy delivery,September,9,Saturday,1,37,TXN1691
+2024-09-14,Transportation,406,UPI,Uber ride,September,9,Saturday,1,37,TXN1692
+2024-09-14,Groceries,1270,Credit Card,D-Mart shopping,September,9,Saturday,1,37,TXN1693
+2024-09-15,Entertainment,996,UPI,Movie tickets,September,9,Sunday,1,37,TXN1694
+2024-09-15,Food & Dining,2119,UPI,Street food,September,9,Sunday,1,37,TXN1695
+2024-09-16,Food & Dining,343,Cash,Cafe coffee,September,9,Monday,0,38,TXN1696
+2024-09-16,Transportation,228,Credit Card,Ola cab,September,9,Monday,0,38,TXN1697
+2024-09-16,Shopping,4233,UPI,Home decor,September,9,Monday,0,38,TXN1698
+2024-09-17,Food & Dining,228,UPI,Lunch with friends,September,9,Tuesday,0,38,TXN1699
+2024-09-17,Transportation,343,Credit Card,Metro card recharge,September,9,Tuesday,0,38,TXN1700
+2024-09-17,Utilities,950,UPI,Gas cylinder,September,9,Tuesday,0,38,TXN1701
+2024-09-18,Education,6649,Cash,Online certification,September,9,Wednesday,0,38,TXN1702
+2024-09-18,Health,4217,UPI,Doctor consultation,September,9,Wednesday,0,38,TXN1703
+2024-09-18,Entertainment,2259,Net Banking,Gaming,September,9,Wednesday,0,38,TXN1704
+2024-09-18,Groceries,2464,UPI,Vegetable market,September,9,Wednesday,0,38,TXN1705
+2024-09-18,Transportation,457,Credit Card,Petrol,September,9,Wednesday,0,38,TXN1706
+2024-09-18,Food & Dining,2262,Debit Card,Swiggy delivery,September,9,Wednesday,0,38,TXN1707
+2024-09-18,Shopping,2014,Credit Card,Amazon purchase,September,9,Wednesday,0,38,TXN1708
+2024-09-19,Utilities,1641,Credit Card,Internet bill,September,9,Thursday,0,38,TXN1709
+2024-09-19,Transportation,372,Net Banking,Bus ticket,September,9,Thursday,0,38,TXN1710
+2024-09-19,Food & Dining,667,Credit Card,Cafe coffee,September,9,Thursday,0,38,TXN1711
+2024-09-20,Transportation,163,Credit Card,Metro card recharge,September,9,Friday,0,38,TXN1712
+2024-09-21,Food & Dining,3159,UPI,Cafe coffee,September,9,Saturday,1,38,TXN1713
+2024-09-21,Transportation,589,Debit Card,Auto rickshaw,September,9,Saturday,1,38,TXN1714
+2024-09-21,Shopping,11377,UPI,Clothes shopping,September,9,Saturday,1,38,TXN1715
+2024-09-22,Transportation,488,Cash,Auto rickshaw,September,9,Sunday,1,38,TXN1716
+2024-09-22,Entertainment,3102,UPI,Spotify premium,September,9,Sunday,1,38,TXN1717
+2024-09-23,Food & Dining,2082,Credit Card,Swiggy delivery,September,9,Monday,0,39,TXN1718
+2024-09-23,Transportation,352,UPI,Uber ride,September,9,Monday,0,39,TXN1719
+2024-09-23,Entertainment,2594,UPI,Netflix subscription,September,9,Monday,0,39,TXN1720
+2024-09-23,Groceries,4248,UPI,D-Mart shopping,September,9,Monday,0,39,TXN1721
+2024-09-24,Health,4541,Debit Card,Lab tests,September,9,Tuesday,0,39,TXN1722
+2024-09-24,Entertainment,970,UPI,Spotify premium,September,9,Tuesday,0,39,TXN1723
+2024-09-24,Groceries,3476,Credit Card,Milk & dairy,September,9,Tuesday,0,39,TXN1724
+2024-09-24,Transportation,346,Credit Card,Ola cab,September,9,Tuesday,0,39,TXN1725
+2024-09-24,Food & Dining,227,Credit Card,Zomato order,September,9,Tuesday,0,39,TXN1726
+2024-09-24,Shopping,1401,UPI,Myntra order,September,9,Tuesday,0,39,TXN1727
+2024-09-25,Transportation,772,Credit Card,Bus ticket,September,9,Wednesday,0,39,TXN1728
+2024-09-26,Food & Dining,1857,UPI,Zomato order,September,9,Thursday,0,39,TXN1729
+2024-09-26,Transportation,600,Debit Card,Uber ride,September,9,Thursday,0,39,TXN1730
+2024-09-26,Rent,12000,Credit Card,Monthly rent,September,9,Thursday,0,39,TXN1731
+2024-09-27,Food & Dining,342,UPI,Cafe coffee,September,9,Friday,0,39,TXN1732
+2024-09-27,Utilities,1618,UPI,Mobile recharge,September,9,Friday,0,39,TXN1733
+2024-09-28,Transportation,317,UPI,Petrol,September,9,Saturday,1,39,TXN1734
+2024-09-28,Food & Dining,2863,UPI,Cafe coffee,September,9,Saturday,1,39,TXN1735
+2024-09-29,Food & Dining,587,UPI,Swiggy delivery,September,9,Sunday,1,39,TXN1736
+2024-09-29,Transportation,232,UPI,Uber ride,September,9,Sunday,1,39,TXN1737
+2024-09-30,Food & Dining,1949,Credit Card,Restaurant dinner,September,9,Monday,0,40,TXN1738
+2024-09-30,Transportation,367,Debit Card,Ola cab,September,9,Monday,0,40,TXN1739
+2024-10-01,Food & Dining,310,UPI,Restaurant dinner,October,10,Tuesday,0,40,TXN1740
+2024-10-01,Transportation,781,Credit Card,Metro card recharge,October,10,Tuesday,0,40,TXN1741
+2024-10-02,Entertainment,887,UPI,Amazon Prime,October,10,Wednesday,0,40,TXN1742
+2024-10-02,Shopping,5494,UPI,Home decor,October,10,Wednesday,0,40,TXN1743
+2024-10-02,Food & Dining,2144,UPI,Lunch with friends,October,10,Wednesday,0,40,TXN1744
+2024-10-02,Transportation,587,UPI,Bus ticket,October,10,Wednesday,0,40,TXN1745
+2024-10-03,Food & Dining,1423,Debit Card,Cafe coffee,October,10,Thursday,0,40,TXN1746
+2024-10-03,Transportation,436,UPI,Metro card recharge,October,10,Thursday,0,40,TXN1747
+2024-10-03,Health,3458,UPI,Gym membership,October,10,Thursday,0,40,TXN1748
+2024-10-04,Food & Dining,1612,Net Banking,Restaurant dinner,October,10,Friday,0,40,TXN1749
+2024-10-04,Shopping,615,Credit Card,Home decor,October,10,Friday,0,40,TXN1750
+2024-10-05,Food & Dining,1105,UPI,Restaurant dinner,October,10,Saturday,1,40,TXN1751
+2024-10-05,Transportation,410,UPI,Auto rickshaw,October,10,Saturday,1,40,TXN1752
+2024-10-05,Shopping,12343,UPI,Flipkart order,October,10,Saturday,1,40,TXN1753
+2024-10-06,Food & Dining,917,UPI,Swiggy delivery,October,10,Sunday,1,40,TXN1754
+2024-10-06,Transportation,650,Credit Card,Auto rickshaw,October,10,Sunday,1,40,TXN1755
+2024-10-06,Shopping,8172,Cash,Flipkart order,October,10,Sunday,1,40,TXN1756
+2024-10-07,Education,3659,Credit Card,Workshop,October,10,Monday,0,41,TXN1757
+2024-10-07,Groceries,3925,Cash,BigBasket order,October,10,Monday,0,41,TXN1758
+2024-10-07,Food & Dining,1198,Debit Card,Street food,October,10,Monday,0,41,TXN1759
+2024-10-07,Shopping,6236,Credit Card,Amazon purchase,October,10,Monday,0,41,TXN1760
+2024-10-08,Food & Dining,2372,UPI,Restaurant dinner,October,10,Tuesday,0,41,TXN1761
+2024-10-08,Utilities,1301,UPI,Internet bill,October,10,Tuesday,0,41,TXN1762
+2024-10-09,Food & Dining,2360,Credit Card,Street food,October,10,Wednesday,0,41,TXN1763
+2024-10-09,Transportation,128,Debit Card,Bus ticket,October,10,Wednesday,0,41,TXN1764
+2024-10-09,Shopping,3309,Credit Card,Electronics,October,10,Wednesday,0,41,TXN1765
+2024-10-10,Groceries,1981,Credit Card,Supermarket,October,10,Thursday,0,41,TXN1766
+2024-10-10,Transportation,523,UPI,Metro card recharge,October,10,Thursday,0,41,TXN1767
+2024-10-10,Shopping,7965,UPI,Clothes shopping,October,10,Thursday,0,41,TXN1768
+2024-10-10,Entertainment,2779,Debit Card,Amazon Prime,October,10,Thursday,0,41,TXN1769
+2024-10-11,Food & Dining,658,Cash,Street food,October,10,Friday,0,41,TXN1770
+2024-10-12,Entertainment,3640,Net Banking,Spotify premium,October,10,Saturday,1,41,TXN1771
+2024-10-12,Shopping,8857,Cash,Home decor,October,10,Saturday,1,41,TXN1772
+2024-10-13,Transportation,322,Debit Card,Petrol,October,10,Sunday,1,41,TXN1773
+2024-10-14,Groceries,4140,UPI,Blinkit delivery,October,10,Monday,0,42,TXN1774
+2024-10-14,Entertainment,2782,UPI,Gaming,October,10,Monday,0,42,TXN1775
+2024-10-14,Shopping,6854,UPI,Home decor,October,10,Monday,0,42,TXN1776
+2024-10-14,Transportation,389,Debit Card,Auto rickshaw,October,10,Monday,0,42,TXN1777
+2024-10-14,Food & Dining,1304,Credit Card,Lunch with friends,October,10,Monday,0,42,TXN1778
+2024-10-15,Transportation,383,Credit Card,Metro card recharge,October,10,Tuesday,0,42,TXN1779
+2024-10-15,Entertainment,745,Credit Card,Netflix subscription,October,10,Tuesday,0,42,TXN1780
+2024-10-15,Groceries,4072,Credit Card,Supermarket,October,10,Tuesday,0,42,TXN1781
+2024-10-16,Food & Dining,425,Debit Card,Street food,October,10,Wednesday,0,42,TXN1782
+2024-10-16,Transportation,258,Credit Card,Metro card recharge,October,10,Wednesday,0,42,TXN1783
+2024-10-16,Shopping,6301,Credit Card,Electronics,October,10,Wednesday,0,42,TXN1784
+2024-10-17,Food & Dining,2361,Cash,Zomato order,October,10,Thursday,0,42,TXN1785
+2024-10-17,Shopping,2994,Credit Card,Clothes shopping,October,10,Thursday,0,42,TXN1786
+2024-10-17,Entertainment,300,UPI,Concert tickets,October,10,Thursday,0,42,TXN1787
+2024-10-17,Education,5704,UPI,Stationery,October,10,Thursday,0,42,TXN1788
+2024-10-18,Food & Dining,1496,UPI,Lunch with friends,October,10,Friday,0,42,TXN1789
+2024-10-18,Transportation,764,UPI,Uber ride,October,10,Friday,0,42,TXN1790
+2024-10-19,Shopping,6329,Credit Card,Flipkart order,October,10,Saturday,1,42,TXN1791
+2024-10-19,Transportation,254,UPI,Petrol,October,10,Saturday,1,42,TXN1792
+2024-10-19,Food & Dining,1122,Credit Card,Restaurant dinner,October,10,Saturday,1,42,TXN1793
+2024-10-20,Food & Dining,498,Debit Card,Zomato order,October,10,Sunday,1,42,TXN1794
+2024-10-20,Shopping,8988,Credit Card,Myntra order,October,10,Sunday,1,42,TXN1795
+2024-10-21,Food & Dining,686,UPI,Cafe coffee,October,10,Monday,0,43,TXN1796
+2024-10-21,Transportation,282,UPI,Uber ride,October,10,Monday,0,43,TXN1797
+2024-10-21,Shopping,4794,Credit Card,Amazon purchase,October,10,Monday,0,43,TXN1798
+2024-10-22,Transportation,639,UPI,Uber ride,October,10,Tuesday,0,43,TXN1799
+2024-10-22,Education,2480,UPI,Stationery,October,10,Tuesday,0,43,TXN1800
+2024-10-23,Food & Dining,1098,Credit Card,Swiggy delivery,October,10,Wednesday,0,43,TXN1801
+2024-10-23,Shopping,3910,UPI,Home decor,October,10,Wednesday,0,43,TXN1802
+2024-10-23,Utilities,679,Debit Card,DTH recharge,October,10,Wednesday,0,43,TXN1803
+2024-10-23,Groceries,1479,Cash,Milk & dairy,October,10,Wednesday,0,43,TXN1804
+2024-10-24,Transportation,696,Debit Card,Metro card recharge,October,10,Thursday,0,43,TXN1805
+2024-10-24,Shopping,1910,UPI,Home decor,October,10,Thursday,0,43,TXN1806
+2024-10-25,Shopping,4097,UPI,Flipkart order,October,10,Friday,0,43,TXN1807
+2024-10-25,Utilities,1133,UPI,Mobile recharge,October,10,Friday,0,43,TXN1808
+2024-10-26,Food & Dining,2402,Debit Card,Zomato order,October,10,Saturday,1,43,TXN1809
+2024-10-27,Food & Dining,2351,Debit Card,Street food,October,10,Sunday,1,43,TXN1810
+2024-10-27,Shopping,9642,Credit Card,Myntra order,October,10,Sunday,1,43,TXN1811
+2024-10-27,Utilities,2763,UPI,Electricity bill,October,10,Sunday,1,43,TXN1812
+2024-10-27,Travel,15373,UPI,Bus booking,October,10,Sunday,1,43,TXN1813
+2024-10-28,Food & Dining,1880,Credit Card,Lunch with friends,October,10,Monday,0,44,TXN1814
+2024-10-28,Transportation,315,Debit Card,Auto rickshaw,October,10,Monday,0,44,TXN1815
+2024-10-28,Shopping,4424,UPI,Amazon purchase,October,10,Monday,0,44,TXN1816
+2024-10-28,Health,1055,Debit Card,Medicine,October,10,Monday,0,44,TXN1817
+2024-10-28,Groceries,4865,Credit Card,Blinkit delivery,October,10,Monday,0,44,TXN1818
+2024-10-29,Food & Dining,542,UPI,Zomato order,October,10,Tuesday,0,44,TXN1819
+2024-10-29,Shopping,7572,UPI,Electronics,October,10,Tuesday,0,44,TXN1820
+2024-10-29,Groceries,4755,UPI,Supermarket,October,10,Tuesday,0,44,TXN1821
+2024-10-30,Transportation,210,Credit Card,Ola cab,October,10,Wednesday,0,44,TXN1822
+2024-10-30,Shopping,3462,Debit Card,Myntra order,October,10,Wednesday,0,44,TXN1823
+2024-10-30,Groceries,2927,UPI,D-Mart shopping,October,10,Wednesday,0,44,TXN1824
+2024-10-31,Rent,12000,UPI,Room rent,October,10,Thursday,0,44,TXN1825
+2024-10-31,Food & Dining,1562,UPI,Swiggy delivery,October,10,Thursday,0,44,TXN1826
+2024-10-31,Transportation,747,Credit Card,Petrol,October,10,Thursday,0,44,TXN1827
+2024-11-01,Food & Dining,1411,Debit Card,Street food,November,11,Friday,0,44,TXN1828
+2024-11-01,Transportation,508,Cash,Auto rickshaw,November,11,Friday,0,44,TXN1829
+2024-11-01,Shopping,7009,UPI,Flipkart order,November,11,Friday,0,44,TXN1830
+2024-11-01,Groceries,3757,Credit Card,Vegetable market,November,11,Friday,0,44,TXN1831
+2024-11-02,Shopping,7373,Net Banking,Home decor,November,11,Saturday,1,44,TXN1832
+2024-11-02,Entertainment,1792,Credit Card,Concert tickets,November,11,Saturday,1,44,TXN1833
+2024-11-02,Education,5452,UPI,Udemy course,November,11,Saturday,1,44,TXN1834
+2024-11-02,Utilities,783,Debit Card,Gas cylinder,November,11,Saturday,1,44,TXN1835
+2024-11-02,Groceries,3662,Cash,Blinkit delivery,November,11,Saturday,1,44,TXN1836
+2024-11-03,Transportation,594,UPI,Ola cab,November,11,Sunday,1,44,TXN1837
+2024-11-04,Food & Dining,2251,Cash,Cafe coffee,November,11,Monday,0,45,TXN1838
+2024-11-04,Shopping,1943,Credit Card,Amazon purchase,November,11,Monday,0,45,TXN1839
+2024-11-05,Health,4057,Cash,Medicine,November,11,Tuesday,0,45,TXN1840
+2024-11-05,Shopping,7834,Debit Card,Amazon purchase,November,11,Tuesday,0,45,TXN1841
+2024-11-05,Transportation,637,UPI,Uber ride,November,11,Tuesday,0,45,TXN1842
+2024-11-05,Food & Dining,628,UPI,Cafe coffee,November,11,Tuesday,0,45,TXN1843
+2024-11-06,Food & Dining,1097,Cash,Lunch with friends,November,11,Wednesday,0,45,TXN1844
+2024-11-06,Transportation,416,Net Banking,Metro card recharge,November,11,Wednesday,0,45,TXN1845
+2024-11-06,Shopping,4522,Cash,Electronics,November,11,Wednesday,0,45,TXN1846
+2024-11-07,Food & Dining,1337,Cash,Cafe coffee,November,11,Thursday,0,45,TXN1847
+2024-11-07,Transportation,360,UPI,Petrol,November,11,Thursday,0,45,TXN1848
+2024-11-07,Utilities,664,Credit Card,Electricity bill,November,11,Thursday,0,45,TXN1849
+2024-11-08,Groceries,1452,Credit Card,Blinkit delivery,November,11,Friday,0,45,TXN1850
+2024-11-08,Shopping,7674,UPI,Home decor,November,11,Friday,0,45,TXN1851
+2024-11-08,Food & Dining,261,Credit Card,Cafe coffee,November,11,Friday,0,45,TXN1852
+2024-11-09,Transportation,441,UPI,Ola cab,November,11,Saturday,1,45,TXN1853
+2024-11-09,Shopping,879,UPI,Amazon purchase,November,11,Saturday,1,45,TXN1854
+2024-11-09,Groceries,4555,Credit Card,D-Mart shopping,November,11,Saturday,1,45,TXN1855
+2024-11-10,Transportation,427,UPI,Bus ticket,November,11,Sunday,1,45,TXN1856
+2024-11-10,Utilities,1482,UPI,DTH recharge,November,11,Sunday,1,45,TXN1857
+2024-11-11,Health,3031,UPI,Pharmacy,November,11,Monday,0,46,TXN1858
+2024-11-11,Entertainment,1376,Credit Card,Amazon Prime,November,11,Monday,0,46,TXN1859
+2024-11-11,Food & Dining,1933,Net Banking,Restaurant dinner,November,11,Monday,0,46,TXN1860
+2024-11-11,Transportation,242,Credit Card,Uber ride,November,11,Monday,0,46,TXN1861
+2024-11-12,Food & Dining,1545,Cash,Lunch with friends,November,11,Tuesday,0,46,TXN1862
+2024-11-12,Transportation,91,Cash,Ola cab,November,11,Tuesday,0,46,TXN1863
+2024-11-12,Shopping,3490,Credit Card,Myntra order,November,11,Tuesday,0,46,TXN1864
+2024-11-13,Food & Dining,2221,UPI,Lunch with friends,November,11,Wednesday,0,46,TXN1865
+2024-11-13,Transportation,777,UPI,Petrol,November,11,Wednesday,0,46,TXN1866
+2024-11-14,Food & Dining,1511,Credit Card,Cafe coffee,November,11,Thursday,0,46,TXN1867
+2024-11-14,Transportation,468,Credit Card,Metro card recharge,November,11,Thursday,0,46,TXN1868
+2024-11-14,Shopping,3892,UPI,Home decor,November,11,Thursday,0,46,TXN1869
+2024-11-14,Education,6053,UPI,Workshop,November,11,Thursday,0,46,TXN1870
+2024-11-15,Food & Dining,1188,UPI,Lunch with friends,November,11,Friday,0,46,TXN1871
+2024-11-15,Health,2740,Cash,Health checkup,November,11,Friday,0,46,TXN1872
+2024-11-16,Utilities,2927,Net Banking,Internet bill,November,11,Saturday,1,46,TXN1873
+2024-11-16,Entertainment,360,Debit Card,Gaming,November,11,Saturday,1,46,TXN1874
+2024-11-16,Shopping,4884,Debit Card,Myntra order,November,11,Saturday,1,46,TXN1875
+2024-11-16,Transportation,461,UPI,Metro card recharge,November,11,Saturday,1,46,TXN1876
+2024-11-17,Food & Dining,620,Debit Card,Restaurant dinner,November,11,Sunday,1,46,TXN1877
+2024-11-17,Transportation,168,UPI,Uber ride,November,11,Sunday,1,46,TXN1878
+2024-11-17,Utilities,1939,UPI,DTH recharge,November,11,Sunday,1,46,TXN1879
+2024-11-17,Groceries,1508,UPI,BigBasket order,November,11,Sunday,1,46,TXN1880
+2024-11-18,Food & Dining,1752,UPI,Restaurant dinner,November,11,Monday,0,47,TXN1881
+2024-11-18,Transportation,780,Credit Card,Auto rickshaw,November,11,Monday,0,47,TXN1882
+2024-11-18,Shopping,4087,Cash,Clothes shopping,November,11,Monday,0,47,TXN1883
+2024-11-18,Education,9501,UPI,Coaching fees,November,11,Monday,0,47,TXN1884
+2024-11-18,Travel,8904,UPI,Flight ticket,November,11,Monday,0,47,TXN1885
+2024-11-19,Food & Dining,2224,Net Banking,Street food,November,11,Tuesday,0,47,TXN1886
+2024-11-19,Transportation,397,Debit Card,Uber ride,November,11,Tuesday,0,47,TXN1887
+2024-11-19,Shopping,1630,Debit Card,Clothes shopping,November,11,Tuesday,0,47,TXN1888
+2024-11-19,Groceries,1492,Credit Card,Blinkit delivery,November,11,Tuesday,0,47,TXN1889
+2024-11-20,Education,8754,Credit Card,Stationery,November,11,Wednesday,0,47,TXN1890
+2024-11-20,Food & Dining,839,UPI,Restaurant dinner,November,11,Wednesday,0,47,TXN1891
+2024-11-20,Transportation,779,Credit Card,Auto rickshaw,November,11,Wednesday,0,47,TXN1892
+2024-11-21,Food & Dining,1774,Cash,Restaurant dinner,November,11,Thursday,0,47,TXN1893
+2024-11-21,Transportation,140,Credit Card,Bus ticket,November,11,Thursday,0,47,TXN1894
+2024-11-21,Health,2087,UPI,Pharmacy,November,11,Thursday,0,47,TXN1895
+2024-11-22,Food & Dining,2028,Credit Card,Swiggy delivery,November,11,Friday,0,47,TXN1896
+2024-11-22,Transportation,684,Debit Card,Uber ride,November,11,Friday,0,47,TXN1897
+2024-11-22,Shopping,2563,UPI,Clothes shopping,November,11,Friday,0,47,TXN1898
+2024-11-23,Food & Dining,2761,Credit Card,Swiggy delivery,November,11,Saturday,1,47,TXN1899
+2024-11-23,Transportation,475,Cash,Metro card recharge,November,11,Saturday,1,47,TXN1900
+2024-11-23,Shopping,7743,Net Banking,Flipkart order,November,11,Saturday,1,47,TXN1901
+2024-11-24,Entertainment,1945,Credit Card,Spotify premium,November,11,Sunday,1,47,TXN1902
+2024-11-24,Food & Dining,358,UPI,Swiggy delivery,November,11,Sunday,1,47,TXN1903
+2024-11-24,Transportation,70,Credit Card,Bus ticket,November,11,Sunday,1,47,TXN1904
+2024-11-25,Utilities,1188,Net Banking,Gas cylinder,November,11,Monday,0,48,TXN1905
+2024-11-25,Food & Dining,325,Debit Card,Swiggy delivery,November,11,Monday,0,48,TXN1906
+2024-11-25,Transportation,307,Credit Card,Bus ticket,November,11,Monday,0,48,TXN1907
+2024-11-26,Food & Dining,2483,UPI,Street food,November,11,Tuesday,0,48,TXN1908
+2024-11-26,Transportation,172,UPI,Auto rickshaw,November,11,Tuesday,0,48,TXN1909
+2024-11-26,Shopping,6690,Cash,Clothes shopping,November,11,Tuesday,0,48,TXN1910
+2024-11-26,Entertainment,637,Debit Card,Movie tickets,November,11,Tuesday,0,48,TXN1911
+2024-11-27,Food & Dining,399,Cash,Street food,November,11,Wednesday,0,48,TXN1912
+2024-11-27,Shopping,7725,Credit Card,Flipkart order,November,11,Wednesday,0,48,TXN1913
+2024-11-27,Education,6785,Debit Card,Workshop,November,11,Wednesday,0,48,TXN1914
+2024-11-27,Groceries,2365,Cash,BigBasket order,November,11,Wednesday,0,48,TXN1915
+2024-11-28,Food & Dining,611,UPI,Lunch with friends,November,11,Thursday,0,48,TXN1916
+2024-11-29,Food & Dining,1265,UPI,Restaurant dinner,November,11,Friday,0,48,TXN1917
+2024-11-29,Shopping,7740,Cash,Amazon purchase,November,11,Friday,0,48,TXN1918
+2024-11-29,Entertainment,1147,UPI,Concert tickets,November,11,Friday,0,48,TXN1919
+2024-11-30,Education,3892,UPI,Books,November,11,Saturday,1,48,TXN1920
+2024-11-30,Shopping,5198,Debit Card,Clothes shopping,November,11,Saturday,1,48,TXN1921
+2024-11-30,Food & Dining,1404,Net Banking,Cafe coffee,November,11,Saturday,1,48,TXN1922
+2024-11-30,Transportation,258,Credit Card,Auto rickshaw,November,11,Saturday,1,48,TXN1923
+2024-12-01,Food & Dining,3385,Credit Card,Swiggy delivery,December,12,Sunday,1,48,TXN1924
+2024-12-01,Transportation,779,UPI,Metro card recharge,December,12,Sunday,1,48,TXN1925
+2024-12-01,Entertainment,1709,UPI,Movie tickets,December,12,Sunday,1,48,TXN1926
+2024-12-01,Health,4654,UPI,Doctor consultation,December,12,Sunday,1,48,TXN1927
+2024-12-01,Utilities,1500,Credit Card,Water bill,December,12,Sunday,1,48,TXN1928
+2024-12-02,Food & Dining,2303,UPI,Lunch with friends,December,12,Monday,0,49,TXN1929
+2024-12-02,Transportation,488,UPI,Uber ride,December,12,Monday,0,49,TXN1930
+2024-12-02,Shopping,3896,UPI,Myntra order,December,12,Monday,0,49,TXN1931
+2024-12-02,Travel,8009,Credit Card,Weekend trip,December,12,Monday,0,49,TXN1932
+2024-12-03,Food & Dining,1838,UPI,Street food,December,12,Tuesday,0,49,TXN1933
+2024-12-03,Transportation,646,Credit Card,Petrol,December,12,Tuesday,0,49,TXN1934
+2024-12-04,Food & Dining,2203,UPI,Zomato order,December,12,Wednesday,0,49,TXN1935
+2024-12-05,Education,4932,UPI,Books,December,12,Thursday,0,49,TXN1936
+2024-12-05,Entertainment,2709,UPI,Amazon Prime,December,12,Thursday,0,49,TXN1937
+2024-12-05,Shopping,2181,UPI,Amazon purchase,December,12,Thursday,0,49,TXN1938
+2024-12-05,Transportation,411,Debit Card,Ola cab,December,12,Thursday,0,49,TXN1939
+2024-12-06,Food & Dining,261,UPI,Lunch with friends,December,12,Friday,0,49,TXN1940
+2024-12-06,Transportation,771,Cash,Petrol,December,12,Friday,0,49,TXN1941
+2024-12-07,Food & Dining,2870,Net Banking,Zomato order,December,12,Saturday,1,49,TXN1942
+2024-12-07,Transportation,591,UPI,Auto rickshaw,December,12,Saturday,1,49,TXN1943
+2024-12-07,Health,4781,Net Banking,Health checkup,December,12,Saturday,1,49,TXN1944
+2024-12-07,Groceries,1470,UPI,D-Mart shopping,December,12,Saturday,1,49,TXN1945
+2024-12-07,Travel,9719,Debit Card,Hotel booking,December,12,Saturday,1,49,TXN1946
+2024-12-08,Food & Dining,2570,UPI,Swiggy delivery,December,12,Sunday,1,49,TXN1947
+2024-12-08,Shopping,3764,Credit Card,Myntra order,December,12,Sunday,1,49,TXN1948
+2024-12-08,Education,1312,Debit Card,Stationery,December,12,Sunday,1,49,TXN1949
+2024-12-09,Food & Dining,2094,Cash,Swiggy delivery,December,12,Monday,0,50,TXN1950
+2024-12-09,Transportation,665,UPI,Petrol,December,12,Monday,0,50,TXN1951
+2024-12-09,Entertainment,690,Debit Card,Gaming,December,12,Monday,0,50,TXN1952
+2024-12-10,Shopping,7325,Debit Card,Electronics,December,12,Tuesday,0,50,TXN1953
+2024-12-10,Food & Dining,527,Debit Card,Restaurant dinner,December,12,Tuesday,0,50,TXN1954
+2024-12-10,Transportation,75,Credit Card,Metro card recharge,December,12,Tuesday,0,50,TXN1955
+2024-12-11,Food & Dining,2108,Debit Card,Swiggy delivery,December,12,Wednesday,0,50,TXN1956
+2024-12-11,Transportation,318,UPI,Metro card recharge,December,12,Wednesday,0,50,TXN1957
+2024-12-11,Shopping,2270,Debit Card,Home decor,December,12,Wednesday,0,50,TXN1958
+2024-12-12,Food & Dining,877,UPI,Swiggy delivery,December,12,Thursday,0,50,TXN1959
+2024-12-12,Transportation,121,Credit Card,Ola cab,December,12,Thursday,0,50,TXN1960
+2024-12-12,Shopping,6544,UPI,Myntra order,December,12,Thursday,0,50,TXN1961
+2024-12-12,Groceries,1454,UPI,BigBasket order,December,12,Thursday,0,50,TXN1962
+2024-12-13,Food & Dining,1724,UPI,Zomato order,December,12,Friday,0,50,TXN1963
+2024-12-13,Transportation,275,Debit Card,Uber ride,December,12,Friday,0,50,TXN1964
+2024-12-13,Shopping,2678,UPI,Clothes shopping,December,12,Friday,0,50,TXN1965
+2024-12-13,Utilities,1114,UPI,Water bill,December,12,Friday,0,50,TXN1966
+2024-12-14,Utilities,2195,UPI,Internet bill,December,12,Saturday,1,50,TXN1967
+2024-12-14,Health,4746,UPI,Gym membership,December,12,Saturday,1,50,TXN1968
+2024-12-14,Shopping,6977,UPI,Clothes shopping,December,12,Saturday,1,50,TXN1969
+2024-12-14,Transportation,222,Credit Card,Metro card recharge,December,12,Saturday,1,50,TXN1970
+2024-12-14,Food & Dining,2454,UPI,Zomato order,December,12,Saturday,1,50,TXN1971
+2024-12-15,Food & Dining,2229,Debit Card,Zomato order,December,12,Sunday,1,50,TXN1972
+2024-12-15,Transportation,486,Credit Card,Uber ride,December,12,Sunday,1,50,TXN1973
+2024-12-15,Travel,14692,Debit Card,Train ticket,December,12,Sunday,1,50,TXN1974
+2024-12-16,Food & Dining,1979,UPI,Cafe coffee,December,12,Monday,0,51,TXN1975
+2024-12-16,Transportation,351,Debit Card,Bus ticket,December,12,Monday,0,51,TXN1976
+2024-12-16,Shopping,1608,Net Banking,Clothes shopping,December,12,Monday,0,51,TXN1977
+2024-12-17,Food & Dining,1600,UPI,Zomato order,December,12,Tuesday,0,51,TXN1978
+2024-12-17,Transportation,51,Debit Card,Auto rickshaw,December,12,Tuesday,0,51,TXN1979
+2024-12-17,Shopping,3239,Credit Card,Home decor,December,12,Tuesday,0,51,TXN1980
+2024-12-17,Utilities,2156,Debit Card,DTH recharge,December,12,Tuesday,0,51,TXN1981
+2024-12-18,Transportation,609,UPI,Metro card recharge,December,12,Wednesday,0,51,TXN1982
+2024-12-18,Utilities,1449,Debit Card,Gas cylinder,December,12,Wednesday,0,51,TXN1983
+2024-12-19,Health,3037,Credit Card,Gym membership,December,12,Thursday,0,51,TXN1984
+2024-12-19,Entertainment,927,UPI,Gaming,December,12,Thursday,0,51,TXN1985
+2024-12-19,Transportation,261,Credit Card,Uber ride,December,12,Thursday,0,51,TXN1986
+2024-12-19,Shopping,7360,Cash,Amazon purchase,December,12,Thursday,0,51,TXN1987
+2024-12-20,Food & Dining,1177,UPI,Cafe coffee,December,12,Friday,0,51,TXN1988
+2024-12-20,Transportation,109,UPI,Metro card recharge,December,12,Friday,0,51,TXN1989
+2024-12-20,Shopping,6160,Debit Card,Myntra order,December,12,Friday,0,51,TXN1990
+2024-12-20,Health,700,Credit Card,Gym membership,December,12,Friday,0,51,TXN1991
+2024-12-21,Food & Dining,2411,Credit Card,Zomato order,December,12,Saturday,1,51,TXN1992
+2024-12-21,Transportation,750,Debit Card,Metro card recharge,December,12,Saturday,1,51,TXN1993
+2024-12-21,Shopping,2154,Credit Card,Amazon purchase,December,12,Saturday,1,51,TXN1994
+2024-12-21,Entertainment,2150,UPI,Movie tickets,December,12,Saturday,1,51,TXN1995
+2024-12-22,Entertainment,768,Credit Card,Amazon Prime,December,12,Sunday,1,51,TXN1996
+2024-12-22,Food & Dining,3597,UPI,Zomato order,December,12,Sunday,1,51,TXN1997
+2024-12-22,Transportation,183,Credit Card,Petrol,December,12,Sunday,1,51,TXN1998
+2024-12-23,Utilities,2437,Cash,Electricity bill,December,12,Monday,0,52,TXN1999
+2024-12-23,Entertainment,695,UPI,Amazon Prime,December,12,Monday,0,52,TXN2000
+2024-12-23,Food & Dining,966,Debit Card,Restaurant dinner,December,12,Monday,0,52,TXN2001
+2024-12-23,Shopping,6916,Credit Card,Electronics,December,12,Monday,0,52,TXN2002
+2024-12-24,Food & Dining,1125,UPI,Restaurant dinner,December,12,Tuesday,0,52,TXN2003
+2024-12-24,Transportation,482,Debit Card,Petrol,December,12,Tuesday,0,52,TXN2004
+2024-12-24,Entertainment,614,Debit Card,Concert tickets,December,12,Tuesday,0,52,TXN2005
+2024-12-24,Utilities,583,UPI,Water bill,December,12,Tuesday,0,52,TXN2006
+2024-12-24,Groceries,1058,Debit Card,Vegetable market,December,12,Tuesday,0,52,TXN2007
+2024-12-25,Shopping,3845,UPI,Flipkart order,December,12,Wednesday,0,52,TXN2008
+2024-12-25,Entertainment,1937,Credit Card,Spotify premium,December,12,Wednesday,0,52,TXN2009
+2024-12-26,Food & Dining,1238,UPI,Lunch with friends,December,12,Thursday,0,52,TXN2010
+2024-12-26,Transportation,421,UPI,Uber ride,December,12,Thursday,0,52,TXN2011
+2024-12-26,Health,2291,Credit Card,Gym membership,December,12,Thursday,0,52,TXN2012
+2024-12-27,Health,1739,Debit Card,Gym membership,December,12,Friday,0,52,TXN2013
+2024-12-27,Groceries,3321,Debit Card,BigBasket order,December,12,Friday,0,52,TXN2014
+2024-12-27,Utilities,2393,Debit Card,Mobile recharge,December,12,Friday,0,52,TXN2015
+2024-12-27,Education,8450,UPI,Stationery,December,12,Friday,0,52,TXN2016
+2024-12-27,Shopping,906,Credit Card,Myntra order,December,12,Friday,0,52,TXN2017
+2024-12-27,Transportation,661,Credit Card,Uber ride,December,12,Friday,0,52,TXN2018
+2024-12-27,Food & Dining,2473,Cash,Lunch with friends,December,12,Friday,0,52,TXN2019
+2024-12-28,Food & Dining,3336,Credit Card,Swiggy delivery,December,12,Saturday,1,52,TXN2020
+2024-12-28,Transportation,654,Cash,Metro card recharge,December,12,Saturday,1,52,TXN2021
+2024-12-28,Shopping,4566,Debit Card,Myntra order,December,12,Saturday,1,52,TXN2022
+2024-12-28,Entertainment,3541,Debit Card,Amazon Prime,December,12,Saturday,1,52,TXN2023
+2024-12-28,Utilities,1237,UPI,Water bill,December,12,Saturday,1,52,TXN2024
+2024-12-28,Travel,13292,UPI,Holiday trip,December,12,Saturday,1,52,TXN2025
+2024-12-29,Food & Dining,2152,Credit Card,Cafe coffee,December,12,Sunday,1,52,TXN2026
+2024-12-29,Transportation,784,UPI,Uber ride,December,12,Sunday,1,52,TXN2027
+2024-12-29,Groceries,2897,Debit Card,BigBasket order,December,12,Sunday,1,52,TXN2028
+2024-12-30,Shopping,3610,UPI,Clothes shopping,December,12,Monday,0,1,TXN2029
+2024-12-30,Entertainment,1414,UPI,Spotify premium,December,12,Monday,0,1,TXN2030
+2024-12-30,Food & Dining,1015,UPI,Zomato order,December,12,Monday,0,1,TXN2031
+2024-12-30,Groceries,2821,Credit Card,D-Mart shopping,December,12,Monday,0,1,TXN2032
+2024-12-31,Transportation,668,UPI,Petrol,December,12,Tuesday,0,1,TXN2033
+2024-12-31,Education,1224,Debit Card,Coaching fees,December,12,Tuesday,0,1,TXN2034
