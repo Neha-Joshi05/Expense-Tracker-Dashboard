@@ -17,7 +17,7 @@
 
 ### 🏠 Home — KPI Metrics & Monthly Trend
 <p align="center">
-  <img src="images/dashboard_home.png" width="90%"/>
+  <img src="C:\Users\nehaj\OneDrive\图片\table.png" width="90%"/>
   <br/>
   <em>Total expense overview with monthly trend line chart</em>
 </p>
