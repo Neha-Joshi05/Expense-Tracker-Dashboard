@@ -16,50 +16,19 @@
 ## 🖥️ Dashboard Preview
 
 ### 🏠 Home — KPI Metrics & Monthly Trend
-<p align="center">
-  <img src="images/dashboard.png" width="90%"/>
-  <br/>
-  <em>Total expense overview with monthly trend line chart</em>
-</p>
-
----
+![Dashboard](images/dashboard.png)
 
 ### 📈 Monthly Expense Trend
-<p align="center">
-  <img src="images/monthly_trend.png" width="90%"/>
-  <br/>
-  <em>Month-by-month spending pattern across all 12 months of 2024</em>
-</p>
-
----
+![Trend](images/monthly_trend.png)
 
 ### 📊 Category-wise Spending
-<p align="center">
-  <img src="images/category_spending.png" width="90%"/>
-  <br/>
-  <em>Horizontal bar chart — Shopping leads total spend at ₹6L+</em>
-</p>
-
----
+![Category](images/category_spending.png)
 
 ### 🥧 Expense Distribution
-<p align="center">
-  <img src="images/pie_chart.png" width="90%"/>
-  <br/>
-  <em>Interactive pie chart — Shopping (24.8%) and Food & Dining (17.7%) are top categories</em>
-</p>
-
----
+![Pie](images/pie_chart.png)
 
 ### 💡 Insights & Transactions
-<p align="center">
-  <img src="images/table.png" width="90%"/>
-  <br/>
-  <em>AI-powered spending insights with filterable transaction table</em>
-</p>
-
----
-
+![Table](images/table.png)
 ## 🎯 Project Overview
 
 Managing personal finances is a challenge for millions of people.
